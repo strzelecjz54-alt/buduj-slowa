@@ -67,3 +67,18 @@ npm test
 Importer odczytuje wyłącznie numerowane wiersze z czterema językami w 15 modułach, pomijając końcowe uwagi i propozycje przyszłych tematów. Zachowuje ich treść i kolejność; odświeża data.js oraz CSV. Po zmianie zakresu danych trzeba dostosować testy i wersje plików offline. Nie uruchamiać importu innego słownika bez decyzji o migracji postępów.
 
 Wersję kursu 304 zwrotów sprawdzono w przeglądarce mobilnej: wszystkie 304 karty w 68 lekcjach, moduły w trzech językach, pełny końcowy quiz, postęp modułu, słownik, odsłuch bez objaśnień w nawiasach, reset starych punktów przy zachowaniu głośności i otwarcie kursu offline.
+
+## Znaczenia pojedynczych słów
+
+Wersja 13 pozwala dotykać słów na kartach nauki oraz w przeglądzie odpowiedzi po poprawnym rozwiązaniu pytania. Po sukcesie wracają wszystkie cztery opcje, w tym odrzucone; nie można już ponownie ich ocenić ani dostać kolejnych punktów. Podsumowanie całego quizu zawiera rozwijany przegląd wszystkich rozwiązanych pytań. Znaczenia nie są dostępne w trakcie odpowiadania. Każdy zwrot w przeglądzie ma osobne polskie tłumaczenie; słowo ma listę znaczeń i odsłuch. Pomoc działa offline i nie wysyła dotykanych słów do serwisu tłumaczącego.
+
+Słownik obejmuje wszystkie 1040 różnych słów występujących w obecnym kursie (399 RU, 316 EN, 325 DE), z rozpoznaniem wielu odmienionych form. Ogólne znaczenia mogą nie pasować do konkretnego zdania; pełne tłumaczenie zwrotu z kursu jest dostępne osobno. Dane pochodzą z WikDict/Wiktionary, z redakcją i doprecyzowaniem terminów budowlanych. Licencja danych i źródła: [WORD_DICTIONARY_LICENSE.md](WORD_DICTIONARY_LICENSE.md). Nieznane nowe słowo wyświetla uczciwy brak osobnego hasła, zamiast wymyślać tłumaczenie.
+
+Do odtworzenia danych słów służy `scripts/build-word-glossary.py`. To narzędzie jedynie do przygotowania danych; działająca aplikacja nie wymaga Pythona ani zewnętrznych słowników. Pobierz trzy SQLite wymienione w pliku licencji do osobnego katalogu poza repozytorium, zainstaluj build-only `pymorphy3==2.0.6` w `/tmp/buduj-word-build` lub na PYTHONPATH i uruchom:
+
+```sh
+python3 scripts/build-word-glossary.py --databases /tmp/wikdict
+npm test
+```
+
+`word-overrides.json` zawiera redagowane znaczenia, w tym konstrukcje gramatyczne, odmianę i specjalistyczne słownictwo. Builder odmawia ukończenia, jeśli nowy materiał zawiera słowa bez hasła. Testy sprawdzają pokrycie wszystkich słów kursu, kluczowe terminy, tokenizację i zgodność tłumaczeń całych zwrotów. Nie należy publikować pobranych baz SQLite ani katalogu pomocniczych pakietów Pythona.

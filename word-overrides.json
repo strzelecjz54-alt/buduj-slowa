@@ -1,0 +1,3085 @@
+{
+  "en": {
+    "a": {
+      "meanings": [
+        "rodzajnik nieokreślony; jakiś, jeden"
+      ],
+      "source": "edited"
+    },
+    "an": {
+      "meanings": [
+        "rodzajnik nieokreślony przed samogłoską"
+      ],
+      "source": "edited"
+    },
+    "can't": {
+      "meanings": [
+        "nie móc; nie potrafić"
+      ],
+      "source": "edited"
+    },
+    "crane": {
+      "meanings": [
+        "dźwig, żuraw (maszyna)",
+        "żuraw (ptak)"
+      ],
+      "source": "edited"
+    },
+    "don't": {
+      "meanings": [
+        "nie (przeczenie z czasownikiem)"
+      ],
+      "source": "edited"
+    },
+    "i'm": {
+      "meanings": [
+        "jestem"
+      ],
+      "source": "edited"
+    },
+    "it's": {
+      "meanings": [
+        "to jest; ono jest"
+      ],
+      "source": "edited"
+    },
+    "moving": {
+      "meanings": [
+        "poruszający się",
+        "wzruszający (o emocjach)"
+      ],
+      "source": "edited"
+    },
+    "slinger": {
+      "meanings": [
+        "hakowy; osoba podwieszająca ładunek"
+      ],
+      "source": "edited"
+    },
+    "the": {
+      "meanings": [
+        "rodzajnik określony; zwykle bez osobnego tłumaczenia"
+      ],
+      "source": "edited"
+    },
+    "there's": {
+      "meanings": [
+        "jest; znajduje się"
+      ],
+      "source": "edited"
+    },
+    "tie-down": {
+      "meanings": [
+        "do mocowania, zabezpieczania ładunku"
+      ],
+      "source": "edited"
+    },
+    "we've": {
+      "meanings": [
+        "my + have jako czasownik pomocniczy, np. we've lost — straciliśmy"
+      ],
+      "source": "edited"
+    },
+    "webbing": {
+      "meanings": [
+        "taśma tkana; pas materiałowy"
+      ],
+      "source": "edited"
+    },
+    "high-visibility": {
+      "meanings": [
+        "odblaskowy",
+        "dobrze widoczny"
+      ],
+      "source": "edited"
+    },
+    "retract": {
+      "meanings": [
+        "wsunąć",
+        "cofnąć (np. wysięgnik)"
+      ],
+      "source": "edited"
+    },
+    "are": {
+      "meanings": [
+        "jesteś",
+        "jesteśmy",
+        "jesteście",
+        "są (forma be — być)"
+      ],
+      "source": "edited"
+    },
+    "is": {
+      "meanings": [
+        "jest (forma be — być)"
+      ],
+      "source": "edited"
+    },
+    "do": {
+      "meanings": [
+        "robić",
+        "czasownik pomocniczy w pytaniach i przeczeniach"
+      ],
+      "source": "edited"
+    },
+    "does": {
+      "meanings": [
+        "robić",
+        "czasownik pomocniczy w pytaniach i przeczeniach"
+      ],
+      "source": "edited"
+    },
+    "blocks": {
+      "meanings": [
+        "podkłady",
+        "bloki",
+        "klocki"
+      ],
+      "source": "edited"
+    },
+    "behind": {
+      "meanings": [
+        "za",
+        "z tyłu"
+      ],
+      "source": "edited"
+    },
+    "boom": {
+      "meanings": [
+        "wysięgnik dźwigu",
+        "huk",
+        "gwałtowny wzrost (w innym kontekście)"
+      ],
+      "source": "edited"
+    },
+    "breaker": {
+      "meanings": [
+        "wyłącznik nadprądowy",
+        "urządzenie łamiące lub rozdrabniające"
+      ],
+      "source": "edited"
+    },
+    "cab": {
+      "meanings": [
+        "kabina pojazdu",
+        "taksówka (w innym kontekście)"
+      ],
+      "source": "edited"
+    },
+    "capacity": {
+      "meanings": [
+        "udźwig",
+        "pojemność",
+        "zdolność"
+      ],
+      "source": "edited"
+    },
+    "caught": {
+      "meanings": [
+        "zaczepiony",
+        "uwięziony",
+        "złapany (forma catch)"
+      ],
+      "source": "edited"
+    },
+    "chart": {
+      "meanings": [
+        "tabela",
+        "wykres",
+        "mapa"
+      ],
+      "source": "edited"
+    },
+    "check": {
+      "meanings": [
+        "sprawdzić",
+        "kontrola",
+        "rachunek"
+      ],
+      "source": "edited"
+    },
+    "clear": {
+      "meanings": [
+        "wolny",
+        "nieblokowany",
+        "jasny",
+        "zrozumiały"
+      ],
+      "source": "edited"
+    },
+    "connecting": {
+      "meanings": [
+        "łączący"
+      ],
+      "source": "edited"
+    },
+    "curtain": {
+      "meanings": [
+        "kurtyna",
+        "zasłona",
+        "plandeka boczna (side curtain)"
+      ],
+      "source": "edited"
+    },
+    "detach": {
+      "meanings": [
+        "odłączyć",
+        "odpiąć"
+      ],
+      "source": "edited"
+    },
+    "down": {
+      "meanings": [
+        "w dół",
+        "na dół",
+        "puch (inne znaczenie rzeczownikowe)"
+      ],
+      "source": "edited"
+    },
+    "drive": {
+      "meanings": [
+        "jechać",
+        "prowadzić pojazd",
+        "napędzać"
+      ],
+      "source": "edited"
+    },
+    "earthing": {
+      "meanings": [
+        "uziemienie"
+      ],
+      "source": "edited"
+    },
+    "faster": {
+      "meanings": [
+        "szybciej"
+      ],
+      "source": "edited"
+    },
+    "finished": {
+      "meanings": [
+        "skończony",
+        "gotowy"
+      ],
+      "source": "edited"
+    },
+    "fit": {
+      "meanings": [
+        "założyć",
+        "zamontować",
+        "pasować",
+        "dopasować"
+      ],
+      "source": "edited"
+    },
+    "forks": {
+      "meanings": [
+        "widły",
+        "widelce",
+        "rozwidlenia"
+      ],
+      "source": "edited"
+    },
+    "giving": {
+      "meanings": [
+        "dawanie",
+        "podający (forma give)"
+      ],
+      "source": "edited"
+    },
+    "going": {
+      "meanings": [
+        "idący",
+        "jadący",
+        "odbywający się (forma go)"
+      ],
+      "source": "edited"
+    },
+    "hands": {
+      "meanings": [
+        "ręce",
+        "dłonie",
+        "wskazówki zegara"
+      ],
+      "source": "edited"
+    },
+    "hat": {
+      "meanings": [
+        "kapelusz",
+        "nakrycie głowy",
+        "kask w wyrażeniu hard hat"
+      ],
+      "source": "edited"
+    },
+    "it": {
+      "meanings": [
+        "to",
+        "ono (zaimek)"
+      ],
+      "source": "edited"
+    },
+    "keep": {
+      "meanings": [
+        "zachować",
+        "utrzymać",
+        "kontynuować (np. keep going)"
+      ],
+      "source": "edited"
+    },
+    "later": {
+      "meanings": [
+        "później"
+      ],
+      "source": "edited"
+    },
+    "lead": {
+      "meanings": [
+        "przewód (np. extension lead)",
+        "prowadzić",
+        "ołów (inna wymowa)"
+      ],
+      "source": "edited"
+    },
+    "left": {
+      "meanings": [
+        "lewo",
+        "lewy",
+        "pozostawiony (forma leave)"
+      ],
+      "source": "edited"
+    },
+    "lift": {
+      "meanings": [
+        "podnieść",
+        "podnosić",
+        "winda",
+        "podniesienie"
+      ],
+      "source": "edited"
+    },
+    "lifting": {
+      "meanings": [
+        "podnoszenie",
+        "do podnoszenia"
+      ],
+      "source": "edited"
+    },
+    "lines": {
+      "meanings": [
+        "linie",
+        "przewody",
+        "liny"
+      ],
+      "source": "edited"
+    },
+    "line": {
+      "meanings": [
+        "linie",
+        "przewody",
+        "liny"
+      ],
+      "source": "edited"
+    },
+    "lower": {
+      "meanings": [
+        "opuścić",
+        "obniżyć",
+        "niższy",
+        "dolny"
+      ],
+      "source": "edited"
+    },
+    "nut": {
+      "meanings": [
+        "nakrętka",
+        "orzech"
+      ],
+      "source": "edited"
+    },
+    "of": {
+      "meanings": [
+        "przyimek określający przynależność lub związek",
+        "z",
+        "spośród"
+      ],
+      "source": "edited"
+    },
+    "o'clock": {
+      "meanings": [
+        "o godzinie… (przy pełnych godzinach)"
+      ],
+      "source": "edited"
+    },
+    "off": {
+      "meanings": [
+        "wyłączony",
+        "z dala",
+        "oddzielony",
+        "cząstka czasowników, np. turn off — wyłączyć"
+      ],
+      "source": "edited"
+    },
+    "out": {
+      "meanings": [
+        "na zewnątrz",
+        "poza",
+        "cząstka czasowników, np. get out — wysiąść"
+      ],
+      "source": "edited"
+    },
+    "outrigger": {
+      "meanings": [
+        "podpora lub podpory wysuwane dźwigu",
+        "wysięgnik boczny (w innym kontekście)"
+      ],
+      "source": "edited"
+    },
+    "outriggers": {
+      "meanings": [
+        "podpora lub podpory wysuwane dźwigu",
+        "wysięgnik boczny (w innym kontekście)"
+      ],
+      "source": "edited"
+    },
+    "overhead": {
+      "meanings": [
+        "nad głową",
+        "nad nami",
+        "ogólny koszt pośredni (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "pads": {
+      "meanings": [
+        "płyty lub podkładki (np. pod podpory)",
+        "poduszki",
+        "ochraniacze"
+      ],
+      "source": "edited"
+    },
+    "pin": {
+      "meanings": [
+        "sworzeń",
+        "bolec",
+        "szpilka",
+        "styk elektryczny"
+      ],
+      "source": "edited"
+    },
+    "points": {
+      "meanings": [
+        "punkty",
+        "rozjazdy kolejowe (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "power": {
+      "meanings": [
+        "zasilanie",
+        "prąd",
+        "moc",
+        "siła",
+        "władza"
+      ],
+      "source": "edited"
+    },
+    "raise": {
+      "meanings": [
+        "podnieść",
+        "podnosić",
+        "zwiększyć"
+      ],
+      "source": "edited"
+    },
+    "reverse": {
+      "meanings": [
+        "cofać",
+        "jechać do tyłu",
+        "odwrotny"
+      ],
+      "source": "edited"
+    },
+    "room": {
+      "meanings": [
+        "miejsce",
+        "przestrzeń",
+        "pokój",
+        "pomieszczenie"
+      ],
+      "source": "edited"
+    },
+    "secure": {
+      "meanings": [
+        "zabezpieczyć",
+        "przymocować",
+        "bezpieczny"
+      ],
+      "source": "edited"
+    },
+    "secured": {
+      "meanings": [
+        "zabezpieczony",
+        "przymocowany"
+      ],
+      "source": "edited"
+    },
+    "set": {
+      "meanings": [
+        "ustawić",
+        "położyć",
+        "zestaw",
+        "komplet"
+      ],
+      "source": "edited"
+    },
+    "sideboard": {
+      "meanings": [
+        "burta pojazdu",
+        "kredens (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "signaller": {
+      "meanings": [
+        "sygnalista",
+        "osoba dająca sygnały"
+      ],
+      "source": "edited"
+    },
+    "sinking": {
+      "meanings": [
+        "zapadanie się",
+        "tonięcie"
+      ],
+      "source": "edited"
+    },
+    "slew": {
+      "meanings": [
+        "obracać (np. nadwozie dźwigu)",
+        "obrót"
+      ],
+      "source": "edited"
+    },
+    "sliding": {
+      "meanings": [
+        "przesuwny",
+        "ślizgający się"
+      ],
+      "source": "edited"
+    },
+    "sling": {
+      "meanings": [
+        "zawiesie",
+        "podwiesić za pomocą zawiesi",
+        "temblak",
+        "proca (inne znaczenia)"
+      ],
+      "source": "edited"
+    },
+    "slings": {
+      "meanings": [
+        "zawiesia",
+        "temblaki",
+        "proce (inne znaczenia)"
+      ],
+      "source": "edited"
+    },
+    "split": {
+      "meanings": [
+        "rozcięty",
+        "rozdwojony",
+        "rozszczepić",
+        "rozdzielić"
+      ],
+      "source": "edited"
+    },
+    "stable": {
+      "meanings": [
+        "stabilny",
+        "stajnia (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "straight": {
+      "meanings": [
+        "prosto",
+        "prosty"
+      ],
+      "source": "edited"
+    },
+    "suspended": {
+      "meanings": [
+        "podwieszony",
+        "wiszący",
+        "zawieszony",
+        "wstrzymany"
+      ],
+      "source": "edited"
+    },
+    "swinging": {
+      "meanings": [
+        "kołysanie się",
+        "kołyszący się"
+      ],
+      "source": "edited"
+    },
+    "tag": {
+      "meanings": [
+        "kierować za pomocą liny w wyrażeniu tag line",
+        "etykieta",
+        "metka"
+      ],
+      "source": "edited"
+    },
+    "that": {
+      "meanings": [
+        "tamten",
+        "to",
+        "że (spójnik)"
+      ],
+      "source": "edited"
+    },
+    "tighten": {
+      "meanings": [
+        "dokręcić",
+        "napiąć",
+        "zacieśnić"
+      ],
+      "source": "edited"
+    },
+    "tilting": {
+      "meanings": [
+        "przechylanie się",
+        "przechylający się"
+      ],
+      "source": "edited"
+    },
+    "to": {
+      "meanings": [
+        "do",
+        "w kierunku",
+        "znacznik bezokolicznika, np. to drive — jechać"
+      ],
+      "source": "edited"
+    },
+    "tools": {
+      "meanings": [
+        "narzędzia",
+        "przybory"
+      ],
+      "source": "edited"
+    },
+    "tripped": {
+      "meanings": [
+        "zadziałał",
+        "wyłączył się (o zabezpieczeniu)",
+        "potknął się (forma trip)"
+      ],
+      "source": "edited"
+    },
+    "vest": {
+      "meanings": [
+        "kamizelka",
+        "podkoszulek (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "what": {
+      "meanings": [
+        "co",
+        "jaki",
+        "jaka",
+        "jakie"
+      ],
+      "source": "edited"
+    },
+    "will": {
+      "meanings": [
+        "czasownik pomocniczy przyszłości, np. will arrive — przyjedzie",
+        "wola (rzeczownik)"
+      ],
+      "source": "edited"
+    },
+    "watch": {
+      "meanings": [
+        "uważać",
+        "obserwować",
+        "zegarek"
+      ],
+      "source": "edited"
+    },
+    "bed": {
+      "meanings": [
+        "powierzchnia ładunkowa w load bed",
+        "łóżko",
+        "koryto"
+      ],
+      "source": "edited"
+    },
+    "back": {
+      "meanings": [
+        "do tyłu",
+        "z powrotem",
+        "tył",
+        "plecy"
+      ],
+      "source": "edited"
+    },
+    "forklift": {
+      "meanings": [
+        "wózek widłowy"
+      ],
+      "source": "edited"
+    },
+    "spirit": {
+      "meanings": [
+        "duch",
+        "dusza",
+        "spirytus (w spirit level całość oznacza poziomnicę)"
+      ],
+      "source": "edited"
+    },
+    "straps": {
+      "meanings": [
+        "pas transportowy",
+        "pasek",
+        "ramiączko"
+      ],
+      "source": "edited"
+    },
+    "strap": {
+      "meanings": [
+        "pas transportowy",
+        "pasek",
+        "ramiączko"
+      ],
+      "source": "edited"
+    },
+    "storage": {
+      "meanings": [
+        "składowanie",
+        "przechowywanie"
+      ],
+      "source": "edited"
+    },
+    "rated": {
+      "meanings": [
+        "znamionowy",
+        "dopuszczalny (o parametrach)"
+      ],
+      "source": "edited"
+    },
+    "won't": {
+      "meanings": [
+        "nie będzie",
+        "nie zrobi (skrót od will not)"
+      ],
+      "source": "edited"
+    },
+    "you": {
+      "meanings": [
+        "ty",
+        "wy",
+        "Pan",
+        "Pani",
+        "Państwo"
+      ],
+      "source": "edited"
+    }
+  },
+  "de": {
+    "das": {
+      "meanings": [
+        "rodzajnik nijaki",
+        "to; ten (zależnie od zdania)"
+      ],
+      "source": "edited"
+    },
+    "dem": {
+      "meanings": [
+        "odmieniona forma rodzajnika w celowniku"
+      ],
+      "source": "edited"
+    },
+    "den": {
+      "meanings": [
+        "odmieniona forma rodzajnika, np. biernik rodzaju męskiego"
+      ],
+      "source": "edited"
+    },
+    "der": {
+      "meanings": [
+        "rodzajnik męski; także odmieniona forma innych rodzajników"
+      ],
+      "source": "edited"
+    },
+    "die": {
+      "meanings": [
+        "rodzajnik żeński lub liczby mnogiej"
+      ],
+      "source": "edited"
+    },
+    "ein": {
+      "meanings": [
+        "rodzajnik nieokreślony",
+        "jeden",
+        "cząstka czasowników, np. einstecken — włożyć wtyczkę"
+      ],
+      "source": "edited"
+    },
+    "einen": {
+      "meanings": [
+        "odmieniona forma ein, np. biernik rodzaju męskiego"
+      ],
+      "source": "edited"
+    },
+    "hoch": {
+      "meanings": [
+        "do góry; wysoko",
+        "wysoki"
+      ],
+      "source": "edited"
+    },
+    "hände": {
+      "meanings": [
+        "ręce; dłonie (liczba mnoga od Hand)"
+      ],
+      "source": "edited"
+    },
+    "ist": {
+      "meanings": [
+        "jest (od sein — być)"
+      ],
+      "source": "edited"
+    },
+    "kran": {
+      "meanings": [
+        "dźwig, żuraw (maszyna)"
+      ],
+      "source": "edited"
+    },
+    "last": {
+      "meanings": [
+        "ładunek podnoszony",
+        "ciężar; obciążenie"
+      ],
+      "source": "edited"
+    },
+    "lkw": {
+      "meanings": [
+        "ciężarówka (skrót od Lastkraftwagen)"
+      ],
+      "source": "edited"
+    },
+    "los": {
+      "meanings": [
+        "ruszanie, początek ruchu (w losfahren)",
+        "luźny, wolny (w innych kontekstach)"
+      ],
+      "source": "edited"
+    },
+    "runter": {
+      "meanings": [
+        "w dół; na dół"
+      ],
+      "source": "edited"
+    },
+    "räder": {
+      "meanings": [
+        "koła (liczba mnoga od Rad)"
+      ],
+      "source": "edited"
+    },
+    "sie": {
+      "meanings": [
+        "Pan, Pani, Państwo (forma grzecznościowa Sie)",
+        "ona; oni; one; ją; ich (pisane małą literą)"
+      ],
+      "source": "edited"
+    },
+    "sind": {
+      "meanings": [
+        "są; jesteśmy; jest Pan/Pani (od sein)"
+      ],
+      "source": "edited"
+    },
+    "abstützungen": {
+      "meanings": [
+        "podpory (liczba mnoga)"
+      ],
+      "source": "edited"
+    },
+    "anschlagkette": {
+      "meanings": [
+        "zawiesie łańcuchowe"
+      ],
+      "source": "edited"
+    },
+    "anschlagmittel": {
+      "meanings": [
+        "zawiesie",
+        "osprzęt do podwieszania"
+      ],
+      "source": "edited"
+    },
+    "anschlagpunkt": {
+      "meanings": [
+        "punkt podnoszenia",
+        "punkt zaczepienia zawiesia"
+      ],
+      "source": "edited"
+    },
+    "anschlagpunkte": {
+      "meanings": [
+        "punkty podnoszenia"
+      ],
+      "source": "edited"
+    },
+    "anschläger": {
+      "meanings": [
+        "hakowy",
+        "osoba podwieszająca ładunek"
+      ],
+      "source": "edited"
+    },
+    "auslegerlänge": {
+      "meanings": [
+        "długość wysięgnika"
+      ],
+      "source": "edited"
+    },
+    "baustromverteiler": {
+      "meanings": [
+        "rozdzielnica budowlana"
+      ],
+      "source": "edited"
+    },
+    "beladung": {
+      "meanings": [
+        "załadunek"
+      ],
+      "source": "edited"
+    },
+    "bordwand": {
+      "meanings": [
+        "burta"
+      ],
+      "source": "edited"
+    },
+    "dauert": {
+      "meanings": [
+        "trwa (forma dauern)"
+      ],
+      "source": "edited"
+    },
+    "einer": {
+      "meanings": [
+        "odmieniona forma eine lub ein",
+        "jeden",
+        "pewien (zależnie od zdania)"
+      ],
+      "source": "edited"
+    },
+    "einweiser": {
+      "meanings": [
+        "sygnalista",
+        "osoba naprowadzająca"
+      ],
+      "source": "edited"
+    },
+    "entladeplatz": {
+      "meanings": [
+        "miejsce rozładunku"
+      ],
+      "source": "edited"
+    },
+    "funkkontakt": {
+      "meanings": [
+        "łączność radiowa"
+      ],
+      "source": "edited"
+    },
+    "führungsseil": {
+      "meanings": [
+        "lina do kierowania ładunkiem"
+      ],
+      "source": "edited"
+    },
+    "gefahrenbereich": {
+      "meanings": [
+        "strefa niebezpieczna"
+      ],
+      "source": "edited"
+    },
+    "hebeband": {
+      "meanings": [
+        "zawiesie pasowe"
+      ],
+      "source": "edited"
+    },
+    "kraftstoffstand": {
+      "meanings": [
+        "poziom paliwa"
+      ],
+      "source": "edited"
+    },
+    "krankonfiguration": {
+      "meanings": [
+        "konfiguracja dźwigu"
+      ],
+      "source": "edited"
+    },
+    "ladefläche": {
+      "meanings": [
+        "powierzchnia ładunkowa"
+      ],
+      "source": "edited"
+    },
+    "ladeplatz": {
+      "meanings": [
+        "miejsce załadunku"
+      ],
+      "source": "edited"
+    },
+    "ladungssicherung": {
+      "meanings": [
+        "zabezpieczenie ładunku"
+      ],
+      "source": "edited"
+    },
+    "lagerplatz": {
+      "meanings": [
+        "miejsce składowania"
+      ],
+      "source": "edited"
+    },
+    "langsamer": {
+      "meanings": [
+        "wolniej",
+        "powolniejszy"
+      ],
+      "source": "edited"
+    },
+    "mobilkran": {
+      "meanings": [
+        "żuraw mobilny"
+      ],
+      "source": "edited"
+    },
+    "schneller": {
+      "meanings": [
+        "szybciej",
+        "szybszy"
+      ],
+      "source": "edited"
+    },
+    "schwebende": {
+      "meanings": [
+        "wiszący",
+        "unoszący się"
+      ],
+      "source": "edited"
+    },
+    "seitenplane": {
+      "meanings": [
+        "plandeka boczna"
+      ],
+      "source": "edited"
+    },
+    "splint": {
+      "meanings": [
+        "zawleczka"
+      ],
+      "source": "edited"
+    },
+    "starker": {
+      "meanings": [
+        "silny",
+        "mocny (odmieniona forma stark)"
+      ],
+      "source": "edited"
+    },
+    "traglasttabelle": {
+      "meanings": [
+        "tabela udźwigów"
+      ],
+      "source": "edited"
+    },
+    "unterleghölzer": {
+      "meanings": [
+        "podkłady drewniane"
+      ],
+      "source": "edited"
+    },
+    "unterlegkeil": {
+      "meanings": [
+        "klin pod koło"
+      ],
+      "source": "edited"
+    },
+    "unterlegkeile": {
+      "meanings": [
+        "kliny pod koła"
+      ],
+      "source": "edited"
+    },
+    "unterlegplatten": {
+      "meanings": [
+        "płyty pod podpory"
+      ],
+      "source": "edited"
+    },
+    "welchem": {
+      "meanings": [
+        "którym",
+        "jakim (odmieniona forma welcher)"
+      ],
+      "source": "edited"
+    },
+    "zurrgurt": {
+      "meanings": [
+        "pas transportowy"
+      ],
+      "source": "edited"
+    },
+    "zurrgurte": {
+      "meanings": [
+        "pasy transportowe"
+      ],
+      "source": "edited"
+    },
+    "ölstand": {
+      "meanings": [
+        "poziom oleju"
+      ],
+      "source": "edited"
+    },
+    "anderen": {
+      "meanings": [
+        "inny",
+        "drugi (odmieniona forma andere)"
+      ],
+      "source": "edited"
+    },
+    "ausladung": {
+      "meanings": [
+        "wysięg dźwigu",
+        "odległość pozioma od osi obrotu do ładunku"
+      ],
+      "source": "edited"
+    },
+    "bin": {
+      "meanings": [
+        "jestem (forma sein — być)"
+      ],
+      "source": "edited"
+    },
+    "brauche": {
+      "meanings": [
+        "potrzebuję (forma brauchen)"
+      ],
+      "source": "edited"
+    },
+    "diese": {
+      "meanings": [
+        "ten",
+        "ta",
+        "to",
+        "ci",
+        "te (forma wskazująca)"
+      ],
+      "source": "edited"
+    },
+    "einfahrt": {
+      "meanings": [
+        "wjazd"
+      ],
+      "source": "edited"
+    },
+    "entladung": {
+      "meanings": [
+        "rozładunek",
+        "wyładowanie elektryczne"
+      ],
+      "source": "edited"
+    },
+    "fangen": {
+      "meanings": [
+        "łapać",
+        "w fangen … an: zaczynać"
+      ],
+      "source": "edited"
+    },
+    "fest": {
+      "meanings": [
+        "mocno",
+        "solidnie",
+        "stały",
+        "trwały",
+        "święto (rzeczownik Fest)"
+      ],
+      "source": "edited"
+    },
+    "gabeln": {
+      "meanings": [
+        "widły",
+        "widelce"
+      ],
+      "source": "edited"
+    },
+    "halten": {
+      "meanings": [
+        "zatrzymać",
+        "trzymać",
+        "utrzymać"
+      ],
+      "source": "edited"
+    },
+    "heran": {
+      "meanings": [
+        "bliżej",
+        "w kierunku czegoś"
+      ],
+      "source": "edited"
+    },
+    "hinteren": {
+      "meanings": [
+        "tylny (odmieniona forma hintere)"
+      ],
+      "source": "edited"
+    },
+    "ich": {
+      "meanings": [
+        "ja"
+      ],
+      "source": "edited"
+    },
+    "ihre": {
+      "meanings": [
+        "Pański",
+        "Pani",
+        "Państwa (pisane Ihre/Ihren)",
+        "jej",
+        "ich (pisane małą literą)"
+      ],
+      "source": "edited"
+    },
+    "ihren": {
+      "meanings": [
+        "Pański",
+        "Pani",
+        "Państwa (pisane Ihre/Ihren)",
+        "jej",
+        "ich (pisane małą literą)"
+      ],
+      "source": "edited"
+    },
+    "kippt": {
+      "meanings": [
+        "przechyla się",
+        "przewraca się (forma kippen)"
+      ],
+      "source": "edited"
+    },
+    "langsam": {
+      "meanings": [
+        "powoli",
+        "powolny"
+      ],
+      "source": "edited"
+    },
+    "lockern": {
+      "meanings": [
+        "poluzować",
+        "spulchnić"
+      ],
+      "source": "edited"
+    },
+    "lösen": {
+      "meanings": [
+        "poluzować",
+        "odpiąć",
+        "rozwiązać",
+        "rozpuścić"
+      ],
+      "source": "edited"
+    },
+    "muss": {
+      "meanings": [
+        "muszę",
+        "musi (forma müssen)"
+      ],
+      "source": "edited"
+    },
+    "mutter": {
+      "meanings": [
+        "nakrętka",
+        "matka"
+      ],
+      "source": "edited"
+    },
+    "nach": {
+      "meanings": [
+        "w kierunku",
+        "do",
+        "po"
+      ],
+      "source": "edited"
+    },
+    "näher": {
+      "meanings": [
+        "bliżej"
+      ],
+      "source": "edited"
+    },
+    "rein": {
+      "meanings": [
+        "do środka (potocznie herein lub hinein)",
+        "czysty (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "raus": {
+      "meanings": [
+        "na zewnątrz",
+        "wyłączone",
+        "wybite (w die Sicherung ist raus)"
+      ],
+      "source": "edited"
+    },
+    "räumen": {
+      "meanings": [
+        "uprzątnąć",
+        "usunąć",
+        "opróżnić"
+      ],
+      "source": "edited"
+    },
+    "schlagen": {
+      "meanings": [
+        "uderzać",
+        "bić",
+        "w schlagen … an: podwieszać ładunek"
+      ],
+      "source": "edited"
+    },
+    "schwenken": {
+      "meanings": [
+        "obracać",
+        "wykonywać obrót",
+        "wymachiwać"
+      ],
+      "source": "edited"
+    },
+    "sinkt": {
+      "meanings": [
+        "zapada się",
+        "tonie",
+        "opada (forma sinken)"
+      ],
+      "source": "edited"
+    },
+    "soll": {
+      "meanings": [
+        "mam",
+        "powinienem",
+        "powinien (forma sollen)"
+      ],
+      "source": "edited"
+    },
+    "springt": {
+      "meanings": [
+        "skacze",
+        "w springt … an: uruchamia się, odpala"
+      ],
+      "source": "edited"
+    },
+    "steigen": {
+      "meanings": [
+        "wchodzić",
+        "wznosić się"
+      ],
+      "source": "edited"
+    },
+    "stellen": {
+      "meanings": [
+        "ustawić",
+        "postawić"
+      ],
+      "source": "edited"
+    },
+    "stützen": {
+      "meanings": [
+        "podpory",
+        "podpierać",
+        "wspierać"
+      ],
+      "source": "edited"
+    },
+    "träger": {
+      "meanings": [
+        "belka",
+        "dźwigar",
+        "nośnik",
+        "nosiciel"
+      ],
+      "source": "edited"
+    },
+    "unterlagen": {
+      "meanings": [
+        "podkłady (np. pod ładunek)",
+        "dokumenty (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "warte": {
+      "meanings": [
+        "czekam (forma warten)"
+      ],
+      "source": "edited"
+    },
+    "weg": {
+      "meanings": [
+        "precz",
+        "z dala",
+        "droga (rzeczownik Weg)"
+      ],
+      "source": "edited"
+    },
+    "weit": {
+      "meanings": [
+        "daleko",
+        "odległy",
+        "szeroki"
+      ],
+      "source": "edited"
+    },
+    "zu": {
+      "meanings": [
+        "do",
+        "zbyt",
+        "zamknięty (np. zu machen)"
+      ],
+      "source": "edited"
+    },
+    "an": {
+      "meanings": [
+        "przy",
+        "na",
+        "włączony",
+        "cząstka czasowników rozdzielnie złożonych"
+      ],
+      "source": "edited"
+    },
+    "aus": {
+      "meanings": [
+        "z",
+        "ze środka",
+        "wyłączony",
+        "cząstka czasowników rozdzielnie złożonych"
+      ],
+      "source": "edited"
+    },
+    "um": {
+      "meanings": [
+        "o (godzinie)",
+        "wokół",
+        "aby"
+      ],
+      "source": "edited"
+    },
+    "bolzen": {
+      "meanings": [
+        "sworzeń",
+        "bolec",
+        "śruba (zależnie od konstrukcji)"
+      ],
+      "source": "edited"
+    },
+    "ladung": {
+      "meanings": [
+        "ładunek przewożony",
+        "wezwanie (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "gibt": {
+      "meanings": [
+        "daje",
+        "w es gibt: jest, istnieje"
+      ],
+      "source": "edited"
+    },
+    "sicher": {
+      "meanings": [
+        "stabilnie",
+        "bezpiecznie",
+        "pewny"
+      ],
+      "source": "edited"
+    },
+    "setzen": {
+      "meanings": [
+        "ustawić",
+        "położyć",
+        "sadzić",
+        "sadzać"
+      ],
+      "source": "edited"
+    },
+    "schraubenschlüssel": {
+      "meanings": [
+        "klucz do śrub"
+      ],
+      "source": "edited"
+    },
+    "maßband": {
+      "meanings": [
+        "miarka",
+        "taśma miernicza"
+      ],
+      "source": "edited"
+    },
+    "uhrzeit": {
+      "meanings": [
+        "godzina",
+        "pora"
+      ],
+      "source": "edited"
+    },
+    "vorsichtig": {
+      "meanings": [
+        "ostrożnie",
+        "ostrożny"
+      ],
+      "source": "edited"
+    },
+    "waagerecht": {
+      "meanings": [
+        "poziomo",
+        "poziomy"
+      ],
+      "source": "edited"
+    },
+    "öffnen": {
+      "meanings": [
+        "otworzyć",
+        "otwierać"
+      ],
+      "source": "edited"
+    }
+  },
+  "ru": {
+    "вы": {
+      "meanings": [
+        "Pan, Pani, Państwo (grzecznościowo)",
+        "wy"
+      ],
+      "source": "edited"
+    },
+    "деталь": {
+      "meanings": [
+        "element; część",
+        "szczegół"
+      ],
+      "source": "edited"
+    },
+    "за": {
+      "meanings": [
+        "za",
+        "przez; w ciągu (zależnie od zdania)"
+      ],
+      "source": "edited"
+    },
+    "кран": {
+      "meanings": [
+        "dźwig, żuraw (maszyna)",
+        "kran; zawór (w innym kontekście)"
+      ],
+      "source": "edited"
+    },
+    "на": {
+      "meanings": [
+        "na",
+        "do (zależnie od konstrukcji)"
+      ],
+      "source": "edited"
+    },
+    "по": {
+      "meanings": [
+        "po; według; wzdłuż (zależnie od konstrukcji)"
+      ],
+      "source": "edited"
+    },
+    "пожалуйста": {
+      "meanings": [
+        "proszę (grzecznościowo)",
+        "nie ma za co (w odpowiedzi)"
+      ],
+      "source": "edited"
+    },
+    "сейчас": {
+      "meanings": [
+        "teraz",
+        "zaraz; za chwilę"
+      ],
+      "source": "edited"
+    },
+    "строп": {
+      "meanings": [
+        "zawiesie do podnoszenia"
+      ],
+      "source": "edited"
+    },
+    "стропы": {
+      "meanings": [
+        "zawiesia do podnoszenia"
+      ],
+      "source": "edited"
+    },
+    "вилочный": {
+      "meanings": [
+        "widłowy"
+      ],
+      "source": "edited"
+    },
+    "влево": {
+      "meanings": [
+        "w lewo"
+      ],
+      "source": "edited"
+    },
+    "вылет": {
+      "meanings": [
+        "wysięg",
+        "wylot (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "выносные": {
+      "meanings": [
+        "wysuwane",
+        "wystające"
+      ],
+      "source": "edited"
+    },
+    "выровняйте": {
+      "meanings": [
+        "proszę wyrównać",
+        "wypoziomować"
+      ],
+      "source": "edited"
+    },
+    "гаечный": {
+      "meanings": [
+        "do nakrętek lub śrub"
+      ],
+      "source": "edited"
+    },
+    "горизонтали": {
+      "meanings": [
+        "poziom (w konstrukcji по горизонтали — poziomo)"
+      ],
+      "source": "edited"
+    },
+    "дизельное": {
+      "meanings": [
+        "dieslowski",
+        "do silnika Diesla"
+      ],
+      "source": "edited"
+    },
+    "застропите": {
+      "meanings": [
+        "proszę podwiesić za pomocą zawiesi"
+      ],
+      "source": "edited"
+    },
+    "зафиксируйте": {
+      "meanings": [
+        "proszę zabezpieczyć",
+        "unieruchomić"
+      ],
+      "source": "edited"
+    },
+    "измерьте": {
+      "meanings": [
+        "proszę zmierzyć"
+      ],
+      "source": "edited"
+    },
+    "ленточный": {
+      "meanings": [
+        "pasowy",
+        "taśmowy"
+      ],
+      "source": "edited"
+    },
+    "отцепите": {
+      "meanings": [
+        "proszę odpiąć",
+        "odczepić"
+      ],
+      "source": "edited"
+    },
+    "отцепляйте": {
+      "meanings": [
+        "proszę odpinać",
+        "odczepiać"
+      ],
+      "source": "edited"
+    },
+    "переместите": {
+      "meanings": [
+        "proszę przemieścić",
+        "przesunąć"
+      ],
+      "source": "edited"
+    },
+    "погрузите": {
+      "meanings": [
+        "proszę załadować"
+      ],
+      "source": "edited"
+    },
+    "погрузка": {
+      "meanings": [
+        "załadunek"
+      ],
+      "source": "edited"
+    },
+    "погрузки": {
+      "meanings": [
+        "załadunek"
+      ],
+      "source": "edited"
+    },
+    "погрузку": {
+      "meanings": [
+        "załadunek"
+      ],
+      "source": "edited"
+    },
+    "подвешенный": {
+      "meanings": [
+        "podwieszony",
+        "zawieszony"
+      ],
+      "source": "edited"
+    },
+    "подъезжайте": {
+      "meanings": [
+        "proszę podjechać",
+        "podjeżdżać"
+      ],
+      "source": "edited"
+    },
+    "полметра": {
+      "meanings": [
+        "pół metra"
+      ],
+      "source": "edited"
+    },
+    "полуприцеп": {
+      "meanings": [
+        "naczepa"
+      ],
+      "source": "edited"
+    },
+    "придержите": {
+      "meanings": [
+        "proszę przytrzymać"
+      ],
+      "source": "edited"
+    },
+    "припаркуйтесь": {
+      "meanings": [
+        "proszę zaparkować"
+      ],
+      "source": "edited"
+    },
+    "проедьте": {
+      "meanings": [
+        "proszę przejechać",
+        "podjechać"
+      ],
+      "source": "edited"
+    },
+    "проседает": {
+      "meanings": [
+        "zapada się",
+        "osiada"
+      ],
+      "source": "edited"
+    },
+    "разгружаем": {
+      "meanings": [
+        "rozładowujemy"
+      ],
+      "source": "edited"
+    },
+    "разгрузите": {
+      "meanings": [
+        "proszę rozładować"
+      ],
+      "source": "edited"
+    },
+    "раскачивается": {
+      "meanings": [
+        "kołysze się"
+      ],
+      "source": "edited"
+    },
+    "ручник": {
+      "meanings": [
+        "hamulec ręczny",
+        "hamulec postojowy (potocznie)"
+      ],
+      "source": "edited"
+    },
+    "сбоку": {
+      "meanings": [
+        "z boku"
+      ],
+      "source": "edited"
+    },
+    "сдвижную": {
+      "meanings": [
+        "przesuwny",
+        "przesuwna (odmieniona forma)"
+      ],
+      "source": "edited"
+    },
+    "сигнальный": {
+      "meanings": [
+        "sygnalizacyjny",
+        "odblaskowy (o kamizelce)"
+      ],
+      "source": "edited"
+    },
+    "сигнальщик": {
+      "meanings": [
+        "sygnalista"
+      ],
+      "source": "edited"
+    },
+    "скоба": {
+      "meanings": [
+        "szekla",
+        "klamra",
+        "skoba"
+      ],
+      "source": "edited"
+    },
+    "сместился": {
+      "meanings": [
+        "przesunął się"
+      ],
+      "source": "edited"
+    },
+    "стройплощадка": {
+      "meanings": [
+        "plac budowy"
+      ],
+      "source": "edited"
+    },
+    "стропальщик": {
+      "meanings": [
+        "hakowy",
+        "osoba podwieszająca ładunek"
+      ],
+      "source": "edited"
+    },
+    "стяжного": {
+      "meanings": [
+        "ściągający",
+        "mocujący (np. pas transportowy)"
+      ],
+      "source": "edited"
+    },
+    "стяжной": {
+      "meanings": [
+        "ściągający",
+        "mocujący (np. pas transportowy)"
+      ],
+      "source": "edited"
+    },
+    "стяжные": {
+      "meanings": [
+        "ściągający",
+        "mocujący (np. pas transportowy)"
+      ],
+      "source": "edited"
+    },
+    "такелажная": {
+      "meanings": [
+        "takielunkowa",
+        "do osprzętu podnoszenia"
+      ],
+      "source": "edited"
+    },
+    "электрощит": {
+      "meanings": [
+        "rozdzielnica elektryczna"
+      ],
+      "source": "edited"
+    },
+    "берегите": {
+      "meanings": [
+        "proszę chronić",
+        "uważać na"
+      ],
+      "source": "edited"
+    },
+    "болт": {
+      "meanings": [
+        "śruba",
+        "bełt (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "вилка": {
+      "meanings": [
+        "wtyczka",
+        "widelec"
+      ],
+      "source": "edited"
+    },
+    "вилку": {
+      "meanings": [
+        "wtyczka",
+        "widelec"
+      ],
+      "source": "edited"
+    },
+    "вовремя": {
+      "meanings": [
+        "punktualnie",
+        "na czas"
+      ],
+      "source": "edited"
+    },
+    "вставьте": {
+      "meanings": [
+        "proszę włożyć",
+        "wstawić"
+      ],
+      "source": "edited"
+    },
+    "втяните": {
+      "meanings": [
+        "proszę wsunąć",
+        "wciągnąć"
+      ],
+      "source": "edited"
+    },
+    "въезд": {
+      "meanings": [
+        "wjazd"
+      ],
+      "source": "edited"
+    },
+    "въезда": {
+      "meanings": [
+        "wjazd"
+      ],
+      "source": "edited"
+    },
+    "выбило": {
+      "meanings": [
+        "wybiło",
+        "zadziałało (o zabezpieczeniu)"
+      ],
+      "source": "edited"
+    },
+    "выдвиньте": {
+      "meanings": [
+        "proszę wysunąć"
+      ],
+      "source": "edited"
+    },
+    "вызовите": {
+      "meanings": [
+        "proszę wezwać"
+      ],
+      "source": "edited"
+    },
+    "выйдите": {
+      "meanings": [
+        "proszę wyjść",
+        "wysiąść"
+      ],
+      "source": "edited"
+    },
+    "выньте": {
+      "meanings": [
+        "proszę wyjąć"
+      ],
+      "source": "edited"
+    },
+    "грузоподъёмность": {
+      "meanings": [
+        "udźwig",
+        "ładowność"
+      ],
+      "source": "edited"
+    },
+    "грузоподъёмности": {
+      "meanings": [
+        "udźwig",
+        "ładowność"
+      ],
+      "source": "edited"
+    },
+    "грунт": {
+      "meanings": [
+        "grunt",
+        "podłoże",
+        "ziemia"
+      ],
+      "source": "edited"
+    },
+    "дальше": {
+      "meanings": [
+        "dalej"
+      ],
+      "source": "edited"
+    },
+    "двигайтесь": {
+      "meanings": [
+        "proszę się poruszać",
+        "ruszać się"
+      ],
+      "source": "edited"
+    },
+    "держитесь": {
+      "meanings": [
+        "proszę trzymać się",
+        "zachowywać położenie"
+      ],
+      "source": "edited"
+    },
+    "езжайте": {
+      "meanings": [
+        "proszę jechać"
+      ],
+      "source": "edited"
+    },
+    "заводится": {
+      "meanings": [
+        "odpala",
+        "uruchamia się (o silniku)"
+      ],
+      "source": "edited"
+    },
+    "загружаем": {
+      "meanings": [
+        "ładujemy",
+        "załadowujemy"
+      ],
+      "source": "edited"
+    },
+    "заглушите": {
+      "meanings": [
+        "proszę wyłączyć silnik",
+        "zgasić"
+      ],
+      "source": "edited"
+    },
+    "займёт": {
+      "meanings": [
+        "zajmie (np. czas)"
+      ],
+      "source": "edited"
+    },
+    "закрыта": {
+      "meanings": [
+        "zamknięta"
+      ],
+      "source": "edited"
+    },
+    "запускайте": {
+      "meanings": [
+        "proszę uruchamiać"
+      ],
+      "source": "edited"
+    },
+    "запустите": {
+      "meanings": [
+        "proszę uruchomić"
+      ],
+      "source": "edited"
+    },
+    "затяните": {
+      "meanings": [
+        "proszę dokręcić",
+        "napiąć"
+      ],
+      "source": "edited"
+    },
+    "заходите": {
+      "meanings": [
+        "proszę wchodzić",
+        "wchodźcie"
+      ],
+      "source": "edited"
+    },
+    "зацепился": {
+      "meanings": [
+        "zahaczył się",
+        "zaczepił się"
+      ],
+      "source": "edited"
+    },
+    "зона": {
+      "meanings": [
+        "strefa",
+        "obszar"
+      ],
+      "source": "edited"
+    },
+    "инструменты": {
+      "meanings": [
+        "narzędzia",
+        "instrumenty"
+      ],
+      "source": "edited"
+    },
+    "каску": {
+      "meanings": [
+        "kask",
+        "hełm"
+      ],
+      "source": "edited"
+    },
+    "крана": {
+      "meanings": [
+        "dźwig",
+        "żuraw (odmieniona forma кран)",
+        "kran",
+        "zawór (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "краном": {
+      "meanings": [
+        "dźwig",
+        "żuraw (odmieniona forma кран)",
+        "kran",
+        "zawór (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "крану": {
+      "meanings": [
+        "dźwig",
+        "żuraw (odmieniona forma кран)",
+        "kran",
+        "zawór (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "крепление": {
+      "meanings": [
+        "mocowanie",
+        "zamocowanie"
+      ],
+      "source": "edited"
+    },
+    "масла": {
+      "meanings": [
+        "olej",
+        "masło (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "масло": {
+      "meanings": [
+        "olej",
+        "masło (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "медленнее": {
+      "meanings": [
+        "wolniej"
+      ],
+      "source": "edited"
+    },
+    "меня": {
+      "meanings": [
+        "mnie (odmieniona forma я — ja)"
+      ],
+      "source": "edited"
+    },
+    "мне": {
+      "meanings": [
+        "mi",
+        "mnie (odmieniona forma я — ja)"
+      ],
+      "source": "edited"
+    },
+    "мобильный": {
+      "meanings": [
+        "mobilny",
+        "ruchomy",
+        "przenośny"
+      ],
+      "source": "edited"
+    },
+    "молоток": {
+      "meanings": [
+        "młotek"
+      ],
+      "source": "edited"
+    },
+    "моторное": {
+      "meanings": [
+        "silnikowy",
+        "silnikowe"
+      ],
+      "source": "edited"
+    },
+    "назад": {
+      "meanings": [
+        "do tyłu",
+        "z powrotem"
+      ],
+      "source": "edited"
+    },
+    "наклоняется": {
+      "meanings": [
+        "przechyla się",
+        "pochyla się"
+      ],
+      "source": "edited"
+    },
+    "налево": {
+      "meanings": [
+        "w lewo"
+      ],
+      "source": "edited"
+    },
+    "нам": {
+      "meanings": [
+        "nam"
+      ],
+      "source": "edited"
+    },
+    "нами": {
+      "meanings": [
+        "nami"
+      ],
+      "source": "edited"
+    },
+    "направо": {
+      "meanings": [
+        "w prawo"
+      ],
+      "source": "edited"
+    },
+    "напротив": {
+      "meanings": [
+        "naprzeciwko"
+      ],
+      "source": "edited"
+    },
+    "немного": {
+      "meanings": [
+        "trochę",
+        "niewiele"
+      ],
+      "source": "edited"
+    },
+    "нормально": {
+      "meanings": [
+        "dobrze",
+        "w porządku",
+        "normalnie"
+      ],
+      "source": "edited"
+    },
+    "опасная": {
+      "meanings": [
+        "niebezpieczna"
+      ],
+      "source": "edited"
+    },
+    "опора": {
+      "meanings": [
+        "podpora",
+        "podparcie"
+      ],
+      "source": "edited"
+    },
+    "опоры": {
+      "meanings": [
+        "podpory",
+        "podpory w odmianie"
+      ],
+      "source": "edited"
+    },
+    "опускайте": {
+      "meanings": [
+        "proszę opuszczać"
+      ],
+      "source": "edited"
+    },
+    "опустите": {
+      "meanings": [
+        "proszę opuścić"
+      ],
+      "source": "edited"
+    },
+    "ослабьте": {
+      "meanings": [
+        "proszę poluzować",
+        "osłabić"
+      ],
+      "source": "edited"
+    },
+    "оставайтесь": {
+      "meanings": [
+        "proszę zostać",
+        "pozostawać"
+      ],
+      "source": "edited"
+    },
+    "оставьте": {
+      "meanings": [
+        "proszę zostawić",
+        "pozostawić"
+      ],
+      "source": "edited"
+    },
+    "остаётся": {
+      "meanings": [
+        "zostaje",
+        "pozostaje"
+      ],
+      "source": "edited"
+    },
+    "отключите": {
+      "meanings": [
+        "proszę odłączyć",
+        "wyłączyć"
+      ],
+      "source": "edited"
+    },
+    "откройте": {
+      "meanings": [
+        "proszę otworzyć"
+      ],
+      "source": "edited"
+    },
+    "отойдите": {
+      "meanings": [
+        "proszę odsunąć się",
+        "odejść"
+      ],
+      "source": "edited"
+    },
+    "оттяжка": {
+      "meanings": [
+        "lina kierująca ładunkiem",
+        "odciąg"
+      ],
+      "source": "edited"
+    },
+    "палец": {
+      "meanings": [
+        "sworzeń",
+        "bolec",
+        "palec (część ciała)"
+      ],
+      "source": "edited"
+    },
+    "перемещайте": {
+      "meanings": [
+        "proszę przemieszczać"
+      ],
+      "source": "edited"
+    },
+    "перерыв": {
+      "meanings": [
+        "przerwa"
+      ],
+      "source": "edited"
+    },
+    "питание": {
+      "meanings": [
+        "zasilanie",
+        "odżywianie (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "платформа": {
+      "meanings": [
+        "platforma",
+        "powierzchnia ładunkowa",
+        "peron"
+      ],
+      "source": "edited"
+    },
+    "плиты": {
+      "meanings": [
+        "płyty"
+      ],
+      "source": "edited"
+    },
+    "поверните": {
+      "meanings": [
+        "proszę skręcić",
+        "obrócić"
+      ],
+      "source": "edited"
+    },
+    "поворачивайте": {
+      "meanings": [
+        "proszę skręcać",
+        "obracać"
+      ],
+      "source": "edited"
+    },
+    "повреждён": {
+      "meanings": [
+        "uszkodzony"
+      ],
+      "source": "edited"
+    },
+    "погрузчик": {
+      "meanings": [
+        "wózek podnośnikowy",
+        "ładowarka",
+        "wózek widłowy w вилочный погрузчик"
+      ],
+      "source": "edited"
+    },
+    "погрузчика": {
+      "meanings": [
+        "wózek podnośnikowy",
+        "ładowarka",
+        "wózek widłowy w вилочный погрузчик"
+      ],
+      "source": "edited"
+    },
+    "поддон": {
+      "meanings": [
+        "paleta",
+        "taca",
+        "brodzik (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "поддонов": {
+      "meanings": [
+        "paleta",
+        "taca",
+        "brodzik (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "подкладки": {
+      "meanings": [
+        "podkłady",
+        "podkładki",
+        "podszewki (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "подключите": {
+      "meanings": [
+        "proszę podłączyć"
+      ],
+      "source": "edited"
+    },
+    "поднимите": {
+      "meanings": [
+        "proszę podnieść"
+      ],
+      "source": "edited"
+    },
+    "подходите": {
+      "meanings": [
+        "proszę podchodzić"
+      ],
+      "source": "edited"
+    },
+    "поедет": {
+      "meanings": [
+        "pojedzie"
+      ],
+      "source": "edited"
+    },
+    "поезжайте": {
+      "meanings": [
+        "proszę ruszyć",
+        "jechać"
+      ],
+      "source": "edited"
+    },
+    "позже": {
+      "meanings": [
+        "później"
+      ],
+      "source": "edited"
+    },
+    "пока": {
+      "meanings": [
+        "jeszcze",
+        "na razie (np. пока не — jeszcze nie)",
+        "dopóki"
+      ],
+      "source": "edited"
+    },
+    "помещении": {
+      "meanings": [
+        "pomieszczeniu"
+      ],
+      "source": "edited"
+    },
+    "понимаете": {
+      "meanings": [
+        "Pan/Pani rozumie",
+        "rozumiecie"
+      ],
+      "source": "edited"
+    },
+    "понимаю": {
+      "meanings": [
+        "rozumiem"
+      ],
+      "source": "edited"
+    },
+    "понятно": {
+      "meanings": [
+        "jasne",
+        "zrozumiałe"
+      ],
+      "source": "edited"
+    },
+    "принесите": {
+      "meanings": [
+        "proszę przynieść"
+      ],
+      "source": "edited"
+    },
+    "прицеп": {
+      "meanings": [
+        "przyczepa"
+      ],
+      "source": "edited"
+    },
+    "проверьте": {
+      "meanings": [
+        "proszę sprawdzić"
+      ],
+      "source": "edited"
+    },
+    "провода": {
+      "meanings": [
+        "przewody",
+        "druty"
+      ],
+      "source": "edited"
+    },
+    "пропала": {
+      "meanings": [
+        "zniknęła",
+        "zanikła"
+      ],
+      "source": "edited"
+    },
+    "прямо": {
+      "meanings": [
+        "prosto",
+        "wprost",
+        "bezpośrednio"
+      ],
+      "source": "edited"
+    },
+    "разгрузка": {
+      "meanings": [
+        "rozładunek"
+      ],
+      "source": "edited"
+    },
+    "разгрузки": {
+      "meanings": [
+        "rozładunek"
+      ],
+      "source": "edited"
+    },
+    "разгрузку": {
+      "meanings": [
+        "rozładunek"
+      ],
+      "source": "edited"
+    },
+    "раньше": {
+      "meanings": [
+        "wcześniej",
+        "dawniej"
+      ],
+      "source": "edited"
+    },
+    "розетка": {
+      "meanings": [
+        "gniazdko elektryczne",
+        "rozeta (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "розетки": {
+      "meanings": [
+        "gniazdko elektryczne",
+        "rozeta (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "руки": {
+      "meanings": [
+        "ręce",
+        "dłonie"
+      ],
+      "source": "edited"
+    },
+    "рулетка": {
+      "meanings": [
+        "miarka zwijana",
+        "ruletka (gra)"
+      ],
+      "source": "edited"
+    },
+    "садитесь": {
+      "meanings": [
+        "proszę wsiąść",
+        "usiąść"
+      ],
+      "source": "edited"
+    },
+    "сдавайте": {
+      "meanings": [
+        "proszę cofać",
+        "cofnąć (w сдавать назад)",
+        "zdawać",
+        "oddawać (inne użycia)"
+      ],
+      "source": "edited"
+    },
+    "сдайте": {
+      "meanings": [
+        "proszę cofać",
+        "cofnąć (w сдавать назад)",
+        "zdawać",
+        "oddawać (inne użycia)"
+      ],
+      "source": "edited"
+    },
+    "сдвиньте": {
+      "meanings": [
+        "proszę przesunąć"
+      ],
+      "source": "edited"
+    },
+    "сзади": {
+      "meanings": [
+        "z tyłu"
+      ],
+      "source": "edited"
+    },
+    "слева": {
+      "meanings": [
+        "po lewej",
+        "z lewej strony"
+      ],
+      "source": "edited"
+    },
+    "сначала": {
+      "meanings": [
+        "najpierw",
+        "od początku"
+      ],
+      "source": "edited"
+    },
+    "снимаем": {
+      "meanings": [
+        "zdejmujemy"
+      ],
+      "source": "edited"
+    },
+    "снимайте": {
+      "meanings": [
+        "proszę zdejmować"
+      ],
+      "source": "edited"
+    },
+    "снимите": {
+      "meanings": [
+        "proszę zdjąć"
+      ],
+      "source": "edited"
+    },
+    "соединительный": {
+      "meanings": [
+        "łączący"
+      ],
+      "source": "edited"
+    },
+    "спереди": {
+      "meanings": [
+        "z przodu"
+      ],
+      "source": "edited"
+    },
+    "справа": {
+      "meanings": [
+        "po prawej",
+        "z prawej strony"
+      ],
+      "source": "edited"
+    },
+    "ставим": {
+      "meanings": [
+        "stawiamy",
+        "ustawiamy"
+      ],
+      "source": "edited"
+    },
+    "ставьте": {
+      "meanings": [
+        "proszę postawić",
+        "ustawić"
+      ],
+      "source": "edited"
+    },
+    "стоит": {
+      "meanings": [
+        "stoi",
+        "kosztuje",
+        "warto (zależnie od konstrukcji)"
+      ],
+      "source": "edited"
+    },
+    "стоянка": {
+      "meanings": [
+        "parking",
+        "postój",
+        "obozowisko (inne znaczenie)"
+      ],
+      "source": "edited"
+    },
+    "стрела": {
+      "meanings": [
+        "wysięgnik dźwigu",
+        "strzała",
+        "strzałka (inne znaczenia)"
+      ],
+      "source": "edited"
+    },
+    "стрелу": {
+      "meanings": [
+        "wysięgnik dźwigu",
+        "strzała",
+        "strzałka (inne znaczenia)"
+      ],
+      "source": "edited"
+    },
+    "стрелы": {
+      "meanings": [
+        "wysięgnik dźwigu",
+        "strzała",
+        "strzałka (inne znaczenia)"
+      ],
+      "source": "edited"
+    },
+    "строповки": {
+      "meanings": [
+        "podwieszania",
+        "zaczepiania zawiesi"
+      ],
+      "source": "edited"
+    },
+    "тележка": {
+      "meanings": [
+        "wózek",
+        "wózek ręczny"
+      ],
+      "source": "edited"
+    },
+    "тент": {
+      "meanings": [
+        "plandeka",
+        "brezent"
+      ],
+      "source": "edited"
+    },
+    "трогайте": {
+      "meanings": [
+        "proszę dotykać",
+        "ruszać"
+      ],
+      "source": "edited"
+    },
+    "трогайтесь": {
+      "meanings": [
+        "proszę ruszać z miejsca"
+      ],
+      "source": "edited"
+    },
+    "удлинитель": {
+      "meanings": [
+        "przedłużacz"
+      ],
+      "source": "edited"
+    },
+    "уехать": {
+      "meanings": [
+        "odjechać"
+      ],
+      "source": "edited"
+    },
+    "упор": {
+      "meanings": [
+        "klin pod koło",
+        "ogranicznik",
+        "opór",
+        "podparcie (inne użycia)"
+      ],
+      "source": "edited"
+    },
+    "упоры": {
+      "meanings": [
+        "klin pod koło",
+        "ogranicznik",
+        "opór",
+        "podparcie (inne użycia)"
+      ],
+      "source": "edited"
+    },
+    "уровень": {
+      "meanings": [
+        "poziom",
+        "poziomnica (w kontekście narzędzia)"
+      ],
+      "source": "edited"
+    },
+    "уровнем": {
+      "meanings": [
+        "poziom",
+        "poziomnica (w kontekście narzędzia)"
+      ],
+      "source": "edited"
+    },
+    "установите": {
+      "meanings": [
+        "proszę zamontować",
+        "założyć",
+        "ustawić"
+      ],
+      "source": "edited"
+    },
+    "устойчиво": {
+      "meanings": [
+        "stabilnie"
+      ],
+      "source": "edited"
+    },
+    "цепной": {
+      "meanings": [
+        "łańcuchowy"
+      ],
+      "source": "edited"
+    },
+    "шайба": {
+      "meanings": [
+        "podkładka pod śrubę",
+        "krążek (np. hokejowy)"
+      ],
+      "source": "edited"
+    },
+    "шплинт": {
+      "meanings": [
+        "zawleczka"
+      ],
+      "source": "edited"
+    },
+    "эта": {
+      "meanings": [
+        "ta"
+      ],
+      "source": "edited"
+    },
+    "этой": {
+      "meanings": [
+        "tej",
+        "tą (odmieniona forma этот)"
+      ],
+      "source": "edited"
+    },
+    "этом": {
+      "meanings": [
+        "tym"
+      ],
+      "source": "edited"
+    },
+    "этот": {
+      "meanings": [
+        "ten"
+      ],
+      "source": "edited"
+    },
+    "эту": {
+      "meanings": [
+        "tę"
+      ],
+      "source": "edited"
+    },
+    "я": {
+      "meanings": [
+        "ja"
+      ],
+      "source": "edited"
+    },
+    "автомат": {
+      "meanings": [
+        "wyłącznik nadprądowy",
+        "automat",
+        "maszyna automatyczna"
+      ],
+      "source": "edited"
+    },
+    "вам": {
+      "meanings": [
+        "Panu",
+        "Pani",
+        "Państwu",
+        "wam"
+      ],
+      "source": "edited"
+    },
+    "вас": {
+      "meanings": [
+        "Pana",
+        "Panią",
+        "Państwa",
+        "was"
+      ],
+      "source": "edited"
+    },
+    "должен": {
+      "meanings": [
+        "musi",
+        "powinien"
+      ],
+      "source": "edited"
+    },
+    "мягкий": {
+      "meanings": [
+        "miękki",
+        "łagodny"
+      ],
+      "source": "edited"
+    },
+    "поставить": {
+      "meanings": [
+        "postawić",
+        "ustawić"
+      ],
+      "source": "edited"
+    },
+    "поставьте": {
+      "meanings": [
+        "proszę postawić",
+        "ustawić"
+      ],
+      "source": "edited"
+    },
+    "свободен": {
+      "meanings": [
+        "wolny",
+        "swobodny"
+      ],
+      "source": "edited"
+    },
+    "связь": {
+      "meanings": [
+        "łączność",
+        "połączenie"
+      ],
+      "source": "edited"
+    },
+    "сигналы": {
+      "meanings": [
+        "sygnały"
+      ],
+      "source": "edited"
+    },
+    "сигнала": {
+      "meanings": [
+        "sygnału (odmieniona forma сигнал)"
+      ],
+      "source": "edited"
+    },
+    "электрика": {
+      "meanings": [
+        "elektryka (osobę)"
+      ],
+      "source": "edited"
+    },
+    "электричества": {
+      "meanings": [
+        "prądu",
+        "elektryczności"
+      ],
+      "source": "edited"
+    },
+    "хранения": {
+      "meanings": [
+        "przechowywania",
+        "składowania"
+      ],
+      "source": "edited"
+    },
+    "часов": {
+      "meanings": [
+        "godzin"
+      ],
+      "source": "edited"
+    },
+    "расстоянии": {
+      "meanings": [
+        "odległości",
+        "dystansie"
+      ],
+      "source": "edited"
+    },
+    "всё": {
+      "meanings": [
+        "wszystko"
+      ],
+      "source": "edited"
+    },
+    "точка": {
+      "meanings": [
+        "punkt",
+        "kropka"
+      ],
+      "source": "edited"
+    },
+    "точки": {
+      "meanings": [
+        "punkty",
+        "kropki"
+      ],
+      "source": "edited"
+    },
+    "грузовая": {
+      "meanings": [
+        "ładunkowa",
+        "towarowa"
+      ],
+      "source": "edited"
+    }
+  }
+}
