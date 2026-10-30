@@ -40,7 +40,7 @@ node tests/learning.test.js
 
 Testy sprawdzają import danych, unikalne odpowiedzi w trzech językach, punkty i niezależność powtórek. Podczas implementacji sprawdzono także pełną lekcję w Chromium przy szerokości 390 px, poprawne i błędne odpowiedzi, zapis po odświeżeniu, wyszukiwanie, kategorię oraz ponowne otwarcie offline. Odsłuch na fizycznym telefonie wymaga osobnego sprawdzenia.
 
-Zmieniając pliki aplikacji, zwiększ wersję `CACHE` w `sw.js`, aby odświeżyć zasoby offline. Czyszczenie danych witryny usuwa postępy.
+Zmieniając pliki aplikacji, zwiększ wersję `CACHE` w `sw.js` oraz parametr wersji w adresach plików i importach modułów. Aktualizuj również listę `FILES`, aby odświeżyć zasoby offline. Rejestracja service workera pomija pamięć HTTP; aktualizacja na ekranie nauki nie przeładowuje trwającej lekcji. Czyszczenie danych witryny usuwa postępy.
 
 ## Materiał i bezpieczeństwo
 
