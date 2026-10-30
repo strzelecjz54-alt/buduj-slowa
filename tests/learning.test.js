@@ -5,7 +5,7 @@ import { optionsFor, recordAnswer, lessonDone, pointsForMistakes, reviewQuestion
 test('import contains the full 304-phrase source and 15 modules',()=>{
  assert.equal(phrases.length,304);assert.equal(phrases.filter(p=>p.priority).length,20);
  for(const [index,p] of phrases.entries()){for(const key of ['pl','ru','en','de'])assert.ok(p[key]);assert.equal(p.id,index);assert.ok(p.moduleId>=1&&p.moduleId<=15);}
- assert.equal(phrases[0].pl,'Proszę ruszyć! (po ustaleniu kierunku)');
+ assert.equal(phrases[0].pl,'Proszę ruszyć. (po ustaleniu kierunku)');
  assert.equal(phrases.at(-1).pl,'Na jakim kanale pracujemy?');
 });
 test('each language gets four distinct quiz answers including the right answer',()=>{for(const lang of ['ru','en','de'])for(const p of phrases){const options=optionsFor(p,phrases,lang);assert.equal(options.length,4);assert.equal(new Set(options).size,4);assert.ok(options.includes(p[lang]));}});

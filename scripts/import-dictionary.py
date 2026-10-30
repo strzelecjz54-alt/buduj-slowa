@@ -5,7 +5,7 @@ parser.add_argument('source',type=Path)
 args=parser.parse_args()
 root=Path(__file__).resolve().parents[1];source=args.source;rows=[];modules=[];module=None
 for line in source.read_text().splitlines():
- if line.startswith("UWAGI DO KOREKTY"):break
+ if line.startswith("UWAGI "):break
  heading=re.match(r'^(\d{2})\. (.+)$',line)
  if heading and '|' not in line:
   number=int(heading[1]);assert 1<=number<=15

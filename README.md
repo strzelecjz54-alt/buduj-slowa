@@ -47,7 +47,7 @@ Zmieniając pliki aplikacji, zwiększ wersję `CACHE` w `sw.js` oraz parametr we
 
 ## Materiał i bezpieczeństwo
 
-Tłumaczenia pochodzą z dostarczonego pliku `slownictwo_plac_budowy_RU_EN_DE.txt`. Aktualna wersja odpowiada poprawionemu słownikowi użytkownika `slownik_PL_RU_EN_DE-1.txt`, z zachowaniem kolejności i treści wszystkich 304 wierszy. Na prośbę użytkownika nowy kurs zeruje punkty i postęp przez użycie nowego klucza `buduj-slowa-v2`. Głośność, wyciszenie i wybór języka pozostają zapisane. Rosyjski zapis fonetyczny został usunięty; do nauki wymowy służy odsłuch. Przed użyciem komend w pracy zweryfikuj je z osobą znającą język. Przy manewrach i pracy dźwigu stosuj ustalone sygnały i komendy; aplikacja służy nauce.
+Tłumaczenia pochodzą z dostarczonego pliku `slownictwo_plac_budowy_RU_EN_DE.txt`. Aktualna wersja odpowiada poprawionemu słownikowi użytkownika `slownik_PL_RU_EN_DE (1).txt`, z zachowaniem kolejności i treści wszystkich 304 wierszy. Na prośbę użytkownika nowy kurs zeruje punkty i postęp przez użycie nowego klucza `buduj-slowa-v2`. Głośność, wyciszenie i wybór języka pozostają zapisane. Rosyjski zapis fonetyczny został usunięty; do nauki wymowy służy odsłuch. Przed użyciem komend w pracy zweryfikuj je z osobą znającą język. Przy manewrach i pracy dźwigu stosuj ustalone sygnały i komendy; aplikacja służy nauce.
 
 ## Pobierz słownik
 
