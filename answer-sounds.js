@@ -1,4 +1,4 @@
-import { getVolume } from './audio-settings.js?v=5';
+import { getVolume } from './audio-settings.js?v=6';
 // Local, short cues: no downloads, speech engine or network required.
 let enabled = true;
 let context;

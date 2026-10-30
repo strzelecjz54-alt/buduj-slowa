@@ -1,5 +1,5 @@
-const CACHE='buduj-slowa-v5';
-const FILES=['./','./index.html','./style.css?v=5','./app.js?v=5','./learning.js?v=5','./answer-sounds.js?v=5','./audio-settings.js?v=5','./data.js?v=5','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest'];
+const CACHE='buduj-slowa-v6';
+const FILES=['./','./index.html','./style.css?v=6','./app.js?v=6','./learning.js?v=6','./answer-sounds.js?v=6','./audio-settings.js?v=6','./data.js?v=6','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>Promise.all(FILES.map(url=>cache.add(new Request(url,{cache:'reload'}))))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('buduj-slowa-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{
