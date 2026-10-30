@@ -9,7 +9,30 @@ const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'
 function save(){try{localStorage.setItem('buduj-slowa-v1',JSON.stringify(stats));localStorage.setItem('buduj-lang',lang);}catch{notice('Pamięć telefonu jest niedostępna. Postęp z tej sesji nie zostanie zapisany.');}}
 function notice(message){document.querySelector('#notice').textContent=message;}
 function phon(p){return lang==='ru'?`<p class="phon">${esc(p.phon)}</p>`:'';}
-function speak(id){const p=phrases.find(p=>p.id===Number(id));if(!('speechSynthesis'in window)){notice('Ta przeglądarka nie obsługuje odsłuchu.');return;}const voices=speechSynthesis.getVoices();const voice=voices.find(v=>v.lang.toLowerCase().startsWith(lang));if(!voice){notice('Brak głosu tego języka. Dodaj go w ustawieniach mowy telefonu i spróbuj ponownie.');return;}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(p[lang].split(' / ')[0]);u.lang=languages[lang].code;u.voice=voice;u.rate=.8;u.onerror=()=>notice('Nie udało się odtworzyć wymowy. Sprawdź ustawienia głosu telefonu.');speechSynthesis.speak(u);}
+let speechRequest = 0;
+function speak(id) {
+  const p = phrases.find(p => p.id === Number(id));
+  if (!('speechSynthesis' in window)) {
+    notice('Ta przeglądarka nie obsługuje odsłuchu.');
+    return;
+  }
+  const request = ++speechRequest;
+  notice('');
+  // Android can expose an empty or incomplete voice list even when speech works.
+  // Let the system select the requested language if no matching voice is listed.
+  const voice = speechSynthesis.getVoices().find(v => v.lang.toLowerCase().split(/[-_]/)[0] === lang);
+  speechSynthesis.cancel();
+  const utterance = new SpeechSynthesisUtterance(p[lang].split(' / ')[0]);
+  utterance.lang = languages[lang].code;
+  if (voice) utterance.voice = voice;
+  utterance.rate = .8;
+  utterance.onstart = () => { if (request === speechRequest) notice(''); };
+  utterance.onerror = event => {
+    if (request !== speechRequest || ['canceled', 'interrupted'].includes(event.error)) return;
+    notice('Nie udało się odtworzyć wymowy. Spróbuj ponownie lub sprawdź głosy w ustawieniach telefonu.');
+  };
+  speechSynthesis.speak(utterance);
+}
 function header(){return `<header><a href="#" class="brand" data-action="home"><span class="logo">▦</span> buduj<span>słowa</span></a><div class="header-actions"><button class="sound-toggle" data-action="toggle-sounds" aria-label="Dźwięki odpowiedzi" aria-pressed="${soundsEnabled()}" title="Włącz lub wyłącz dźwięki odpowiedzi">${soundsEnabled()?'♪':'♪̸'}<span>${soundsEnabled()?'Dźwięk':'Wyciszono'}</span></button><span class="xp">✦ ${stats.xp} XP</span></div></header>`;}
 function navigation(){return `<nav aria-label="Menu główne">${[['home','⌂','Nauka'],['dictionary','▤','Słownik'],['review','↻','Powtórki'],['help','＋','Na telefon']].map(([v,i,t])=>`<button data-view="${v}" class="${view===v?'active':''}"><span>${i}</span>${t}</button>`).join('')}</nav>`;}
 function languageTabs(){return `<div class="languages" aria-label="Język nauki">${Object.entries(languages).map(([key,l])=>`<button data-lang="${key}" aria-pressed="${lang===key}">${l.flag} ${l.name}</button>`).join('')}</div>`;}
