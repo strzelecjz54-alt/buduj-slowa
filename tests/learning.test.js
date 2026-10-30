@@ -2,7 +2,12 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { phrases } from '../data.js';
 import { optionsFor, recordAnswer, lessonDone, pointsForMistakes, reviewQuestions } from '../learning.js';
-test('import contains all 139 phrases with the first 20 prioritized',()=>{assert.equal(phrases.length,139);assert.equal(phrases.filter(p=>p.priority).length,20);for(const p of phrases){for(const k of ['pl','ru','en','de'])assert.ok(p[k]);assert.equal(p.id,phrases.indexOf(p));}assert.equal(phrases[19].pl,'Proszę czekać na mój znak.');assert.equal(phrases.at(-1).pl,'Kto odpowiada za transport?');});
+test('import contains the full 304-phrase source and 15 modules',()=>{
+ assert.equal(phrases.length,304);assert.equal(phrases.filter(p=>p.priority).length,20);
+ for(const [index,p] of phrases.entries()){for(const key of ['pl','ru','en','de'])assert.ok(p[key]);assert.equal(p.id,index);assert.ok(p.moduleId>=1&&p.moduleId<=15);}
+ assert.equal(phrases[0].pl,'Proszę ruszyć! (po ustaleniu kierunku)');
+ assert.equal(phrases.at(-1).pl,'Na jakim kanale pracujemy?');
+});
 test('each language gets four distinct quiz answers including the right answer',()=>{for(const lang of ['ru','en','de'])for(const p of phrases){const options=optionsFor(p,phrases,lang);assert.equal(options.length,4);assert.equal(new Set(options).size,4);assert.ok(options.includes(p[lang]));}});
 test('mistakes go to review and correct answers clear review independently by language',()=>{const stats={cards:{},xp:0};recordAnswer(stats,'ru',0,false);assert.equal(stats.cards['ru:0'].review,true);assert.equal(stats.xp,0);recordAnswer(stats,'ru',0,true);assert.equal(stats.cards['ru:0'].review,false);assert.equal(stats.xp,10);assert.equal(lessonDone(stats,'ru',[0]),true);assert.equal(lessonDone(stats,'de',[0]),false);assert.equal(lessonDone(stats,'ru',[0,1]),false);});
 
@@ -37,15 +42,11 @@ test('small learned pools are repeated evenly to fill a ten-question series',()=
 
 test("phonetic transcription is absent from all phrase data",()=>{assert.ok(phrases.every(p=>!("phon" in p)));});
 
-test('quiz excludes punctuation-only alternatives and equivalent command forms',()=>{
-  for(const lang of ['ru','en','de']) {
-    for(const [id,equivalents] of [[16,[52]],[17,[53]],[11,[27,42]],[5,[6,23]],[19,[119]],[29,[112]]]) {
-      for(let run=0;run<30;run++) {
-        const options=optionsFor(phrases[id],phrases,lang);
-        for(const other of equivalents)if(phrases[other][lang]!==phrases[id][lang])assert.ok(!options.includes(phrases[other][lang]));
-      }
-    }
-  }
+test('quiz excludes equivalent vehicle-stop commands in every language',()=>{
+ for(const lang of ['ru','en','de'])for(let run=0;run<30;run++){
+  const options=optionsFor(phrases[5],phrases,lang);
+  assert.ok(options.includes(phrases[5][lang]));assert.ok(!options.includes(phrases[6][lang]));
+ }
 });
 test('all four options differ after normalizing punctuation and case',()=>{
   const normalize=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}\s]/gu,' ').replace(/\s+/g,' ').trim();
@@ -53,4 +54,23 @@ test('all four options differ after normalizing punctuation and case',()=>{
     const options=optionsFor(phrase,phrases,lang).map(normalize);
     assert.equal(new Set(options).size,4);
   }
+});
+
+import { modules, lessons } from '../course.js';
+test('course covers each phrase once in 68 ordered lessons of 4 or 5 phrases',()=>{
+ assert.equal(modules.length,15);assert.equal(lessons.length,68);
+ assert.equal(new Set(lessons.map(l=>l.id)).size,68);
+ assert.deepEqual(lessons.flatMap(l=>l.phrases.map(p=>p.id)),phrases.map(p=>p.id));
+ for(const module of modules){assert.ok(module.lessons.length>0);for(const lesson of module.lessons){assert.ok(lesson.phrases.length>=4&&lesson.phrases.length<=5);assert.ok(lesson.phrases.every(p=>p.moduleId===module.id));}}
+});
+
+import { readFileSync } from 'node:fs';
+test('all four language fields exactly match the uploaded numbered dictionary',()=>{
+ const text=readFileSync(new URL('../exports/slownik_PL_RU_EN_DE.txt',import.meta.url),'utf8');
+ const lines=text.split(/\r?\n/).filter(line=>/^\d+\. .+\|.+\|.+\|.+$/.test(line));
+ assert.equal(lines.length,304);
+ for(const [index,line] of lines.entries()){
+  const fields=line.replace(/^\d+\. /,'').split('|').map(s=>s.trim());
+  assert.deepEqual(fields,['pl','ru','en','de'].map(key=>phrases[index][key]));
+ }
 });

@@ -1,140 +1,305 @@
-﻿Nr;Kategoria;Polski;Rosyjski;Angielski;Niemiecki
-1;20 najważniejszych;Proszę jechać!;Езжайте, пожалуйста!;Please drive!;Fahren Sie bitte!
-2;20 najważniejszych;Proszę jechać tam!;Езжайте туда, пожалуйста!;Drive over there, please!;Fahren Sie bitte dorthin!
-3;20 najważniejszych;Proszę podjechać tutaj!;Подъезжайте сюда, пожалуйста!;Please drive over here!;Fahren Sie bitte hierher!
-4;20 najważniejszych;Powoli!;Медленно!;Slowly!;Langsam!
-5;20 najważniejszych;Bardzo powoli!;Очень медленно!;Very slowly!;Ganz langsam!
-6;20 najważniejszych;Stop!;Стоп!;Stop!;Stopp!
-7;20 najważniejszych;Zatrzymać się!;Остановитесь!;Stop / Come to a stop!;Anhalten!
-8;20 najważniejszych;Do przodu!;Вперёд!;Forward!;Vorwärts!
-9;20 najważniejszych;Do tyłu!;Назад!;Back!;Zurück!
-10;20 najważniejszych;W lewo!;Налево!;To the left!;Nach links!
-11;20 najważniejszych;W prawo!;Направо!;To the right!;Nach rechts!
-12;20 najważniejszych;Prosto!;Прямо!;Straight ahead!;Geradeaus!
-13;20 najważniejszych;Jeszcze kawałek!;Ещё немного!;A little further!;Noch ein Stück!
-14;20 najważniejszych;Jeszcze trochę do przodu!;Ещё немного вперёд!;A little further forward!;Noch ein bisschen nach vorne!
-15;20 najważniejszych;Jeszcze trochę do tyłu!;Ещё немного назад!;A little further back!;Noch ein bisschen zurück!
-16;20 najważniejszych;Proszę poczekać!;Подождите, пожалуйста!;Please wait!;Warten Sie bitte!
-17;20 najważniejszych;Tutaj!;Здесь!;Here!;Hier!
-18;20 najważniejszych;Tam!;Там!;There!;Dort!
-19;20 najważniejszych;Obok dźwigu.;Рядом с краном.;Next to the crane.;Neben dem Kran.
-20;20 najważniejszych;Proszę czekać na mój znak.;Ждите моего сигнала.;Wait for my signal, please.;Warten Sie auf mein Zeichen.
-21;Kierowanie pojazdem;Jechać.;Ехать.;To drive / go.;Fahren.
-22;Kierowanie pojazdem;Podjechać.;Подъехать.;To pull up / drive up.;Heranfahren.
-23;Kierowanie pojazdem;Cofnąć.;Сдать назад.;To reverse.;Zurücksetzen.
-24;Kierowanie pojazdem;Zatrzymać się.;Остановиться.;To stop.;Anhalten.
-25;Kierowanie pojazdem;Przyspieszyć.;Ускориться.;To speed up.;Beschleunigen.
-26;Kierowanie pojazdem;Zwolnić.;Сбавить скорость.;To slow down.;Langsamer fahren.
-27;Kierowanie pojazdem;Skręcić.;Повернуть.;To turn.;Abbiegen.
-28;Kierowanie pojazdem;Jechać prosto.;Ехать прямо.;To go straight.;Geradeaus fahren.
-29;Kierowanie pojazdem;Jechać dalej.;Продолжать движение.;To keep going.;Weiterfahren.
-30;Kierowanie pojazdem;Nie jechać dalej.;Дальше не ехать.;Do not go any further.;Nicht weiterfahren.
-31;Kierowanie pojazdem;Podjechać bliżej.;Подъехать ближе.;To move closer.;Näher heranfahren.
-32;Kierowanie pojazdem;Podjechać dalej.;Проехать немного дальше.;To drive a little further.;Ein Stück weiterfahren.
-33;Kierowanie pojazdem;Jeszcze kawałek.;Ещё немного.;A little further.;Noch ein Stück.
-34;Kierowanie pojazdem;Jeszcze trochę do przodu.;Ещё немного вперёд.;A little further forward.;Noch ein bisschen nach vorne.
-35;Kierowanie pojazdem;Jeszcze trochę do tyłu.;Ещё немного назад.;A little further back.;Noch ein bisschen zurück.
-36;Kierowanie pojazdem;Zatrzymać się tutaj.;Остановиться здесь.;Stop here.;Hier anhalten.
-37;Kierowanie pojazdem;Poczekać.;Подождать.;To wait.;Warten.
-38;Kierowanie pojazdem;Zostać na miejscu.;Оставаться на месте.;To stay where you are.;Hier stehen bleiben.
-39;Kierowanie pojazdem;Przestawić ciężarówkę.;Переставить грузовик.;To reposition the truck.;Den LKW umstellen.
-40;Kierowanie pojazdem;Zaparkować.;Припарковаться.;To park.;Parken.
-41;Kierunki i położenie;W lewo.;Налево.;Left.;Links.
-42;Kierunki i położenie;W prawo.;Направо.;Right.;Rechts.
-43;Kierunki i położenie;Prosto.;Прямо.;Straight ahead.;Geradeaus.
-44;Kierunki i położenie;Przed.;Перед.;In front of.;Vor.
-45;Kierunki i położenie;Za.;За.;Behind.;Hinter.
-46;Kierunki i położenie;Obok.;Рядом.;Next to / beside.;Neben.
-47;Kierunki i położenie;Pomiędzy.;Между.;Between.;Zwischen.
-48;Kierunki i położenie;Naprzeciwko.;Напротив.;Opposite.;Gegenüber.
-49;Kierunki i położenie;Z przodu.;Спереди.;At the front.;Vorne.
-50;Kierunki i położenie;Z tyłu.;Сзади.;At the back.;Hinten.
-51;Kierunki i położenie;Na środku.;Посередине.;In the middle.;In der Mitte.
-52;Kierunki i położenie;Z boku.;Сбоку.;On the side.;Seitlich.
-53;Kierunki i położenie;Tutaj.;Здесь.;Here.;Hier.
-54;Kierunki i położenie;Tam.;Там.;There.;Dort.
-55;Kierunki i położenie;Bliżej.;Ближе.;Closer.;Näher.
-56;Kierunki i położenie;Dalej.;Дальше.;Further.;Weiter.
-57;Kierunki i położenie;Na lewo od dźwigu.;Слева от крана.;To the left of the crane.;Links vom Kran.
-58;Kierunki i położenie;Na prawo od dźwigu.;Справа от крана.;To the right of the crane.;Rechts vom Kran.
-59;Kierunki i położenie;Przed dźwigiem.;Перед краном.;In front of the crane.;Vor dem Kran.
-60;Kierunki i położenie;Za dźwigiem.;За краном.;Behind the crane.;Hinter dem Kran.
-61;Kierunki i położenie;Obok dźwigu.;Рядом с краном.;Next to the crane.;Neben dem Kran.
-62;Kierunki i położenie;Przed ciężarówką.;Перед грузовиком.;In front of the truck.;Vor dem LKW.
-63;Kierunki i położenie;Za ciężarówką.;За грузовиком.;Behind the truck.;Hinter dem LKW.
-64;Kierunki i położenie;Obok ciężarówki.;Рядом с грузовиком.;Next to the truck.;Neben dem LKW.
-65;Ciężarówki, załadunek i rozładunek;Ciężarówka.;Грузовик.;Truck / lorry.;Der LKW.
-66;Ciężarówki, załadunek i rozładunek;Kierowca.;Водитель.;Driver.;Der Fahrer.
-67;Ciężarówki, załadunek i rozładunek;Dźwig.;Кран.;Crane.;Der Kran.
-68;Ciężarówki, załadunek i rozładunek;Ładunek.;Груз.;Load / cargo.;Die Ladung.
-69;Ciężarówki, załadunek i rozładunek;Załadunek.;Погрузка.;Loading.;Die Beladung.
-70;Ciężarówki, załadunek i rozładunek;Rozładunek.;Разгрузка.;Unloading.;Die Entladung.
-71;Ciężarówki, załadunek i rozładunek;Załadować.;Загрузить / погрузить.;To load.;Aufladen / beladen.
-72;Ciężarówki, załadunek i rozładunek;Rozładować.;Разгрузить.;To unload.;Abladen / entladen.
-73;Ciężarówki, załadunek i rozładunek;Dostawa.;Доставка.;Delivery.;Die Lieferung.
-74;Ciężarówki, załadunek i rozładunek;Parking.;Стоянка / парковка.;Parking area.;Der Parkplatz.
-75;Ciężarówki, załadunek i rozładunek;Plac budowy.;Строительная площадка.;Construction site.;Die Baustelle.
-76;Ciężarówki, załadunek i rozładunek;Wjazd.;Въезд.;Entrance / access.;Die Zufahrt.
-77;Ciężarówki, załadunek i rozładunek;Wyjazd.;Выезд.;Exit.;Die Ausfahrt.
-78;Ciężarówki, załadunek i rozładunek;Miejsce załadunku.;Место погрузки.;Loading area.;Der Ladeplatz.
-79;Ciężarówki, załadunek i rozładunek;Miejsce rozładunku.;Место разгрузки.;Unloading area.;Der Entladeplatz.
-80;Ciężarówki, załadunek i rozładunek;Tutaj załadunek.;Здесь погрузка.;Loading here.;Hier wird geladen.
-81;Ciężarówki, załadunek i rozładunek;Tutaj rozładunek.;Здесь разгрузка.;Unloading here.;Hier wird entladen.
-82;Ciężarówki, załadunek i rozładunek;Rozładować tutaj.;Разгрузить здесь.;Unload here.;Hier abladen.
-83;Ciężarówki, załadunek i rozładunek;Załadować tam.;Загрузить там.;Load over there.;Dort aufladen.
-84;Ciężarówki, załadunek i rozładunek;Przestawić ciężarówkę tam.;Переставить грузовик туда.;Move the truck over there.;Stellen Sie den LKW dorthin.
-85;Ciężarówki, załadunek i rozładunek;Podjechać bliżej dźwigu.;Подъехать ближе к крану.;Move closer to the crane.;Näher an den Kran heranfahren.
-86;Ciężarówki, załadunek i rozładunek;Ciężarówka musi odjechać.;Грузовик должен уехать.;The truck has to leave.;Der LKW muss weg.
-87;Ciężarówki, załadunek i rozładunek;Zostawić ciężarówkę tutaj.;Оставить грузовик здесь.;Leave the truck here.;Stellen Sie den LKW hier ab.
-88;Ciężarówki, załadunek i rozładunek;Ładunek ma trafić tutaj.;Груз нужно доставить сюда.;The load needs to go here.;Die Ladung muss hierher.
-89;Godziny i organizacja pracy;Dzisiaj.;Сегодня.;Today.;Heute.
-90;Godziny i organizacja pracy;Jutro.;Завтра.;Tomorrow.;Morgen.
-91;Godziny i organizacja pracy;Teraz.;Сейчас.;Now.;Jetzt.
-92;Godziny i organizacja pracy;Zaraz.;Скоро / сейчас.;In a moment / shortly.;Gleich.
-93;Godziny i organizacja pracy;Później.;Позже.;Later.;Später.
-94;Godziny i organizacja pracy;Wcześniej.;Раньше.;Earlier.;Früher.
-95;Godziny i organizacja pracy;Za godzinę.;Через час.;In an hour.;In einer Stunde.
-96;Godziny i organizacja pracy;O tej godzinie.;В это время.;At this time.;Um diese Uhrzeit.
-97;Godziny i organizacja pracy;O ósmej.;В восемь часов.;At eight o’clock.;Um acht Uhr.
-98;Godziny i organizacja pracy;O dziesiątej.;В десять часов.;At ten o’clock.;Um zehn Uhr.
-99;Godziny i organizacja pracy;Kiedy?;Когда?;When?;Wann?
-100;Godziny i organizacja pracy;Jak długo?;Как долго?;How long?;Wie lange?
-101;Godziny i organizacja pracy;Punktualnie.;Вовремя.;On time / punctually.;Pünktlich.
-102;Godziny i organizacja pracy;Za późno.;Слишком поздно.;Too late.;Zu spät.
-103;Godziny i organizacja pracy;Dostawa przyjeżdża o ósmej.;Доставка приедет в восемь.;The delivery arrives at eight.;Die Lieferung kommt um acht Uhr.
-104;Godziny i organizacja pracy;Zaczynamy o siódmej.;Мы начинаем в семь.;We start at seven.;Wir beginnen um sieben Uhr.
-105;Godziny i organizacja pracy;Rozładunek zaczyna się o dziesiątej.;Разгрузка начинается в десять.;Unloading starts at ten.;Die Entladung beginnt um zehn Uhr.
-106;Godziny i organizacja pracy;Proszę przyjechać jutro.;Приезжайте, пожалуйста, завтра.;Please come tomorrow.;Kommen Sie bitte morgen.
-107;Godziny i organizacja pracy;Nie teraz, później.;Не сейчас, позже.;Not now, later.;Nicht jetzt, später.
-108;Bezpieczeństwo;Uwaga!;Внимание!;Attention!;Achtung!
-109;Bezpieczeństwo;Ostrożnie!;Осторожно!;Careful!;Vorsicht!
-110;Bezpieczeństwo;Niebezpieczeństwo!;Опасность!;Danger!;Gefahr!
-111;Bezpieczeństwo;Natychmiast się zatrzymać!;Немедленно остановитесь!;Stop immediately!;Sofort anhalten!
-112;Bezpieczeństwo;Nie ruszać!;Не двигаться!;Do not move!;Nicht bewegen!
-113;Bezpieczeństwo;Nie jechać dalej!;Дальше не ехать!;Do not drive any further!;Nicht weiterfahren!
-114;Bezpieczeństwo;Zachować odstęp!;Соблюдайте дистанцию!;Keep your distance!;Abstand halten!
-115;Bezpieczeństwo;Wyłączyć silnik!;Выключите двигатель!;Turn off the engine!;Motor ausschalten!
-116;Bezpieczeństwo;Wsiadać!;Садитесь!;Get in!;Einsteigen!
-117;Bezpieczeństwo;Wysiadać!;Выходите!;Get out!;Aussteigen!
-118;Bezpieczeństwo;Teren zamknięty.;Территория закрыта.;Area closed.;Der Bereich ist gesperrt.
-119;Bezpieczeństwo;Nie wchodzić pod ładunek!;Не заходите под груз!;Do not go under the load!;Nicht unter die Last gehen!
-120;Bezpieczeństwo;Czekać na mój znak!;Ждите моего сигнала!;Wait for my signal!;Warten Sie auf mein Zeichen!
-121;Bezpieczeństwo;Nie podchodzić!;Не подходить!;Keep away!;Nicht näher kommen!
-122;Bezpieczeństwo;Odsunąć się!;Отойдите!;Move back!;Zurücktreten!
-123;Bezpieczeństwo;Nie dotykać!;Не трогать!;Do not touch!;Nicht berühren!
-124;Bezpieczeństwo;Niebezpieczna strefa.;Опасная зона.;Danger zone.;Gefahrenbereich.
-125;Pytania i odpowiedzi;Gdzie mam jechać?;Куда мне ехать?;Where should I drive?;Wohin soll ich fahren?
-126;Pytania i odpowiedzi;Gdzie mam się udać?;Куда мне направиться?;Where should I go?;Wohin soll ich gehen / fahren?
-127;Pytania i odpowiedzi;Czy tak jest dobrze?;Так правильно?;Is this okay?;Ist das so richtig?
-128;Pytania i odpowiedzi;Mam czekać?;Мне ждать?;Should I wait?;Soll ich warten?
-129;Pytania i odpowiedzi;Gdzie odbywa się rozładunek?;Где происходит разгрузка?;Where does unloading take place?;Wo wird entladen?
-130;Pytania i odpowiedzi;Gdzie odbywa się załadunek?;Где происходит погрузка?;Where does loading take place?;Wo wird geladen?
-131;Pytania i odpowiedzi;Ile to potrwa?;Сколько это займёт?;How long will it take?;Wie lange dauert das?
-132;Pytania i odpowiedzi;Skończyłem.;Я закончил.;I’m finished.;Ich bin fertig.
-133;Pytania i odpowiedzi;Czekam tutaj.;Я жду здесь.;I’m waiting here.;Ich warte hier.
-134;Pytania i odpowiedzi;Nie ma problemu.;Без проблем.;No problem.;Kein Problem.
-135;Pytania i odpowiedzi;Czy rozumie Pan/Pani?;Вы понимаете?;Do you understand?;Verstehen Sie?
-136;Pytania i odpowiedzi;Wszystko jasne?;Всё понятно?;Is everything clear?;Ist alles klar?
-137;Pytania i odpowiedzi;Czy potrzebuje Pan/Pani pomocy?;Вам нужна помощь?;Do you need help?;Brauchen Sie Hilfe?
-138;Pytania i odpowiedzi;Kto jest kierowcą?;Кто водитель?;Who is the driver?;Wer ist der Fahrer?
-139;Pytania i odpowiedzi;Kto odpowiada za transport?;Кто отвечает за перевозку?;Who is responsible for the transport?;Wer ist für den Transport verantwortlich?
+﻿Nr;Moduł;Kategoria;Polski;Rosyjski;Angielski;Niemiecki
+1;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Proszę ruszyć! (po ustaleniu kierunku);Поезжайте, пожалуйста!;Start moving, please!;Bitte losfahren!
+2;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Proszę jechać tam!;Езжайте туда, пожалуйста!;Drive over there, please!;Bitte dorthin fahren!
+3;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Proszę podjechać tutaj!;Подъезжайте сюда, пожалуйста!;Drive over here, please!;Bitte hierher fahren!
+4;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Powoli!;Медленно!;Slowly!;Langsam!
+5;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Bardzo powoli!;Очень медленно!;Very slowly!;Ganz langsam!
+6;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Stop!;Стоп!;Stop!;Stopp!
+7;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Zatrzymaj pojazd!;Остановите машину!;Stop the vehicle!;Fahrzeug anhalten!
+8;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Do przodu!;Вперёд!;Forward!;Vorwärts!
+9;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Do tyłu!;Назад!;Reverse!;Rückwärts!
+10;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;W lewo!;Налево!;Left!;Nach links!
+11;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;W prawo!;Направо!;Right!;Nach rechts!
+12;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Prosto!;Прямо!;Straight ahead!;Geradeaus!
+13;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Jeszcze kawałek!;Ещё немного!;A little further!;Noch ein Stück!
+14;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Jeszcze trochę do przodu!;Ещё немного вперёд!;A little further forward!;Noch ein Stück vorwärts!
+15;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Jeszcze trochę do tyłu!;Ещё немного назад!;A little further back!;Noch ein Stück zurück!
+16;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Proszę poczekać!;Подождите, пожалуйста!;Please wait!;Bitte warten!
+17;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Tutaj!;Здесь!;Here!;Hier!
+18;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Tam!;Там!;There!;Dort!
+19;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Obok dźwigu.;Рядом с краном.;Next to the crane.;Neben dem Kran.
+20;1;Dwadzieścia najważniejszych zwrotów — kierowanie pojazdem;Proszę czekać na mój znak.;Ждите моего сигнала, пожалуйста.;Wait for my signal, please.;Bitte auf mein Zeichen warten.
+21;2;Ustawianie ciężarówki i manewrowanie;Cofaj powoli!;Сдавайте назад медленно!;Reverse slowly!;Langsam rückwärtsfahren!
+22;2;Ustawianie ciężarówki i manewrowanie;Jedź wolniej!;Езжайте медленнее!;Drive more slowly!;Langsamer fahren!
+23;2;Ustawianie ciężarówki i manewrowanie;Przyspiesz! (pojazd);Увеличьте скорость!;Speed up!;Schneller fahren!
+24;2;Ustawianie ciężarówki i manewrowanie;Skręć w lewo!;Поверните налево!;Turn left!;Links abbiegen!
+25;2;Ustawianie ciężarówki i manewrowanie;Skręć w prawo!;Поверните направо!;Turn right!;Rechts abbiegen!
+26;2;Ustawianie ciężarówki i manewrowanie;Skręć kierownicę w lewo!;Поверните руль влево!;Turn the steering wheel left!;Lenkrad nach links drehen!
+27;2;Ustawianie ciężarówki i manewrowanie;Skręć kierownicę w prawo!;Поверните руль вправо!;Turn the steering wheel right!;Lenkrad nach rechts drehen!
+28;2;Ustawianie ciężarówki i manewrowanie;Ustaw koła prosto!;Поставьте колёса прямо!;Straighten the wheels!;Räder gerade stellen!
+29;2;Ustawianie ciężarówki i manewrowanie;Jedź dalej!;Продолжайте движение!;Keep going!;Weiterfahren!
+30;2;Ustawianie ciężarówki i manewrowanie;Nie jedź dalej!;Дальше не езжайте!;Do not drive any further!;Nicht weiterfahren!
+31;2;Ustawianie ciężarówki i manewrowanie;Podjedź bliżej!;Подъезжайте ближе!;Move closer!;Näher heranfahren!
+32;2;Ustawianie ciężarówki i manewrowanie;Podjedź kawałek dalej!;Проедьте ещё немного!;Drive a little further!;Noch ein Stück weiterfahren!
+33;2;Ustawianie ciężarówki i manewrowanie;Zatrzymaj się tutaj!;Остановитесь здесь!;Stop here!;Hier anhalten!
+34;2;Ustawianie ciężarówki i manewrowanie;Zostań na miejscu! (pojazd);Оставайтесь на месте!;Stay where you are!;Hier stehen bleiben!
+35;2;Ustawianie ciężarówki i manewrowanie;Przestaw ciężarówkę tam!;Переставьте грузовик туда!;Move the truck over there!;Den Lkw dorthin fahren!
+36;2;Ustawianie ciężarówki i manewrowanie;Zaparkuj tutaj!;Припаркуйтесь здесь!;Park here!;Hier parken!
+37;2;Ustawianie ciężarówki i manewrowanie;Podjedź bliżej dźwigu!;Подъезжайте ближе к крану!;Move closer to the crane!;Näher an den Kran heranfahren!
+38;2;Ustawianie ciężarówki i manewrowanie;Włącz hamulec postojowy!;Включите стояночный тормоз!;Apply the parking brake!;Feststellbremse anziehen!
+39;2;Ustawianie ciężarówki i manewrowanie;Podłóż kliny pod koła!;Поставьте упоры под колёса!;Put chocks under the wheels!;Unterlegkeile unter die Räder legen!
+40;2;Ustawianie ciężarówki i manewrowanie;Wyłącz silnik!;Выключите двигатель!;Turn off the engine!;Motor ausschalten!
+41;2;Ustawianie ciężarówki i manewrowanie;Wsiądź do kabiny!;Садитесь в кабину!;Get into the cab!;In die Kabine einsteigen!
+42;2;Ustawianie ciężarówki i manewrowanie;Wysiądź z kabiny!;Выйдите из кабины!;Get out of the cab!;Aus der Kabine aussteigen!
+43;3;Ciężarówka, naczepa i miejsca na placu;Ciężarówka.;Грузовик.;Truck.;Der Lkw.
+44;3;Ciężarówka, naczepa i miejsca na placu;Kierowca.;Водитель.;Driver.;Der Fahrer.
+45;3;Ciężarówka, naczepa i miejsca na placu;Naczepa.;Полуприцеп.;Semi-trailer.;Der Sattelauflieger.
+46;3;Ciężarówka, naczepa i miejsca na placu;Przyczepa.;Прицеп.;Trailer.;Der Anhänger.
+47;3;Ciężarówka, naczepa i miejsca na placu;Kabina.;Кабина.;Cab.;Die Kabine.
+48;3;Ciężarówka, naczepa i miejsca na placu;Powierzchnia ładunkowa.;Грузовая платформа.;Load bed.;Die Ladefläche.
+49;3;Ciężarówka, naczepa i miejsca na placu;Burta.;Борт.;Sideboard.;Die Bordwand.
+50;3;Ciężarówka, naczepa i miejsca na placu;Plandeka.;Тент.;Tarpaulin.;Die Plane.
+51;3;Ciężarówka, naczepa i miejsca na placu;Pas transportowy (do mocowania).;Стяжной ремень.;Tie-down strap.;Der Zurrgurt.
+52;3;Ciężarówka, naczepa i miejsca na placu;Napinacz pasa (grzechotka).;Храповый механизм ремня.;Strap ratchet.;Die Ratsche.
+53;3;Ciężarówka, naczepa i miejsca na placu;Klin pod koło.;Противооткатный упор.;Wheel chock.;Der Unterlegkeil.
+54;3;Ciężarówka, naczepa i miejsca na placu;Plac budowy.;Строительная площадка.;Construction site.;Die Baustelle.
+55;3;Ciężarówka, naczepa i miejsca na placu;Wjazd.;Въезд.;Entrance.;Die Einfahrt.
+56;3;Ciężarówka, naczepa i miejsca na placu;Wyjazd.;Выезд.;Exit.;Die Ausfahrt.
+57;3;Ciężarówka, naczepa i miejsca na placu;Parking.;Стоянка.;Parking area.;Der Parkplatz.
+58;3;Ciężarówka, naczepa i miejsca na placu;Miejsce rozładunku.;Место разгрузки.;Unloading area.;Der Entladeplatz.
+59;3;Ciężarówka, naczepa i miejsca na placu;Miejsce załadunku.;Место погрузки.;Loading area.;Der Ladeplatz.
+60;3;Ciężarówka, naczepa i miejsca na placu;Miejsce składowania.;Место складирования.;Storage area.;Der Lagerplatz.
+61;4;Przygotowanie ciężarówki do rozładunku;Rozładunek.;Разгрузка.;Unloading.;Die Entladung.
+62;4;Przygotowanie ciężarówki do rozładunku;Tutaj rozładowujemy.;Здесь разгружаем.;We unload here.;Hier laden wir ab.
+63;4;Przygotowanie ciężarówki do rozładunku;Rozładuj tutaj!;Разгрузите здесь!;Unload here!;Hier abladen!
+64;4;Przygotowanie ciężarówki do rozładunku;Otwórz tylne drzwi!;Откройте задние двери!;Open the rear doors!;Hintere Türen öffnen!
+65;4;Przygotowanie ciężarówki do rozładunku;Otwórz burtę!;Откройте борт!;Open the sideboard!;Bordwand öffnen!
+66;4;Przygotowanie ciężarówki do rozładunku;Odsuń plandekę boczną!;Сдвиньте боковой тент!;Open the side curtain!;Seitenplane aufschieben!
+67;4;Przygotowanie ciężarówki do rozładunku;Otwórz dach przesuwny!;Откройте сдвижную крышу!;Open the sliding roof!;Schiebedach öffnen!
+68;4;Przygotowanie ciężarówki do rozładunku;Poluzuj pasy transportowe!;Ослабьте стяжные ремни!;Loosen the tie-down straps!;Zurrgurte lösen!
+69;4;Przygotowanie ciężarówki do rozładunku;Zdejmij pasy transportowe!;Снимите стяжные ремни!;Remove the tie-down straps!;Zurrgurte entfernen!
+70;4;Przygotowanie ciężarówki do rozładunku;Jeszcze nie zdejmuj pasów!;Пока не снимайте стяжные ремни!;Do not remove the straps yet!;Zurrgurte noch nicht entfernen!
+71;4;Przygotowanie ciężarówki do rozładunku;Ładunek się przesunął.;Груз сместился.;The load has shifted.;Die Ladung ist verrutscht.
+72;4;Przygotowanie ciężarówki do rozładunku;Rozładowujemy z tej strony.;Разгружаем с этой стороны.;We unload from this side.;Wir laden von dieser Seite ab.
+73;4;Przygotowanie ciężarówki do rozładunku;Rozładowujemy od tyłu.;Разгружаем сзади.;We unload from the rear.;Wir laden von hinten ab.
+74;4;Przygotowanie ciężarówki do rozładunku;Rozładowujemy od góry.;Разгружаем сверху.;We unload from above.;Wir laden von oben ab.
+75;4;Przygotowanie ciężarówki do rozładunku;Najpierw zdejmujemy ten element.;Сначала снимаем эту деталь.;We unload this part first.;Dieses Teil laden wir zuerst ab.
+76;4;Przygotowanie ciężarówki do rozładunku;Ten element zostaje na samochodzie.;Эта деталь остаётся на грузовике.;This part stays on the truck.;Dieses Teil bleibt auf dem Lkw.
+77;5;Ładunek i sprzęt do rozładunku;Ładunek (przewożony).;Груз.;Cargo.;Die Ladung.
+78;5;Ładunek i sprzęt do rozładunku;Ładunek (podnoszony).;Груз.;Load.;Die Last.
+79;5;Ładunek i sprzęt do rozładunku;Paleta.;Поддон.;Pallet.;Die Palette.
+80;5;Ładunek i sprzęt do rozładunku;Skrzynia.;Ящик.;Crate.;Die Kiste.
+81;5;Ładunek i sprzęt do rozładunku;Element.;Деталь.;Part.;Das Teil.
+82;5;Ładunek i sprzęt do rozładunku;Belka.;Балка.;Beam.;Der Träger.
+83;5;Ładunek i sprzęt do rozładunku;Podkłady drewniane pod ładunek.;Деревянные подкладки под груз.;Wooden blocks for the load.;Die Unterleghölzer.
+84;5;Ładunek i sprzęt do rozładunku;Wózek widłowy.;Вилочный погрузчик.;Forklift.;Der Gabelstapler.
+85;5;Ładunek i sprzęt do rozładunku;Wózek paletowy.;Ручная тележка для поддонов.;Pallet truck.;Der Hubwagen.
+86;5;Ładunek i sprzęt do rozładunku;Widły wózka.;Вилы погрузчика.;Forks.;Die Gabelzinken.
+87;5;Ładunek i sprzęt do rozładunku;Dźwig (żuraw).;Кран.;Crane.;Der Kran.
+88;5;Ładunek i sprzęt do rozładunku;Hak.;Крюк.;Hook.;Der Haken.
+89;5;Ładunek i sprzęt do rozładunku;Zawiesie (do podnoszenia).;Строп.;Lifting sling.;Das Anschlagmittel.
+90;5;Ładunek i sprzęt do rozładunku;Zawiesie pasowe.;Ленточный строп.;Webbing sling.;Das Hebeband.
+91;5;Ładunek i sprzęt do rozładunku;Zawiesie łańcuchowe.;Цепной строп.;Chain sling.;Die Anschlagkette.
+92;5;Ładunek i sprzęt do rozładunku;Szekla.;Такелажная скоба.;Shackle.;Der Schäkel.
+93;5;Ładunek i sprzęt do rozładunku;Punkt podnoszenia.;Точка строповки.;Lifting point.;Der Anschlagpunkt.
+94;5;Ładunek i sprzęt do rozładunku;Lina do kierowania ładunkiem.;Оттяжка для управления грузом.;Tag line.;Das Führungsseil.
+95;5;Ładunek i sprzęt do rozładunku;Hakowy (osoba podwieszająca ładunek).;Стропальщик.;Slinger.;Der Anschläger.
+96;5;Ładunek i sprzęt do rozładunku;Sygnalista (osoba naprowadzająca).;Сигнальщик.;Signaller.;Der Einweiser.
+97;5;Ładunek i sprzęt do rozładunku;Operator dźwigu.;Крановщик.;Crane operator.;Der Kranführer.
+98;6;Podwieszanie i przemieszczanie ładunku;Ile waży ten ładunek?;Сколько весит этот груз?;How much does this load weigh?;Wie viel wiegt diese Last?
+99;6;Podwieszanie i przemieszczanie ładunku;Gdzie są punkty podnoszenia?;Где точки строповки?;Where are the lifting points?;Wo sind die Anschlagpunkte?
+100;6;Podwieszanie i przemieszczanie ładunku;Sprawdź zawiesia!;Проверьте стропы!;Check the slings!;Anschlagmittel prüfen!
+101;6;Podwieszanie i przemieszczanie ładunku;Podwieś ładunek! (za pomocą zawiesi);Застропите груз!;Sling the load!;Last anschlagen!
+102;6;Podwieszanie i przemieszczanie ładunku;Nie podnoś jeszcze!;Пока не поднимайте!;Do not lift yet!;Noch nicht heben!
+103;6;Podwieszanie i przemieszczanie ładunku;Podnoś hak!;Поднимайте крюк!;Raise the hook!;Haken heben!
+104;6;Podwieszanie i przemieszczanie ładunku;Opuszczaj hak!;Опускайте крюк!;Lower the hook!;Haken senken!
+105;6;Podwieszanie i przemieszczanie ładunku;Podnoś ładunek powoli!;Медленно поднимайте груз!;Lift the load slowly!;Last langsam heben!
+106;6;Podwieszanie i przemieszczanie ładunku;Opuszczaj ładunek powoli!;Медленно опускайте груз!;Lower the load slowly!;Last langsam senken!
+107;6;Podwieszanie i przemieszczanie ładunku;Przesuń ładunek w lewo!;Переместите груз влево!;Move the load left!;Last nach links bewegen!
+108;6;Podwieszanie i przemieszczanie ładunku;Przesuń ładunek w prawo!;Переместите груз вправо!;Move the load right!;Last nach rechts bewegen!
+109;6;Podwieszanie i przemieszczanie ładunku;Zatrzymaj ruch ładunku!;Остановите движение груза!;Stop moving the load!;Bewegung der Last stoppen!
+110;6;Podwieszanie i przemieszczanie ładunku;Ładunek się kołysze.;Груз раскачивается.;The load is swinging.;Die Last pendelt.
+111;6;Podwieszanie i przemieszczanie ładunku;Ładunek o coś zahaczył.;Груз за что-то зацепился.;The load is caught on something.;Die Last hat sich verhakt.
+112;6;Podwieszanie i przemieszczanie ładunku;Podnieś widły!;Поднимите вилы!;Raise the forks!;Gabeln heben!
+113;6;Podwieszanie i przemieszczanie ładunku;Opuść widły!;Опустите вилы!;Lower the forks!;Gabeln senken!
+114;6;Podwieszanie i przemieszczanie ładunku;Potrzebujemy wózka widłowego.;Нам нужен вилочный погрузчик.;We need a forklift.;Wir brauchen einen Gabelstapler.
+115;7;Odkładanie ładunku i zakończenie rozładunku;Ładunek ma trafić tutaj.;Груз нужно поставить сюда.;The load needs to go here.;Die Last muss hierher.
+116;7;Odkładanie ładunku i zakończenie rozładunku;Przygotuj podkłady pod ładunek!;Подготовьте подкладки под груз!;Prepare the blocks for the load!;Unterlagen für die Last vorbereiten!
+117;7;Odkładanie ładunku i zakończenie rozładunku;Odłóż ładunek tutaj!;Поставьте груз сюда!;Set the load down here!;Last hier absetzen!
+118;7;Odkładanie ładunku i zakończenie rozładunku;Odłóż ładunek na podkłady!;Поставьте груз на подкладки!;Set the load down on the blocks!;Last auf die Unterlagen absetzen!
+119;7;Odkładanie ładunku i zakończenie rozładunku;Nie odkładaj ładunku tutaj!;Не ставьте груз сюда!;Do not set the load down here!;Last hier nicht absetzen!
+120;7;Odkładanie ładunku i zakończenie rozładunku;Ładunek stoi stabilnie.;Груз стоит устойчиво.;The load is stable.;Die Last steht sicher.
+121;7;Odkładanie ładunku i zakończenie rozładunku;Odepnij zawiesia od ładunku!;Отцепите стропы от груза!;Disconnect the slings from the load!;Anschlagmittel von der Last lösen!
+122;7;Odkładanie ładunku i zakończenie rozładunku;Jeszcze nie odpinaj zawiesi!;Пока не отцепляйте стропы!;Do not disconnect the slings yet!;Anschlagmittel noch nicht lösen!
+123;7;Odkładanie ładunku i zakończenie rozładunku;Hak jest wolny.;Крюк свободен.;The hook is clear.;Der Haken ist frei.
+124;7;Odkładanie ładunku i zakończenie rozładunku;Rozładunek skończony.;Разгрузка закончена.;Unloading is finished.;Entladung beendet.
+125;7;Odkładanie ładunku i zakończenie rozładunku;Zamknij burtę!;Закройте борт!;Close the sideboard!;Bordwand schließen!
+126;7;Odkładanie ładunku i zakończenie rozładunku;Zamknij tylne drzwi!;Закройте задние двери!;Close the rear doors!;Hintere Türen schließen!
+127;7;Odkładanie ładunku i zakończenie rozładunku;Zamknij plandekę boczną!;Закройте боковой тент!;Close the side curtain!;Seitenplane schließen!
+128;7;Odkładanie ładunku i zakończenie rozładunku;Zostaw ciężarówkę tutaj!;Оставьте грузовик здесь!;Leave the truck here!;Den Lkw hier abstellen!
+129;7;Odkładanie ładunku i zakończenie rozładunku;Ciężarówka musi odjechać.;Грузовик должен уехать.;The truck has to leave.;Der Lkw muss weg.
+130;7;Odkładanie ładunku i zakończenie rozładunku;Możesz odjechać.;Можете уезжать.;You can drive away.;Sie können wegfahren.
+131;8;Kierunki, położenie i odległości;Przed ciężarówką.;Перед грузовиком.;In front of the truck.;Vor dem Lkw.
+132;8;Kierunki, położenie i odległości;Za ciężarówką.;За грузовиком.;Behind the truck.;Hinter dem Lkw.
+133;8;Kierunki, położenie i odległości;Obok ciężarówki.;Рядом с грузовиком.;Next to the truck.;Neben dem Lkw.
+134;8;Kierunki, położenie i odległości;Przed dźwigiem.;Перед краном.;In front of the crane.;Vor dem Kran.
+135;8;Kierunki, położenie i odległości;Za dźwigiem.;За краном.;Behind the crane.;Hinter dem Kran.
+136;8;Kierunki, położenie i odległości;Na lewo od dźwigu.;Слева от крана.;To the left of the crane.;Links vom Kran.
+137;8;Kierunki, położenie i odległości;Na prawo od dźwigu.;Справа от крана.;To the right of the crane.;Rechts vom Kran.
+138;8;Kierunki, położenie i odległości;Pomiędzy ciężarówką a dźwigiem.;Между грузовиком и краном.;Between the truck and the crane.;Zwischen dem Lkw und dem Kran.
+139;8;Kierunki, położenie i odległości;Naprzeciwko wjazdu.;Напротив въезда.;Opposite the entrance.;Gegenüber der Einfahrt.
+140;8;Kierunki, położenie i odległości;Z przodu.;Спереди.;At the front.;Vorne.
+141;8;Kierunki, położenie i odległości;Z tyłu.;Сзади.;At the back.;Hinten.
+142;8;Kierunki, położenie i odległości;Na środku.;Посередине.;In the middle.;In der Mitte.
+143;8;Kierunki, położenie i odległości;Z boku.;Сбоку.;At the side.;An der Seite.
+144;8;Kierunki, położenie i odległości;Bliżej.;Ближе.;Closer.;Näher.
+145;8;Kierunki, położenie i odległości;Dalej.;Дальше.;Further.;Weiter.
+146;8;Kierunki, położenie i odległości;Z tej strony.;С этой стороны.;From this side.;Von dieser Seite.
+147;8;Kierunki, położenie i odległości;Z drugiej strony.;С другой стороны.;From the other side.;Von der anderen Seite.
+148;8;Kierunki, położenie i odległości;Jeszcze metr do przodu!;Ещё метр вперёд!;One more metre forward!;Noch einen Meter vorwärts!
+149;8;Kierunki, położenie i odległości;Jeszcze pół metra do tyłu!;Ещё полметра назад!;Half a metre further back!;Noch einen halben Meter zurück!
+150;8;Kierunki, położenie i odległości;Zostało dziesięć centymetrów.;Осталось десять сантиметров.;Ten centimetres to go.;Noch zehn Zentimeter.
+151;8;Kierunki, położenie i odległości;Za blisko.;Слишком близко.;Too close.;Zu nah.
+152;8;Kierunki, położenie i odległości;Za daleko.;Слишком далеко.;Too far.;Zu weit.
+153;8;Kierunki, położenie i odległości;Nie ma miejsca.;Нет места.;There is no room.;Es ist kein Platz.
+154;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Żuraw mobilny.;Мобильный кран.;Mobile crane.;Der Mobilkran.
+155;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Wysięgnik.;Стрела.;Boom.;Der Ausleger.
+156;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Podpory dźwigu.;Выносные опоры крана.;Crane outriggers.;Die Kranabstützungen.
+157;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Płyty pod podpory.;Подкладные плиты под опоры.;Outrigger pads.;Die Unterlegplatten für die Abstützungen.
+158;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Przeciwwaga.;Противовес.;Counterweight.;Das Gegengewicht.
+159;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Sworzeń łączący.;Соединительный палец.;Connecting pin.;Der Verbindungsbolzen.
+160;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Zawleczka zabezpieczająca.;Стопорный шплинт.;Securing split pin.;Der Sicherungssplint.
+161;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Udźwig dopuszczalny (dla danej konfiguracji).;Допустимая грузоподъёмность.;Rated lifting capacity.;Die zulässige Tragfähigkeit.
+162;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Tabela udźwigów.;Таблица грузоподъёмности.;Load chart.;Die Traglasttabelle.
+163;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Wysięg (pozioma odległość od osi obrotu do pionu ładunku).;Вылет.;Working radius.;Die Ausladung.
+164;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Długość wysięgnika.;Длина стрелы.;Boom length.;Die Auslegerlänge.
+165;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Gdzie ustawiamy dźwig?;Где устанавливаем кран?;Where do we set up the crane?;Wo stellen wir den Kran auf?
+166;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Przygotuj płyty pod podpory!;Подготовьте плиты под опоры!;Prepare the outrigger pads!;Unterlegplatten für die Abstützungen vorbereiten!
+167;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Wypoziomuj dźwig!;Выровняйте кран по горизонтали!;Level the crane!;Kran waagerecht ausrichten!
+168;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Podnieś wysięgnik!;Поднимите стрелу!;Raise the boom!;Ausleger heben!
+169;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Opuść wysięgnik!;Опустите стрелу!;Lower the boom!;Ausleger senken!
+170;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Wysuń wysięgnik teleskopowy!;Выдвиньте телескопическую стрелу!;Extend the telescopic boom!;Teleskopausleger ausfahren!
+171;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Wsuń wysięgnik teleskopowy!;Втяните телескопическую стрелу!;Retract the telescopic boom!;Teleskopausleger einfahren!
+172;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Obrót w lewo! (nadwozie dźwigu);Поворот крана влево!;Slew left!;Nach links schwenken!
+173;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Obrót w prawo! (nadwozie dźwigu);Поворот крана вправо!;Slew right!;Nach rechts schwenken!
+174;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Włóż sworzeń!;Вставьте палец!;Insert the pin!;Bolzen einsetzen!
+175;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Zabezpiecz sworzeń!;Зафиксируйте палец!;Secure the pin!;Bolzen sichern!
+176;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Sprawdź konfigurację dźwigu!;Проверьте конфигурацию крана!;Check the crane configuration!;Krankonfiguration prüfen!
+177;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Sprawdź tabelę udźwigów!;Проверьте таблицу грузоподъёмности!;Check the load chart!;Traglasttabelle prüfen!
+178;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Jaki jest wysięg?;Какой вылет?;What is the working radius?;Wie groß ist die Ausladung?
+179;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Ile przeciwwagi potrzeba?;Какая масса противовеса нужна?;How much counterweight do we need?;Wie viel Gegengewicht brauchen wir?
+180;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Grunt jest miękki.;Грунт мягкий.;The ground is soft.;Der Boden ist weich.
+181;9;Dźwig — ustawianie, montaż i podstawowa konfiguracja;Podpora się zapada.;Опора проседает.;The outrigger is sinking.;Die Abstützung sinkt ein.
+182;10;Załadunek i zabezpieczanie do transportu;Załadunek.;Погрузка.;Loading.;Die Beladung.
+183;10;Załadunek i zabezpieczanie do transportu;Tutaj ładujemy.;Здесь загружаем.;We load here.;Hier laden wir auf.
+184;10;Załadunek i zabezpieczanie do transportu;Załaduj tam!;Загрузите там!;Load over there!;Dort aufladen!
+185;10;Załadunek i zabezpieczanie do transportu;Załaduj ten element jako pierwszy!;Загрузите эту деталь первой!;Load this part first!;Dieses Teil zuerst aufladen!
+186;10;Załadunek i zabezpieczanie do transportu;Ten element jedzie na tej ciężarówce.;Эта деталь поедет на этом грузовике.;This part goes on this truck.;Dieses Teil kommt auf diesen Lkw.
+187;10;Załadunek i zabezpieczanie do transportu;Zabezpiecz ładunek do transportu!;Закрепите груз для перевозки!;Secure the load for transport!;Ladung für den Transport sichern!
+188;10;Załadunek i zabezpieczanie do transportu;Załóż pasy transportowe!;Установите стяжные ремни!;Fit the tie-down straps!;Zurrgurte anbringen!
+189;10;Załadunek i zabezpieczanie do transportu;Napnij pasy transportowe!;Натяните стяжные ремни!;Tighten the tie-down straps!;Zurrgurte spannen!
+190;10;Załadunek i zabezpieczanie do transportu;Sprawdź mocowanie ładunku!;Проверьте крепление груза!;Check that the load is secured!;Ladungssicherung prüfen!
+191;10;Załadunek i zabezpieczanie do transportu;Załadunek skończony.;Погрузка закончена.;Loading is finished.;Beladung beendet.
+192;11;Agregat prądotwórczy i zasilanie;Agregat prądotwórczy.;Электрогенератор.;Generator.;Das Stromaggregat.
+193;11;Agregat prądotwórczy i zasilanie;Paliwo.;Топливо.;Fuel.;Der Kraftstoff.
+194;11;Agregat prądotwórczy i zasilanie;Olej napędowy.;Дизельное топливо.;Diesel.;Der Diesel.
+195;11;Agregat prądotwórczy i zasilanie;Benzyna.;Бензин.;Petrol.;Das Benzin.
+196;11;Agregat prądotwórczy i zasilanie;Olej silnikowy.;Моторное масло.;Engine oil.;Das Motoröl.
+197;11;Agregat prądotwórczy i zasilanie;Przedłużacz.;Удлинитель.;Extension lead.;Das Verlängerungskabel.
+198;11;Agregat prądotwórczy i zasilanie;Wtyczka.;Вилка.;Plug.;Der Stecker.
+199;11;Agregat prądotwórczy i zasilanie;Gniazdo elektryczne.;Розетка.;Socket.;Die Steckdose.
+200;11;Agregat prądotwórczy i zasilanie;Rozdzielnica budowlana.;Строительный электрощит.;Site distribution board.;Der Baustromverteiler.
+201;11;Agregat prądotwórczy i zasilanie;Uziemienie.;Заземление.;Earthing.;Die Erdung.
+202;11;Agregat prądotwórczy i zasilanie;Uruchom agregat!;Запустите генератор!;Start the generator!;Stromaggregat starten!
+203;11;Agregat prądotwórczy i zasilanie;Wyłącz agregat!;Выключите генератор!;Turn off the generator!;Stromaggregat ausschalten!
+204;11;Agregat prądotwórczy i zasilanie;Nie uruchamiaj agregatu!;Не запускайте генератор!;Do not start the generator!;Stromaggregat nicht starten!
+205;11;Agregat prądotwórczy i zasilanie;Sprawdź poziom paliwa!;Проверьте уровень топлива!;Check the fuel level!;Kraftstoffstand prüfen!
+206;11;Agregat prądotwórczy i zasilanie;Sprawdź poziom oleju!;Проверьте уровень масла!;Check the oil level!;Ölstand prüfen!
+207;11;Agregat prądotwórczy i zasilanie;Wyłącz zasilanie!;Отключите питание!;Switch off the power!;Strom abschalten!
+208;11;Agregat prądotwórczy i zasilanie;Podłącz przedłużacz!;Подключите удлинитель!;Plug in the extension lead!;Verlängerungskabel einstecken!
+209;11;Agregat prądotwórczy i zasilanie;Wyjmij wtyczkę z gniazda!;Выньте вилку из розетки!;Pull the plug out of the socket!;Stecker aus der Steckdose ziehen!
+210;11;Agregat prądotwórczy i zasilanie;Agregat nie odpala.;Генератор не заводится.;The generator will not start.;Das Stromaggregat springt nicht an.
+211;11;Agregat prądotwórczy i zasilanie;Nie ma zasilania.;Нет питания.;There is no power.;Es gibt keinen Strom.
+212;11;Agregat prądotwórczy i zasilanie;Kabel jest uszkodzony.;Кабель повреждён.;The cable is damaged.;Das Kabel ist beschädigt.
+213;11;Agregat prądotwórczy i zasilanie;Zadziałał wyłącznik nadprądowy.;Сработал автомат.;The breaker has tripped.;Der Sicherungsautomat hat ausgelöst.
+214;11;Agregat prądotwórczy i zasilanie;Wezwij elektryka!;Вызовите электрика!;Call an electrician!;Elektriker rufen!
+215;11;Agregat prądotwórczy i zasilanie;Nie używaj agregatu w pomieszczeniu! (agregat spalinowy);Не используйте генератор в помещении!;Do not use the generator indoors!;Stromaggregat nicht in Innenräumen betreiben!
+216;12;Inne prace na placu i podstawowe narzędzia;Narzędzia.;Инструменты.;Tools.;Die Werkzeuge.
+217;12;Inne prace na placu i podstawowe narzędzia;Klucz do śrub.;Гаечный ключ.;Spanner.;Der Schraubenschlüssel.
+218;12;Inne prace na placu i podstawowe narzędzia;Młotek.;Молоток.;Hammer.;Der Hammer.
+219;12;Inne prace na placu i podstawowe narzędzia;Wkrętarka akumulatorowa.;Аккумуляторный шуруповёрт.;Cordless drill driver.;Der Akkuschrauber.
+220;12;Inne prace na placu i podstawowe narzędzia;Miarka zwijana.;Рулетка.;Tape measure.;Das Maßband.
+221;12;Inne prace na placu i podstawowe narzędzia;Poziomnica.;Уровень.;Spirit level.;Die Wasserwaage.
+222;12;Inne prace na placu i podstawowe narzędzia;Śruba (np. łączona z nakrętką).;Болт.;Bolt.;Die Schraube.
+223;12;Inne prace na placu i podstawowe narzędzia;Nakrętka.;Гайка.;Nut.;Die Mutter.
+224;12;Inne prace na placu i podstawowe narzędzia;Podkładka pod śrubę.;Шайба.;Washer.;Die Unterlegscheibe.
+225;12;Inne prace na placu i podstawowe narzędzia;Podaj mi młotek!;Подайте мне молоток!;Pass me the hammer!;Bitte den Hammer geben!
+226;12;Inne prace na placu i podstawowe narzędzia;Przynieś narzędzia!;Принесите инструменты!;Bring the tools!;Werkzeuge holen!
+227;12;Inne prace na placu i podstawowe narzędzia;Przytrzymaj ten element!;Придержите эту деталь!;Hold this part!;Dieses Teil festhalten!
+228;12;Inne prace na placu i podstawowe narzędzia;Dokręć śrubę!;Затяните болт!;Tighten the bolt!;Schraube festziehen!
+229;12;Inne prace na placu i podstawowe narzędzia;Poluzuj śrubę!;Ослабьте болт!;Loosen the bolt!;Schraube lösen!
+230;12;Inne prace na placu i podstawowe narzędzia;Zmierz długość!;Измерьте длину!;Measure the length!;Länge messen!
+231;12;Inne prace na placu i podstawowe narzędzia;Sprawdź poziom! (poziomnicą);Проверьте по уровню!;Check that it is level!;Mit der Wasserwaage prüfen!
+232;12;Inne prace na placu i podstawowe narzędzia;Odłóż narzędzia!;Уберите инструменты!;Put the tools away!;Werkzeuge wegräumen!
+233;12;Inne prace na placu i podstawowe narzędzia;Posprzątaj tutaj!;Уберите здесь!;Clean up here!;Hier aufräumen!
+234;12;Inne prace na placu i podstawowe narzędzia;Potrzebuję pomocy.;Мне нужна помощь.;I need help.;Ich brauche Hilfe.
+235;13;Bezpieczeństwo i zgłaszanie zagrożeń;Uwaga! (ostrzeżenie o zagrożeniu);Осторожно!;Watch out!;Vorsicht!
+236;13;Bezpieczeństwo i zgłaszanie zagrożeń;Ostrożnie! (wykonuj ruch delikatnie);Осторожно!;Carefully!;Vorsichtig!
+237;13;Bezpieczeństwo i zgłaszanie zagrożeń;Niebezpieczeństwo!;Опасность!;Danger!;Gefahr!
+238;13;Bezpieczeństwo i zgłaszanie zagrożeń;Natychmiast stop!;Немедленно остановитесь!;Stop immediately!;Sofort stoppen!
+239;13;Bezpieczeństwo i zgłaszanie zagrożeń;Nie ruszaj się! (do osoby);Не двигайтесь!;Do not move!;Nicht bewegen!
+240;13;Bezpieczeństwo i zgłaszanie zagrożeń;Nie ruszaj pojazdem!;Не трогайтесь с места!;Do not move the vehicle!;Fahrzeug nicht bewegen!
+241;13;Bezpieczeństwo i zgłaszanie zagrożeń;Nie poruszaj ładunkiem!;Не перемещайте груз!;Do not move the load!;Last nicht bewegen!
+242;13;Bezpieczeństwo i zgłaszanie zagrożeń;Zachowaj odstęp!;Держитесь на расстоянии!;Keep your distance!;Abstand halten!
+243;13;Bezpieczeństwo i zgłaszanie zagrożeń;Teren zamknięty.;Территория закрыта.;Area closed.;Der Bereich ist gesperrt.
+244;13;Bezpieczeństwo i zgłaszanie zagrożeń;Nie wchodź pod wiszący ładunek!;Не заходите под подвешенный груз!;Do not go under the suspended load!;Nicht unter die schwebende Last gehen!
+245;13;Bezpieczeństwo i zgłaszanie zagrożeń;Nie podchodź!;Не подходите!;Keep away!;Nicht näher kommen!
+246;13;Bezpieczeństwo i zgłaszanie zagrożeń;Odsuń się!;Отойдите!;Move away!;Zurücktreten!
+247;13;Bezpieczeństwo i zgłaszanie zagrożeń;Nie dotykaj!;Не трогайте!;Do not touch!;Nicht berühren!
+248;13;Bezpieczeństwo i zgłaszanie zagrożeń;Strefa niebezpieczna.;Опасная зона.;Danger zone.;Der Gefahrenbereich.
+249;13;Bezpieczeństwo i zgłaszanie zagrożeń;Ktoś stoi za ciężarówką!;За грузовиком стоит человек!;Someone is behind the truck!;Hinter dem Lkw steht jemand!
+250;13;Bezpieczeństwo i zgłaszanie zagrożeń;Uważaj na ręce!;Берегите руки!;Watch your hands!;Auf die Hände aufpassen!
+251;13;Bezpieczeństwo i zgłaszanie zagrożeń;Ładunek się przechyla!;Груз наклоняется!;The load is tilting!;Die Last kippt!
+252;13;Bezpieczeństwo i zgłaszanie zagrożeń;Nad nami są przewody elektryczne!;Над нами электрические провода!;There are power lines overhead!;Über uns sind Stromleitungen!
+253;13;Bezpieczeństwo i zgłaszanie zagrożeń;Silny wiatr!;Сильный ветер!;Strong wind!;Starker Wind!
+254;13;Bezpieczeństwo i zgłaszanie zagrożeń;Załóż kask!;Наденьте каску!;Put on your hard hat!;Schutzhelm aufsetzen!
+255;13;Bezpieczeństwo i zgłaszanie zagrożeń;Załóż kamizelkę odblaskową!;Наденьте сигнальный жилет!;Put on your high-visibility vest!;Warnweste anziehen!
+256;13;Bezpieczeństwo i zgłaszanie zagrożeń;Przerwij pracę!;Прекратите работу!;Stop work!;Arbeit einstellen!
+257;14;Czas, dostawy i organizacja pracy;Dostawa.;Доставка.;Delivery.;Die Lieferung.
+258;14;Czas, dostawy i organizacja pracy;Dzisiaj.;Сегодня.;Today.;Heute.
+259;14;Czas, dostawy i organizacja pracy;Jutro.;Завтра.;Tomorrow.;Morgen.
+260;14;Czas, dostawy i organizacja pracy;Teraz.;Сейчас.;Now.;Jetzt.
+261;14;Czas, dostawy i organizacja pracy;Zaraz. (za chwilę);Сейчас. (вот-вот);In a moment.;Gleich.
+262;14;Czas, dostawy i organizacja pracy;Później.;Позже.;Later.;Später.
+263;14;Czas, dostawy i organizacja pracy;Wcześniej.;Раньше.;Earlier.;Früher.
+264;14;Czas, dostawy i organizacja pracy;Za godzinę.;Через час.;In an hour.;In einer Stunde.
+265;14;Czas, dostawy i organizacja pracy;O tej godzinie.;В это время.;At this time.;Um diese Uhrzeit.
+266;14;Czas, dostawy i organizacja pracy;O ósmej.;В восемь часов.;At eight o'clock.;Um acht Uhr.
+267;14;Czas, dostawy i organizacja pracy;O dziesiątej.;В десять часов.;At ten o'clock.;Um zehn Uhr.
+268;14;Czas, dostawy i organizacja pracy;Kiedy?;Когда?;When?;Wann?
+269;14;Czas, dostawy i organizacja pracy;Jak długo?;Как долго?;How long?;Wie lange?
+270;14;Czas, dostawy i organizacja pracy;Punktualnie.;Вовремя.;On time.;Pünktlich.
+271;14;Czas, dostawy i organizacja pracy;Za późno.;Слишком поздно.;Too late.;Zu spät.
+272;14;Czas, dostawy i organizacja pracy;Dostawa przyjedzie o ósmej.;Машина с грузом приедет в восемь.;The delivery will arrive at eight.;Die Lieferung kommt um acht Uhr.
+273;14;Czas, dostawy i organizacja pracy;Zaczynamy o siódmej.;Начинаем в семь.;We start at seven.;Wir fangen um sieben Uhr an.
+274;14;Czas, dostawy i organizacja pracy;Rozładunek zaczyna się o dziesiątej.;Разгрузка начинается в десять.;Unloading starts at ten.;Das Abladen beginnt um zehn Uhr.
+275;14;Czas, dostawy i organizacja pracy;Proszę przyjechać jutro.;Приезжайте завтра, пожалуйста.;Please come tomorrow.;Bitte morgen kommen.
+276;14;Czas, dostawy i organizacja pracy;Nie teraz, później.;Не сейчас, позже.;Not now, later.;Nicht jetzt, später.
+277;14;Czas, dostawy i organizacja pracy;Najpierw to, potem tamto.;Сначала это, потом то.;This first, then that.;Erst das hier, dann das dort.
+278;14;Czas, dostawy i organizacja pracy;Przerwa.;Перерыв.;Break.;Die Pause.
+279;15;Pytania, potwierdzenia i komunikacja przez radio;Gdzie mam jechać?;Куда мне ехать?;Where should I drive?;Wohin soll ich fahren?
+280;15;Pytania, potwierdzenia i komunikacja przez radio;Gdzie mam iść?;Куда мне идти?;Where should I go?;Wohin soll ich gehen?
+281;15;Pytania, potwierdzenia i komunikacja przez radio;Czy tak jest dobrze?;Так правильно?;Is this okay?;Ist das so richtig?
+282;15;Pytania, potwierdzenia i komunikacja przez radio;Mam czekać?;Мне ждать?;Should I wait?;Soll ich warten?
+283;15;Pytania, potwierdzenia i komunikacja przez radio;Gdzie rozładowujemy?;Где разгружаем?;Where do we unload?;Wo laden wir ab?
+284;15;Pytania, potwierdzenia i komunikacja przez radio;Gdzie ładujemy?;Где загружаем?;Where do we load?;Wo laden wir auf?
+285;15;Pytania, potwierdzenia i komunikacja przez radio;Ile to potrwa?;Сколько это займёт времени?;How long will it take?;Wie lange dauert das?
+286;15;Pytania, potwierdzenia i komunikacja przez radio;Skończyłem.;Я закончил.;I am finished.;Ich bin fertig.
+287;15;Pytania, potwierdzenia i komunikacja przez radio;Czekam tutaj.;Я жду здесь.;I am waiting here.;Ich warte hier.
+288;15;Pytania, potwierdzenia i komunikacja przez radio;Nie ma problemu.;Без проблем.;No problem.;Kein Problem.
+289;15;Pytania, potwierdzenia i komunikacja przez radio;Czy Pan/Pani rozumie?;Вы понимаете?;Do you understand?;Verstehen Sie?
+290;15;Pytania, potwierdzenia i komunikacja przez radio;Wszystko jasne?;Всё понятно?;Is everything clear?;Alles klar?
+291;15;Pytania, potwierdzenia i komunikacja przez radio;Czy potrzebuje Pan/Pani pomocy?;Вам нужна помощь?;Do you need help?;Brauchen Sie Hilfe?
+292;15;Pytania, potwierdzenia i komunikacja przez radio;Kto jest kierowcą?;Кто водитель?;Who is the driver?;Wer ist der Fahrer?
+293;15;Pytania, potwierdzenia i komunikacja przez radio;Kto odpowiada za transport?;Кто отвечает за перевозку?;Who is responsible for transport?;Wer ist für den Transport verantwortlich?
+294;15;Pytania, potwierdzenia i komunikacja przez radio;Kto daje sygnały?;Кто подаёт сигналы?;Who is giving the signals?;Wer gibt die Zeichen?
+295;15;Pytania, potwierdzenia i komunikacja przez radio;Nie rozumiem.;Я не понимаю.;I do not understand.;Ich verstehe nicht.
+296;15;Pytania, potwierdzenia i komunikacja przez radio;Proszę powtórzyć.;Повторите, пожалуйста.;Please repeat.;Bitte wiederholen.
+297;15;Pytania, potwierdzenia i komunikacja przez radio;Proszę mówić wolniej.;Говорите медленнее, пожалуйста.;Please speak more slowly.;Bitte langsamer sprechen.
+298;15;Pytania, potwierdzenia i komunikacja przez radio;Proszę pokazać.;Покажите, пожалуйста.;Please show me.;Bitte zeigen.
+299;15;Pytania, potwierdzenia i komunikacja przez radio;Tak, rozumiem.;Да, понимаю.;Yes, I understand.;Ja, ich verstehe.
+300;15;Pytania, potwierdzenia i komunikacja przez radio;Słyszysz mnie?;Вы меня слышите?;Can you hear me?;Können Sie mich hören?
+301;15;Pytania, potwierdzenia i komunikacja przez radio;Nie słyszę cię.;Я вас не слышу.;I cannot hear you.;Ich kann Sie nicht hören.
+302;15;Pytania, potwierdzenia i komunikacja przez radio;Nie widzę ładunku.;Я не вижу груз.;I cannot see the load.;Ich sehe die Last nicht.
+303;15;Pytania, potwierdzenia i komunikacja przez radio;Stop! Straciliśmy łączność!;Стоп! Связь пропала!;Stop! We have lost radio contact!;Stopp! Funkverbindung abgebrochen!
+304;15;Pytania, potwierdzenia i komunikacja przez radio;Na jakim kanale pracujemy?;На каком канале работаем?;Which radio channel are we using?;Auf welchem Funkkanal arbeiten wir?

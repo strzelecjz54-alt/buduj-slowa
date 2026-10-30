@@ -19,9 +19,9 @@ export function reviewQuestions(phrases, stats, lang) {
   return result;
 }
 // Equivalent commands must never be offered as competing answers.
-const equivalentGroups = [[0,20],[5,6,23],[8,22],[9,40],[10,41],[11,27,42],[12,32],[13,33],[14,34],[15,36],[16,52],[17,53],[18,60],[19,119],[29,112]];
+const equivalentGroups = [[5,6],[9,23],[10,24],[12,31]];
 export function normalizedAnswer(text) {
-  return text.normalize('NFKC').toLocaleLowerCase().replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim();
+  return text.replace(/\s*\([^)]*\)/g, '').normalize('NFKC').toLocaleLowerCase().replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim();
 }
 function answerKeys(phrase, pool, lang) {
   const group = equivalentGroups.find(ids => ids.includes(phrase.id));

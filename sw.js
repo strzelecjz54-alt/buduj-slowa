@@ -1,5 +1,5 @@
-const CACHE='buduj-slowa-v10';
-const FILES=['./','./index.html','./style.css?v=10','./app.js?v=10','./learning.js?v=10','./answer-sounds.js?v=10','./audio-settings.js?v=10','./data.js?v=10','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest','./exports/slownik_PL_RU_EN_DE.txt','./exports/slownik_PL_RU_EN_DE.csv'];
+const CACHE='buduj-slowa-v11';
+const FILES=['./','./index.html','./style.css?v=11','./app.js?v=11','./learning.js?v=11','./course.js?v=11','./answer-sounds.js?v=11','./audio-settings.js?v=11','./data.js?v=11','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest','./exports/slownik_PL_RU_EN_DE.txt','./exports/slownik_PL_RU_EN_DE.csv'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>Promise.all(FILES.map(url=>cache.add(new Request(url,{cache:'reload'}))))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('buduj-slowa-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{
