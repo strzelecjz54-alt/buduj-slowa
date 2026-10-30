@@ -1,4 +1,4 @@
-import { phrases, courseModules } from './data.js?v=13';
+import { phrases, courseModules } from './data.js?v=14';
 // Keep the source order and module boundaries; avoid a tiny last lesson.
 export const modules = courseModules.map(module => {
   const pool = phrases.filter(p => p.moduleId === module.id);

@@ -1,4 +1,4 @@
-import { wordMeanings } from './word-data.js?v=13';
+import { wordMeanings } from './word-data.js?v=14';
 export function normalizeWord(word) { return word.normalize('NFKC').toLocaleLowerCase().replaceAll('’', "'"); }
 export function wordParts(text) {
   const result = [];
