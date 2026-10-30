@@ -1,5 +1,5 @@
-const CACHE='buduj-slowa-v14';
-const FILES=['./','./index.html','./style.css?v=14','./app.js?v=14','./learning.js?v=14','./course.js?v=14','./word-lookup.js?v=14','./word-data.js?v=14','./WORD_DICTIONARY_LICENSE.md','./answer-sounds.js?v=14','./audio-settings.js?v=14','./data.js?v=14','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest','./exports/slownik_PL_RU_EN_DE.txt','./exports/slownik_PL_RU_EN_DE.csv'];
+const CACHE='buduj-slowa-v15';
+const FILES=['./','./index.html','./style.css?v=15','./app.js?v=15','./learning.js?v=15','./course.js?v=15','./word-lookup.js?v=15','./word-data.js?v=15','./WORD_DICTIONARY_LICENSE.md','./answer-sounds.js?v=15','./audio-settings.js?v=15','./data.js?v=15','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest','./exports/slownik_PL_RU_EN_DE.txt','./exports/slownik_PL_RU_EN_DE.csv'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>Promise.all(FILES.map(url=>cache.add(new Request(url,{cache:'reload'}))))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('buduj-slowa-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{
