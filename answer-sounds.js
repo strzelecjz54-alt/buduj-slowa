@@ -1,3 +1,4 @@
+import { getVolume } from './audio-settings.js';
 // Local, short cues: no downloads, speech engine or network required.
 let enabled = true;
 let context;
@@ -9,7 +10,7 @@ export function toggleSounds() {
   return enabled;
 }
 export function playAnswerSound(correct) {
-  if (!enabled) return;
+  if (!enabled || getVolume('effects') === 0) return;
   try {
     const AudioContext = window.AudioContext || window.webkitAudioContext;
     if (!AudioContext) return;
@@ -25,7 +26,7 @@ export function playAnswerSound(correct) {
         oscillator.type = 'sine';
         oscillator.frequency.value = frequency;
         gain.gain.setValueAtTime(0, start + offset);
-        gain.gain.linearRampToValueAtTime(.09, start + offset + .015);
+        gain.gain.linearRampToValueAtTime(.24 * getVolume('effects'), start + offset + .015);
         gain.gain.exponentialRampToValueAtTime(.001, start + offset + duration);
         oscillator.connect(gain);
         gain.connect(current.destination);
