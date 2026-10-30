@@ -10,7 +10,7 @@ export const phrases = [
   },
   {
     "pl": "Proszę jechać tam!",
-    "ru": "Езжайте туда!",
+    "ru": "Езжайте туда, пожалуйста!",
     "en": "Drive over there, please!",
     "de": "Fahren Sie bitte dorthin!",
     "category": "20 najważniejszych",
@@ -360,7 +360,7 @@ export const phrases = [
     "priority": false
   },
   {
-    "pl": "Lewo.",
+    "pl": "W lewo.",
     "ru": "Налево.",
     "en": "Left.",
     "de": "Links.",
@@ -369,7 +369,7 @@ export const phrases = [
     "priority": false
   },
   {
-    "pl": "Prawo.",
+    "pl": "W prawo.",
     "ru": "Направо.",
     "en": "Right.",
     "de": "Rechts.",
@@ -389,7 +389,7 @@ export const phrases = [
   {
     "pl": "Przed.",
     "ru": "Перед.",
-    "en": "In front of / before.",
+    "en": "In front of.",
     "de": "Vor.",
     "category": "Kierunki i położenie",
     "id": 43,
@@ -462,7 +462,7 @@ export const phrases = [
     "pl": "Z boku.",
     "ru": "Сбоку.",
     "en": "On the side.",
-    "de": "Auf der Seite.",
+    "de": "Seitlich.",
     "category": "Kierunki i położenie",
     "id": 51,
     "priority": false
@@ -901,7 +901,7 @@ export const phrases = [
   },
   {
     "pl": "Punktualnie.",
-    "ru": "Точно по времени.",
+    "ru": "Вовремя.",
     "en": "On time / punctually.",
     "de": "Pünktlich.",
     "category": "Godziny i organizacja pracy",
@@ -1153,8 +1153,8 @@ export const phrases = [
   },
   {
     "pl": "Gdzie odbywa się rozładunek?",
-    "ru": "Где разгружаться?",
-    "en": "Where is the unloading area?",
+    "ru": "Где происходит разгрузка?",
+    "en": "Where does unloading take place?",
     "de": "Wo wird entladen?",
     "category": "Pytania i odpowiedzi",
     "id": 128,
@@ -1162,8 +1162,8 @@ export const phrases = [
   },
   {
     "pl": "Gdzie odbywa się załadunek?",
-    "ru": "Где загружаться?",
-    "en": "Where is the loading area?",
+    "ru": "Где происходит погрузка?",
+    "en": "Where does loading take place?",
     "de": "Wo wird geladen?",
     "category": "Pytania i odpowiedzi",
     "id": 129,
@@ -1206,7 +1206,7 @@ export const phrases = [
     "priority": false
   },
   {
-    "pl": "Rozumiesz?",
+    "pl": "Czy rozumie Pan/Pani?",
     "ru": "Вы понимаете?",
     "en": "Do you understand?",
     "de": "Verstehen Sie?",
@@ -1224,7 +1224,7 @@ export const phrases = [
     "priority": false
   },
   {
-    "pl": "Potrzebujesz pomocy?",
+    "pl": "Czy potrzebuje Pan/Pani pomocy?",
     "ru": "Вам нужна помощь?",
     "en": "Do you need help?",
     "de": "Brauchen Sie Hilfe?",

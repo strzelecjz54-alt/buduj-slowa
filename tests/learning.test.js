@@ -36,3 +36,21 @@ test('small learned pools are repeated evenly to fill a ten-question series',()=
 });
 
 test("phonetic transcription is absent from all phrase data",()=>{assert.ok(phrases.every(p=>!("phon" in p)));});
+
+test('quiz excludes punctuation-only alternatives and equivalent command forms',()=>{
+  for(const lang of ['ru','en','de']) {
+    for(const [id,equivalents] of [[16,[52]],[17,[53]],[11,[27,42]],[5,[6,23]],[19,[119]],[29,[112]]]) {
+      for(let run=0;run<30;run++) {
+        const options=optionsFor(phrases[id],phrases,lang);
+        for(const other of equivalents)if(phrases[other][lang]!==phrases[id][lang])assert.ok(!options.includes(phrases[other][lang]));
+      }
+    }
+  }
+});
+test('all four options differ after normalizing punctuation and case',()=>{
+  const normalize=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}\s]/gu,' ').replace(/\s+/g,' ').trim();
+  for(const lang of ['ru','en','de'])for(const phrase of phrases) {
+    const options=optionsFor(phrase,phrases,lang).map(normalize);
+    assert.equal(new Set(options).size,4);
+  }
+});

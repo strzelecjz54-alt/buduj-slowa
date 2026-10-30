@@ -18,9 +18,28 @@ export function reviewQuestions(phrases, stats, lang) {
   }
   return result;
 }
+// Equivalent commands must never be offered as competing answers.
+const equivalentGroups = [[0,20],[5,6,23],[8,22],[9,40],[10,41],[11,27,42],[12,32],[13,33],[14,34],[15,36],[16,52],[17,53],[18,60],[19,119],[29,112]];
+export function normalizedAnswer(text) {
+  return text.normalize('NFKC').toLocaleLowerCase().replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim();
+}
+function answerKeys(phrase, pool, lang) {
+  const group = equivalentGroups.find(ids => ids.includes(phrase.id));
+  const related = group ? pool.filter(p => group.includes(p.id)) : [phrase];
+  return new Set([phrase, ...related].flatMap(p => p[lang].split(' / ').map(normalizedAnswer)));
+}
 export function optionsFor(answer, pool, lang) {
-  const alternatives = [...new Set(pool.filter(p => p.id !== answer.id).map(p => p[lang]))].filter(v => v !== answer[lang]);
-  return shuffled([answer[lang], ...shuffled(alternatives).slice(0, 3)]);
+  const seen = answerKeys(answer, pool, lang);
+  const alternatives = [];
+  for (const phrase of shuffled(pool)) {
+    if (phrase.id === answer.id) continue;
+    const keys = answerKeys(phrase, pool, lang);
+    if ([...keys].some(key => seen.has(key))) continue;
+    alternatives.push(phrase[lang]);
+    for (const key of keys) seen.add(key);
+    if (alternatives.length === 3) break;
+  }
+  return shuffled([answer[lang], ...alternatives]);
 }
 export function recordAnswer(stats, lang, id, correct, needsReview = false, mistakes = 0) {
   const key = `${lang}:${id}`;

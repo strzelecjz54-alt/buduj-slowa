@@ -47,4 +47,8 @@ Zmieniając pliki aplikacji, zwiększ wersję `CACHE` w `sw.js` oraz parametr we
 
 ## Materiał i bezpieczeństwo
 
-Tłumaczenia pochodzą z dostarczonego pliku `slownictwo_plac_budowy_RU_EN_DE.txt`. Zachowano ich brzmienie, w tym grzecznościowe formy rosyjskie. Rosyjski zapis fonetyczny został usunięty; do nauki wymowy służy odsłuch. Przed użyciem komend w pracy zweryfikuj je z osobą znającą język. Przy manewrach i pracy dźwigu stosuj ustalone sygnały i komendy; aplikacja służy nauce.
+Tłumaczenia pochodzą z dostarczonego pliku `slownictwo_plac_budowy_RU_EN_DE.txt`. Po przeglądzie językowym doprecyzowano tłumaczenia i formy grzecznościowe; zachowano identyfikatory zwrotów i postępy. Rosyjski zapis fonetyczny został usunięty; do nauki wymowy służy odsłuch. Przed użyciem komend w pracy zweryfikuj je z osobą znającą język. Przy manewrach i pracy dźwigu stosuj ustalone sygnały i komendy; aplikacja służy nauce.
+
+## Pobierz słownik
+
+Aktualne 139 haseł w czterech językach: [TXT](exports/slownik_PL_RU_EN_DE.txt) i [CSV / Excel](exports/slownik_PL_RU_EN_DE.csv). Plik CSV ma kodowanie UTF-8 z BOM i separator średnik. W quizie wykluczane są warianty równoważne i różniące się tylko interpunkcją.

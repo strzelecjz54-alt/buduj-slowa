@@ -1,0 +1,140 @@
+﻿Nr;Kategoria;Polski;Rosyjski;Angielski;Niemiecki
+1;20 najważniejszych;Proszę jechać!;Езжайте, пожалуйста!;Please drive!;Fahren Sie bitte!
+2;20 najważniejszych;Proszę jechać tam!;Езжайте туда, пожалуйста!;Drive over there, please!;Fahren Sie bitte dorthin!
+3;20 najważniejszych;Proszę podjechać tutaj!;Подъезжайте сюда, пожалуйста!;Please drive over here!;Fahren Sie bitte hierher!
+4;20 najważniejszych;Powoli!;Медленно!;Slowly!;Langsam!
+5;20 najważniejszych;Bardzo powoli!;Очень медленно!;Very slowly!;Ganz langsam!
+6;20 najważniejszych;Stop!;Стоп!;Stop!;Stopp!
+7;20 najważniejszych;Zatrzymać się!;Остановитесь!;Stop / Come to a stop!;Anhalten!
+8;20 najważniejszych;Do przodu!;Вперёд!;Forward!;Vorwärts!
+9;20 najważniejszych;Do tyłu!;Назад!;Back!;Zurück!
+10;20 najważniejszych;W lewo!;Налево!;To the left!;Nach links!
+11;20 najważniejszych;W prawo!;Направо!;To the right!;Nach rechts!
+12;20 najważniejszych;Prosto!;Прямо!;Straight ahead!;Geradeaus!
+13;20 najważniejszych;Jeszcze kawałek!;Ещё немного!;A little further!;Noch ein Stück!
+14;20 najważniejszych;Jeszcze trochę do przodu!;Ещё немного вперёд!;A little further forward!;Noch ein bisschen nach vorne!
+15;20 najważniejszych;Jeszcze trochę do tyłu!;Ещё немного назад!;A little further back!;Noch ein bisschen zurück!
+16;20 najważniejszych;Proszę poczekać!;Подождите, пожалуйста!;Please wait!;Warten Sie bitte!
+17;20 najważniejszych;Tutaj!;Здесь!;Here!;Hier!
+18;20 najważniejszych;Tam!;Там!;There!;Dort!
+19;20 najważniejszych;Obok dźwigu.;Рядом с краном.;Next to the crane.;Neben dem Kran.
+20;20 najważniejszych;Proszę czekać na mój znak.;Ждите моего сигнала.;Wait for my signal, please.;Warten Sie auf mein Zeichen.
+21;Kierowanie pojazdem;Jechać.;Ехать.;To drive / go.;Fahren.
+22;Kierowanie pojazdem;Podjechać.;Подъехать.;To pull up / drive up.;Heranfahren.
+23;Kierowanie pojazdem;Cofnąć.;Сдать назад.;To reverse.;Zurücksetzen.
+24;Kierowanie pojazdem;Zatrzymać się.;Остановиться.;To stop.;Anhalten.
+25;Kierowanie pojazdem;Przyspieszyć.;Ускориться.;To speed up.;Beschleunigen.
+26;Kierowanie pojazdem;Zwolnić.;Сбавить скорость.;To slow down.;Langsamer fahren.
+27;Kierowanie pojazdem;Skręcić.;Повернуть.;To turn.;Abbiegen.
+28;Kierowanie pojazdem;Jechać prosto.;Ехать прямо.;To go straight.;Geradeaus fahren.
+29;Kierowanie pojazdem;Jechać dalej.;Продолжать движение.;To keep going.;Weiterfahren.
+30;Kierowanie pojazdem;Nie jechać dalej.;Дальше не ехать.;Do not go any further.;Nicht weiterfahren.
+31;Kierowanie pojazdem;Podjechać bliżej.;Подъехать ближе.;To move closer.;Näher heranfahren.
+32;Kierowanie pojazdem;Podjechać dalej.;Проехать немного дальше.;To drive a little further.;Ein Stück weiterfahren.
+33;Kierowanie pojazdem;Jeszcze kawałek.;Ещё немного.;A little further.;Noch ein Stück.
+34;Kierowanie pojazdem;Jeszcze trochę do przodu.;Ещё немного вперёд.;A little further forward.;Noch ein bisschen nach vorne.
+35;Kierowanie pojazdem;Jeszcze trochę do tyłu.;Ещё немного назад.;A little further back.;Noch ein bisschen zurück.
+36;Kierowanie pojazdem;Zatrzymać się tutaj.;Остановиться здесь.;Stop here.;Hier anhalten.
+37;Kierowanie pojazdem;Poczekać.;Подождать.;To wait.;Warten.
+38;Kierowanie pojazdem;Zostać na miejscu.;Оставаться на месте.;To stay where you are.;Hier stehen bleiben.
+39;Kierowanie pojazdem;Przestawić ciężarówkę.;Переставить грузовик.;To reposition the truck.;Den LKW umstellen.
+40;Kierowanie pojazdem;Zaparkować.;Припарковаться.;To park.;Parken.
+41;Kierunki i położenie;W lewo.;Налево.;Left.;Links.
+42;Kierunki i położenie;W prawo.;Направо.;Right.;Rechts.
+43;Kierunki i położenie;Prosto.;Прямо.;Straight ahead.;Geradeaus.
+44;Kierunki i położenie;Przed.;Перед.;In front of.;Vor.
+45;Kierunki i położenie;Za.;За.;Behind.;Hinter.
+46;Kierunki i położenie;Obok.;Рядом.;Next to / beside.;Neben.
+47;Kierunki i położenie;Pomiędzy.;Между.;Between.;Zwischen.
+48;Kierunki i położenie;Naprzeciwko.;Напротив.;Opposite.;Gegenüber.
+49;Kierunki i położenie;Z przodu.;Спереди.;At the front.;Vorne.
+50;Kierunki i położenie;Z tyłu.;Сзади.;At the back.;Hinten.
+51;Kierunki i położenie;Na środku.;Посередине.;In the middle.;In der Mitte.
+52;Kierunki i położenie;Z boku.;Сбоку.;On the side.;Seitlich.
+53;Kierunki i położenie;Tutaj.;Здесь.;Here.;Hier.
+54;Kierunki i położenie;Tam.;Там.;There.;Dort.
+55;Kierunki i położenie;Bliżej.;Ближе.;Closer.;Näher.
+56;Kierunki i położenie;Dalej.;Дальше.;Further.;Weiter.
+57;Kierunki i położenie;Na lewo od dźwigu.;Слева от крана.;To the left of the crane.;Links vom Kran.
+58;Kierunki i położenie;Na prawo od dźwigu.;Справа от крана.;To the right of the crane.;Rechts vom Kran.
+59;Kierunki i położenie;Przed dźwigiem.;Перед краном.;In front of the crane.;Vor dem Kran.
+60;Kierunki i położenie;Za dźwigiem.;За краном.;Behind the crane.;Hinter dem Kran.
+61;Kierunki i położenie;Obok dźwigu.;Рядом с краном.;Next to the crane.;Neben dem Kran.
+62;Kierunki i położenie;Przed ciężarówką.;Перед грузовиком.;In front of the truck.;Vor dem LKW.
+63;Kierunki i położenie;Za ciężarówką.;За грузовиком.;Behind the truck.;Hinter dem LKW.
+64;Kierunki i położenie;Obok ciężarówki.;Рядом с грузовиком.;Next to the truck.;Neben dem LKW.
+65;Ciężarówki, załadunek i rozładunek;Ciężarówka.;Грузовик.;Truck / lorry.;Der LKW.
+66;Ciężarówki, załadunek i rozładunek;Kierowca.;Водитель.;Driver.;Der Fahrer.
+67;Ciężarówki, załadunek i rozładunek;Dźwig.;Кран.;Crane.;Der Kran.
+68;Ciężarówki, załadunek i rozładunek;Ładunek.;Груз.;Load / cargo.;Die Ladung.
+69;Ciężarówki, załadunek i rozładunek;Załadunek.;Погрузка.;Loading.;Die Beladung.
+70;Ciężarówki, załadunek i rozładunek;Rozładunek.;Разгрузка.;Unloading.;Die Entladung.
+71;Ciężarówki, załadunek i rozładunek;Załadować.;Загрузить / погрузить.;To load.;Aufladen / beladen.
+72;Ciężarówki, załadunek i rozładunek;Rozładować.;Разгрузить.;To unload.;Abladen / entladen.
+73;Ciężarówki, załadunek i rozładunek;Dostawa.;Доставка.;Delivery.;Die Lieferung.
+74;Ciężarówki, załadunek i rozładunek;Parking.;Стоянка / парковка.;Parking area.;Der Parkplatz.
+75;Ciężarówki, załadunek i rozładunek;Plac budowy.;Строительная площадка.;Construction site.;Die Baustelle.
+76;Ciężarówki, załadunek i rozładunek;Wjazd.;Въезд.;Entrance / access.;Die Zufahrt.
+77;Ciężarówki, załadunek i rozładunek;Wyjazd.;Выезд.;Exit.;Die Ausfahrt.
+78;Ciężarówki, załadunek i rozładunek;Miejsce załadunku.;Место погрузки.;Loading area.;Der Ladeplatz.
+79;Ciężarówki, załadunek i rozładunek;Miejsce rozładunku.;Место разгрузки.;Unloading area.;Der Entladeplatz.
+80;Ciężarówki, załadunek i rozładunek;Tutaj załadunek.;Здесь погрузка.;Loading here.;Hier wird geladen.
+81;Ciężarówki, załadunek i rozładunek;Tutaj rozładunek.;Здесь разгрузка.;Unloading here.;Hier wird entladen.
+82;Ciężarówki, załadunek i rozładunek;Rozładować tutaj.;Разгрузить здесь.;Unload here.;Hier abladen.
+83;Ciężarówki, załadunek i rozładunek;Załadować tam.;Загрузить там.;Load over there.;Dort aufladen.
+84;Ciężarówki, załadunek i rozładunek;Przestawić ciężarówkę tam.;Переставить грузовик туда.;Move the truck over there.;Stellen Sie den LKW dorthin.
+85;Ciężarówki, załadunek i rozładunek;Podjechać bliżej dźwigu.;Подъехать ближе к крану.;Move closer to the crane.;Näher an den Kran heranfahren.
+86;Ciężarówki, załadunek i rozładunek;Ciężarówka musi odjechać.;Грузовик должен уехать.;The truck has to leave.;Der LKW muss weg.
+87;Ciężarówki, załadunek i rozładunek;Zostawić ciężarówkę tutaj.;Оставить грузовик здесь.;Leave the truck here.;Stellen Sie den LKW hier ab.
+88;Ciężarówki, załadunek i rozładunek;Ładunek ma trafić tutaj.;Груз нужно доставить сюда.;The load needs to go here.;Die Ladung muss hierher.
+89;Godziny i organizacja pracy;Dzisiaj.;Сегодня.;Today.;Heute.
+90;Godziny i organizacja pracy;Jutro.;Завтра.;Tomorrow.;Morgen.
+91;Godziny i organizacja pracy;Teraz.;Сейчас.;Now.;Jetzt.
+92;Godziny i organizacja pracy;Zaraz.;Скоро / сейчас.;In a moment / shortly.;Gleich.
+93;Godziny i organizacja pracy;Później.;Позже.;Later.;Später.
+94;Godziny i organizacja pracy;Wcześniej.;Раньше.;Earlier.;Früher.
+95;Godziny i organizacja pracy;Za godzinę.;Через час.;In an hour.;In einer Stunde.
+96;Godziny i organizacja pracy;O tej godzinie.;В это время.;At this time.;Um diese Uhrzeit.
+97;Godziny i organizacja pracy;O ósmej.;В восемь часов.;At eight o’clock.;Um acht Uhr.
+98;Godziny i organizacja pracy;O dziesiątej.;В десять часов.;At ten o’clock.;Um zehn Uhr.
+99;Godziny i organizacja pracy;Kiedy?;Когда?;When?;Wann?
+100;Godziny i organizacja pracy;Jak długo?;Как долго?;How long?;Wie lange?
+101;Godziny i organizacja pracy;Punktualnie.;Вовремя.;On time / punctually.;Pünktlich.
+102;Godziny i organizacja pracy;Za późno.;Слишком поздно.;Too late.;Zu spät.
+103;Godziny i organizacja pracy;Dostawa przyjeżdża o ósmej.;Доставка приедет в восемь.;The delivery arrives at eight.;Die Lieferung kommt um acht Uhr.
+104;Godziny i organizacja pracy;Zaczynamy o siódmej.;Мы начинаем в семь.;We start at seven.;Wir beginnen um sieben Uhr.
+105;Godziny i organizacja pracy;Rozładunek zaczyna się o dziesiątej.;Разгрузка начинается в десять.;Unloading starts at ten.;Die Entladung beginnt um zehn Uhr.
+106;Godziny i organizacja pracy;Proszę przyjechać jutro.;Приезжайте, пожалуйста, завтра.;Please come tomorrow.;Kommen Sie bitte morgen.
+107;Godziny i organizacja pracy;Nie teraz, później.;Не сейчас, позже.;Not now, later.;Nicht jetzt, später.
+108;Bezpieczeństwo;Uwaga!;Внимание!;Attention!;Achtung!
+109;Bezpieczeństwo;Ostrożnie!;Осторожно!;Careful!;Vorsicht!
+110;Bezpieczeństwo;Niebezpieczeństwo!;Опасность!;Danger!;Gefahr!
+111;Bezpieczeństwo;Natychmiast się zatrzymać!;Немедленно остановитесь!;Stop immediately!;Sofort anhalten!
+112;Bezpieczeństwo;Nie ruszać!;Не двигаться!;Do not move!;Nicht bewegen!
+113;Bezpieczeństwo;Nie jechać dalej!;Дальше не ехать!;Do not drive any further!;Nicht weiterfahren!
+114;Bezpieczeństwo;Zachować odstęp!;Соблюдайте дистанцию!;Keep your distance!;Abstand halten!
+115;Bezpieczeństwo;Wyłączyć silnik!;Выключите двигатель!;Turn off the engine!;Motor ausschalten!
+116;Bezpieczeństwo;Wsiadać!;Садитесь!;Get in!;Einsteigen!
+117;Bezpieczeństwo;Wysiadać!;Выходите!;Get out!;Aussteigen!
+118;Bezpieczeństwo;Teren zamknięty.;Территория закрыта.;Area closed.;Der Bereich ist gesperrt.
+119;Bezpieczeństwo;Nie wchodzić pod ładunek!;Не заходите под груз!;Do not go under the load!;Nicht unter die Last gehen!
+120;Bezpieczeństwo;Czekać na mój znak!;Ждите моего сигнала!;Wait for my signal!;Warten Sie auf mein Zeichen!
+121;Bezpieczeństwo;Nie podchodzić!;Не подходить!;Keep away!;Nicht näher kommen!
+122;Bezpieczeństwo;Odsunąć się!;Отойдите!;Move back!;Zurücktreten!
+123;Bezpieczeństwo;Nie dotykać!;Не трогать!;Do not touch!;Nicht berühren!
+124;Bezpieczeństwo;Niebezpieczna strefa.;Опасная зона.;Danger zone.;Gefahrenbereich.
+125;Pytania i odpowiedzi;Gdzie mam jechać?;Куда мне ехать?;Where should I drive?;Wohin soll ich fahren?
+126;Pytania i odpowiedzi;Gdzie mam się udać?;Куда мне направиться?;Where should I go?;Wohin soll ich gehen / fahren?
+127;Pytania i odpowiedzi;Czy tak jest dobrze?;Так правильно?;Is this okay?;Ist das so richtig?
+128;Pytania i odpowiedzi;Mam czekać?;Мне ждать?;Should I wait?;Soll ich warten?
+129;Pytania i odpowiedzi;Gdzie odbywa się rozładunek?;Где происходит разгрузка?;Where does unloading take place?;Wo wird entladen?
+130;Pytania i odpowiedzi;Gdzie odbywa się załadunek?;Где происходит погрузка?;Where does loading take place?;Wo wird geladen?
+131;Pytania i odpowiedzi;Ile to potrwa?;Сколько это займёт?;How long will it take?;Wie lange dauert das?
+132;Pytania i odpowiedzi;Skończyłem.;Я закончил.;I’m finished.;Ich bin fertig.
+133;Pytania i odpowiedzi;Czekam tutaj.;Я жду здесь.;I’m waiting here.;Ich warte hier.
+134;Pytania i odpowiedzi;Nie ma problemu.;Без проблем.;No problem.;Kein Problem.
+135;Pytania i odpowiedzi;Czy rozumie Pan/Pani?;Вы понимаете?;Do you understand?;Verstehen Sie?
+136;Pytania i odpowiedzi;Wszystko jasne?;Всё понятно?;Is everything clear?;Ist alles klar?
+137;Pytania i odpowiedzi;Czy potrzebuje Pan/Pani pomocy?;Вам нужна помощь?;Do you need help?;Brauchen Sie Hilfe?
+138;Pytania i odpowiedzi;Kto jest kierowcą?;Кто водитель?;Who is the driver?;Wer ist der Fahrer?
+139;Pytania i odpowiedzi;Kto odpowiada za transport?;Кто отвечает за перевозку?;Who is responsible for the transport?;Wer ist für den Transport verantwortlich?

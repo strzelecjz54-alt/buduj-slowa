@@ -1,0 +1,176 @@
+SŁOWNIK — PLAC BUDOWY
+Polski | Rosyjski | Angielski | Niemiecki
+
+139 zwrotów. Pierwsze 20: najważniejsze komendy.
+Formy grzecznościowe do kierowcy. Wymowa: odsłuch w aplikacji.
+
+
+20 NAJWAŻNIEJSZYCH
+Polski | Rosyjski | Angielski | Niemiecki
+
+1. Proszę jechać! | Езжайте, пожалуйста! | Please drive! | Fahren Sie bitte!
+2. Proszę jechać tam! | Езжайте туда, пожалуйста! | Drive over there, please! | Fahren Sie bitte dorthin!
+3. Proszę podjechać tutaj! | Подъезжайте сюда, пожалуйста! | Please drive over here! | Fahren Sie bitte hierher!
+4. Powoli! | Медленно! | Slowly! | Langsam!
+5. Bardzo powoli! | Очень медленно! | Very slowly! | Ganz langsam!
+6. Stop! | Стоп! | Stop! | Stopp!
+7. Zatrzymać się! | Остановитесь! | Stop / Come to a stop! | Anhalten!
+8. Do przodu! | Вперёд! | Forward! | Vorwärts!
+9. Do tyłu! | Назад! | Back! | Zurück!
+10. W lewo! | Налево! | To the left! | Nach links!
+11. W prawo! | Направо! | To the right! | Nach rechts!
+12. Prosto! | Прямо! | Straight ahead! | Geradeaus!
+13. Jeszcze kawałek! | Ещё немного! | A little further! | Noch ein Stück!
+14. Jeszcze trochę do przodu! | Ещё немного вперёд! | A little further forward! | Noch ein bisschen nach vorne!
+15. Jeszcze trochę do tyłu! | Ещё немного назад! | A little further back! | Noch ein bisschen zurück!
+16. Proszę poczekać! | Подождите, пожалуйста! | Please wait! | Warten Sie bitte!
+17. Tutaj! | Здесь! | Here! | Hier!
+18. Tam! | Там! | There! | Dort!
+19. Obok dźwigu. | Рядом с краном. | Next to the crane. | Neben dem Kran.
+20. Proszę czekać na mój znak. | Ждите моего сигнала. | Wait for my signal, please. | Warten Sie auf mein Zeichen.
+
+KIEROWANIE POJAZDEM
+Polski | Rosyjski | Angielski | Niemiecki
+
+21. Jechać. | Ехать. | To drive / go. | Fahren.
+22. Podjechać. | Подъехать. | To pull up / drive up. | Heranfahren.
+23. Cofnąć. | Сдать назад. | To reverse. | Zurücksetzen.
+24. Zatrzymać się. | Остановиться. | To stop. | Anhalten.
+25. Przyspieszyć. | Ускориться. | To speed up. | Beschleunigen.
+26. Zwolnić. | Сбавить скорость. | To slow down. | Langsamer fahren.
+27. Skręcić. | Повернуть. | To turn. | Abbiegen.
+28. Jechać prosto. | Ехать прямо. | To go straight. | Geradeaus fahren.
+29. Jechać dalej. | Продолжать движение. | To keep going. | Weiterfahren.
+30. Nie jechać dalej. | Дальше не ехать. | Do not go any further. | Nicht weiterfahren.
+31. Podjechać bliżej. | Подъехать ближе. | To move closer. | Näher heranfahren.
+32. Podjechać dalej. | Проехать немного дальше. | To drive a little further. | Ein Stück weiterfahren.
+33. Jeszcze kawałek. | Ещё немного. | A little further. | Noch ein Stück.
+34. Jeszcze trochę do przodu. | Ещё немного вперёд. | A little further forward. | Noch ein bisschen nach vorne.
+35. Jeszcze trochę do tyłu. | Ещё немного назад. | A little further back. | Noch ein bisschen zurück.
+36. Zatrzymać się tutaj. | Остановиться здесь. | Stop here. | Hier anhalten.
+37. Poczekać. | Подождать. | To wait. | Warten.
+38. Zostać na miejscu. | Оставаться на месте. | To stay where you are. | Hier stehen bleiben.
+39. Przestawić ciężarówkę. | Переставить грузовик. | To reposition the truck. | Den LKW umstellen.
+40. Zaparkować. | Припарковаться. | To park. | Parken.
+
+KIERUNKI I POŁOŻENIE
+Polski | Rosyjski | Angielski | Niemiecki
+
+41. W lewo. | Налево. | Left. | Links.
+42. W prawo. | Направо. | Right. | Rechts.
+43. Prosto. | Прямо. | Straight ahead. | Geradeaus.
+44. Przed. | Перед. | In front of. | Vor.
+45. Za. | За. | Behind. | Hinter.
+46. Obok. | Рядом. | Next to / beside. | Neben.
+47. Pomiędzy. | Между. | Between. | Zwischen.
+48. Naprzeciwko. | Напротив. | Opposite. | Gegenüber.
+49. Z przodu. | Спереди. | At the front. | Vorne.
+50. Z tyłu. | Сзади. | At the back. | Hinten.
+51. Na środku. | Посередине. | In the middle. | In der Mitte.
+52. Z boku. | Сбоку. | On the side. | Seitlich.
+53. Tutaj. | Здесь. | Here. | Hier.
+54. Tam. | Там. | There. | Dort.
+55. Bliżej. | Ближе. | Closer. | Näher.
+56. Dalej. | Дальше. | Further. | Weiter.
+57. Na lewo od dźwigu. | Слева от крана. | To the left of the crane. | Links vom Kran.
+58. Na prawo od dźwigu. | Справа от крана. | To the right of the crane. | Rechts vom Kran.
+59. Przed dźwigiem. | Перед краном. | In front of the crane. | Vor dem Kran.
+60. Za dźwigiem. | За краном. | Behind the crane. | Hinter dem Kran.
+61. Obok dźwigu. | Рядом с краном. | Next to the crane. | Neben dem Kran.
+62. Przed ciężarówką. | Перед грузовиком. | In front of the truck. | Vor dem LKW.
+63. Za ciężarówką. | За грузовиком. | Behind the truck. | Hinter dem LKW.
+64. Obok ciężarówki. | Рядом с грузовиком. | Next to the truck. | Neben dem LKW.
+
+CIĘŻARÓWKI, ZAŁADUNEK I ROZŁADUNEK
+Polski | Rosyjski | Angielski | Niemiecki
+
+65. Ciężarówka. | Грузовик. | Truck / lorry. | Der LKW.
+66. Kierowca. | Водитель. | Driver. | Der Fahrer.
+67. Dźwig. | Кран. | Crane. | Der Kran.
+68. Ładunek. | Груз. | Load / cargo. | Die Ladung.
+69. Załadunek. | Погрузка. | Loading. | Die Beladung.
+70. Rozładunek. | Разгрузка. | Unloading. | Die Entladung.
+71. Załadować. | Загрузить / погрузить. | To load. | Aufladen / beladen.
+72. Rozładować. | Разгрузить. | To unload. | Abladen / entladen.
+73. Dostawa. | Доставка. | Delivery. | Die Lieferung.
+74. Parking. | Стоянка / парковка. | Parking area. | Der Parkplatz.
+75. Plac budowy. | Строительная площадка. | Construction site. | Die Baustelle.
+76. Wjazd. | Въезд. | Entrance / access. | Die Zufahrt.
+77. Wyjazd. | Выезд. | Exit. | Die Ausfahrt.
+78. Miejsce załadunku. | Место погрузки. | Loading area. | Der Ladeplatz.
+79. Miejsce rozładunku. | Место разгрузки. | Unloading area. | Der Entladeplatz.
+80. Tutaj załadunek. | Здесь погрузка. | Loading here. | Hier wird geladen.
+81. Tutaj rozładunek. | Здесь разгрузка. | Unloading here. | Hier wird entladen.
+82. Rozładować tutaj. | Разгрузить здесь. | Unload here. | Hier abladen.
+83. Załadować tam. | Загрузить там. | Load over there. | Dort aufladen.
+84. Przestawić ciężarówkę tam. | Переставить грузовик туда. | Move the truck over there. | Stellen Sie den LKW dorthin.
+85. Podjechać bliżej dźwigu. | Подъехать ближе к крану. | Move closer to the crane. | Näher an den Kran heranfahren.
+86. Ciężarówka musi odjechać. | Грузовик должен уехать. | The truck has to leave. | Der LKW muss weg.
+87. Zostawić ciężarówkę tutaj. | Оставить грузовик здесь. | Leave the truck here. | Stellen Sie den LKW hier ab.
+88. Ładunek ma trafić tutaj. | Груз нужно доставить сюда. | The load needs to go here. | Die Ladung muss hierher.
+
+GODZINY I ORGANIZACJA PRACY
+Polski | Rosyjski | Angielski | Niemiecki
+
+89. Dzisiaj. | Сегодня. | Today. | Heute.
+90. Jutro. | Завтра. | Tomorrow. | Morgen.
+91. Teraz. | Сейчас. | Now. | Jetzt.
+92. Zaraz. | Скоро / сейчас. | In a moment / shortly. | Gleich.
+93. Później. | Позже. | Later. | Später.
+94. Wcześniej. | Раньше. | Earlier. | Früher.
+95. Za godzinę. | Через час. | In an hour. | In einer Stunde.
+96. O tej godzinie. | В это время. | At this time. | Um diese Uhrzeit.
+97. O ósmej. | В восемь часов. | At eight o’clock. | Um acht Uhr.
+98. O dziesiątej. | В десять часов. | At ten o’clock. | Um zehn Uhr.
+99. Kiedy? | Когда? | When? | Wann?
+100. Jak długo? | Как долго? | How long? | Wie lange?
+101. Punktualnie. | Вовремя. | On time / punctually. | Pünktlich.
+102. Za późno. | Слишком поздно. | Too late. | Zu spät.
+103. Dostawa przyjeżdża o ósmej. | Доставка приедет в восемь. | The delivery arrives at eight. | Die Lieferung kommt um acht Uhr.
+104. Zaczynamy o siódmej. | Мы начинаем в семь. | We start at seven. | Wir beginnen um sieben Uhr.
+105. Rozładunek zaczyna się o dziesiątej. | Разгрузка начинается в десять. | Unloading starts at ten. | Die Entladung beginnt um zehn Uhr.
+106. Proszę przyjechać jutro. | Приезжайте, пожалуйста, завтра. | Please come tomorrow. | Kommen Sie bitte morgen.
+107. Nie teraz, później. | Не сейчас, позже. | Not now, later. | Nicht jetzt, später.
+
+BEZPIECZEŃSTWO
+Polski | Rosyjski | Angielski | Niemiecki
+
+108. Uwaga! | Внимание! | Attention! | Achtung!
+109. Ostrożnie! | Осторожно! | Careful! | Vorsicht!
+110. Niebezpieczeństwo! | Опасность! | Danger! | Gefahr!
+111. Natychmiast się zatrzymać! | Немедленно остановитесь! | Stop immediately! | Sofort anhalten!
+112. Nie ruszać! | Не двигаться! | Do not move! | Nicht bewegen!
+113. Nie jechać dalej! | Дальше не ехать! | Do not drive any further! | Nicht weiterfahren!
+114. Zachować odstęp! | Соблюдайте дистанцию! | Keep your distance! | Abstand halten!
+115. Wyłączyć silnik! | Выключите двигатель! | Turn off the engine! | Motor ausschalten!
+116. Wsiadać! | Садитесь! | Get in! | Einsteigen!
+117. Wysiadać! | Выходите! | Get out! | Aussteigen!
+118. Teren zamknięty. | Территория закрыта. | Area closed. | Der Bereich ist gesperrt.
+119. Nie wchodzić pod ładunek! | Не заходите под груз! | Do not go under the load! | Nicht unter die Last gehen!
+120. Czekać na mój znak! | Ждите моего сигнала! | Wait for my signal! | Warten Sie auf mein Zeichen!
+121. Nie podchodzić! | Не подходить! | Keep away! | Nicht näher kommen!
+122. Odsunąć się! | Отойдите! | Move back! | Zurücktreten!
+123. Nie dotykać! | Не трогать! | Do not touch! | Nicht berühren!
+124. Niebezpieczna strefa. | Опасная зона. | Danger zone. | Gefahrenbereich.
+
+PYTANIA I ODPOWIEDZI
+Polski | Rosyjski | Angielski | Niemiecki
+
+125. Gdzie mam jechać? | Куда мне ехать? | Where should I drive? | Wohin soll ich fahren?
+126. Gdzie mam się udać? | Куда мне направиться? | Where should I go? | Wohin soll ich gehen / fahren?
+127. Czy tak jest dobrze? | Так правильно? | Is this okay? | Ist das so richtig?
+128. Mam czekać? | Мне ждать? | Should I wait? | Soll ich warten?
+129. Gdzie odbywa się rozładunek? | Где происходит разгрузка? | Where does unloading take place? | Wo wird entladen?
+130. Gdzie odbywa się załadunek? | Где происходит погрузка? | Where does loading take place? | Wo wird geladen?
+131. Ile to potrwa? | Сколько это займёт? | How long will it take? | Wie lange dauert das?
+132. Skończyłem. | Я закончил. | I’m finished. | Ich bin fertig.
+133. Czekam tutaj. | Я жду здесь. | I’m waiting here. | Ich warte hier.
+134. Nie ma problemu. | Без проблем. | No problem. | Kein Problem.
+135. Czy rozumie Pan/Pani? | Вы понимаете? | Do you understand? | Verstehen Sie?
+136. Wszystko jasne? | Всё понятно? | Is everything clear? | Ist alles klar?
+137. Czy potrzebuje Pan/Pani pomocy? | Вам нужна помощь? | Do you need help? | Brauchen Sie Hilfe?
+138. Kto jest kierowcą? | Кто водитель? | Who is the driver? | Wer ist der Fahrer?
+139. Kto odpowiada za transport? | Кто отвечает за перевозку? | Who is responsible for the transport? | Wer ist für den Transport verantwortlich?
+
+BEZPIECZEŃSTWO
+Przy manewrach i pracy dźwigu stosujcie uzgodnione sygnały i komendy. Słownik służy nauce i nie zastępuje instrukcji bezpieczeństwa.
