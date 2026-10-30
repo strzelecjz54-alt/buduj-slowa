@@ -6,8 +6,7 @@ export const phrases = [
     "de": "Fahren Sie bitte!",
     "category": "20 najważniejszych",
     "id": 0,
-    "priority": true,
-    "phon": "Jieżżajtie, pażałujsta!"
+    "priority": true
   },
   {
     "pl": "Proszę jechać tam!",
@@ -16,8 +15,7 @@ export const phrases = [
     "de": "Fahren Sie bitte dorthin!",
     "category": "20 najważniejszych",
     "id": 1,
-    "priority": true,
-    "phon": "Jieżżajtie tuda!"
+    "priority": true
   },
   {
     "pl": "Proszę podjechać tutaj!",
@@ -26,8 +24,7 @@ export const phrases = [
     "de": "Fahren Sie bitte hierher!",
     "category": "20 najważniejszych",
     "id": 2,
-    "priority": true,
-    "phon": "Padjeżżajtie siuda, pażałujsta!"
+    "priority": true
   },
   {
     "pl": "Powoli!",
@@ -36,8 +33,7 @@ export const phrases = [
     "de": "Langsam!",
     "category": "20 najważniejszych",
     "id": 3,
-    "priority": true,
-    "phon": "Miedlienna!"
+    "priority": true
   },
   {
     "pl": "Bardzo powoli!",
@@ -46,8 +42,7 @@ export const phrases = [
     "de": "Ganz langsam!",
     "category": "20 najważniejszych",
     "id": 4,
-    "priority": true,
-    "phon": "Oczeń miedlienna!"
+    "priority": true
   },
   {
     "pl": "Stop!",
@@ -56,8 +51,7 @@ export const phrases = [
     "de": "Stopp!",
     "category": "20 najważniejszych",
     "id": 5,
-    "priority": true,
-    "phon": "Stop!"
+    "priority": true
   },
   {
     "pl": "Zatrzymać się!",
@@ -66,8 +60,7 @@ export const phrases = [
     "de": "Anhalten!",
     "category": "20 najważniejszych",
     "id": 6,
-    "priority": true,
-    "phon": "Astanawitieś!"
+    "priority": true
   },
   {
     "pl": "Do przodu!",
@@ -76,8 +69,7 @@ export const phrases = [
     "de": "Vorwärts!",
     "category": "20 najważniejszych",
     "id": 7,
-    "priority": true,
-    "phon": "Wpieriod!"
+    "priority": true
   },
   {
     "pl": "Do tyłu!",
@@ -86,8 +78,7 @@ export const phrases = [
     "de": "Zurück!",
     "category": "20 najważniejszych",
     "id": 8,
-    "priority": true,
-    "phon": "Nazat!"
+    "priority": true
   },
   {
     "pl": "W lewo!",
@@ -96,8 +87,7 @@ export const phrases = [
     "de": "Nach links!",
     "category": "20 najważniejszych",
     "id": 9,
-    "priority": true,
-    "phon": "Naliewa!"
+    "priority": true
   },
   {
     "pl": "W prawo!",
@@ -106,8 +96,7 @@ export const phrases = [
     "de": "Nach rechts!",
     "category": "20 najważniejszych",
     "id": 10,
-    "priority": true,
-    "phon": "Naprawa!"
+    "priority": true
   },
   {
     "pl": "Prosto!",
@@ -116,8 +105,7 @@ export const phrases = [
     "de": "Geradeaus!",
     "category": "20 najważniejszych",
     "id": 11,
-    "priority": true,
-    "phon": "Priama!"
+    "priority": true
   },
   {
     "pl": "Jeszcze kawałek!",
@@ -126,8 +114,7 @@ export const phrases = [
     "de": "Noch ein Stück!",
     "category": "20 najważniejszych",
     "id": 12,
-    "priority": true,
-    "phon": "Jeszczo niemnoga!"
+    "priority": true
   },
   {
     "pl": "Jeszcze trochę do przodu!",
@@ -136,8 +123,7 @@ export const phrases = [
     "de": "Noch ein bisschen nach vorne!",
     "category": "20 najważniejszych",
     "id": 13,
-    "priority": true,
-    "phon": "Jeszczo niemnoga wpieriod!"
+    "priority": true
   },
   {
     "pl": "Jeszcze trochę do tyłu!",
@@ -146,8 +132,7 @@ export const phrases = [
     "de": "Noch ein bisschen zurück!",
     "category": "20 najważniejszych",
     "id": 14,
-    "priority": true,
-    "phon": "Jeszczo niemnoga nazat!"
+    "priority": true
   },
   {
     "pl": "Proszę poczekać!",
@@ -156,8 +141,7 @@ export const phrases = [
     "de": "Warten Sie bitte!",
     "category": "20 najważniejszych",
     "id": 15,
-    "priority": true,
-    "phon": "Padażditie, pażałujsta!"
+    "priority": true
   },
   {
     "pl": "Tutaj!",
@@ -166,8 +150,7 @@ export const phrases = [
     "de": "Hier!",
     "category": "20 najważniejszych",
     "id": 16,
-    "priority": true,
-    "phon": "Zdieś!"
+    "priority": true
   },
   {
     "pl": "Tam!",
@@ -176,8 +159,7 @@ export const phrases = [
     "de": "Dort!",
     "category": "20 najważniejszych",
     "id": 17,
-    "priority": true,
-    "phon": "Tam!"
+    "priority": true
   },
   {
     "pl": "Obok dźwigu.",
@@ -186,8 +168,7 @@ export const phrases = [
     "de": "Neben dem Kran.",
     "category": "20 najważniejszych",
     "id": 18,
-    "priority": true,
-    "phon": "Riadam s kranam."
+    "priority": true
   },
   {
     "pl": "Proszę czekać na mój znak.",
@@ -196,8 +177,7 @@ export const phrases = [
     "de": "Warten Sie auf mein Zeichen.",
     "category": "20 najważniejszych",
     "id": 19,
-    "priority": true,
-    "phon": "Żditie majewo signała."
+    "priority": true
   },
   {
     "pl": "Jechać.",
@@ -206,8 +186,7 @@ export const phrases = [
     "de": "Fahren.",
     "category": "Kierowanie pojazdem",
     "id": 20,
-    "priority": false,
-    "phon": "Jiechat’."
+    "priority": false
   },
   {
     "pl": "Podjechać.",
@@ -216,8 +195,7 @@ export const phrases = [
     "de": "Heranfahren.",
     "category": "Kierowanie pojazdem",
     "id": 21,
-    "priority": false,
-    "phon": "Padjechat’."
+    "priority": false
   },
   {
     "pl": "Cofnąć.",
@@ -226,8 +204,7 @@ export const phrases = [
     "de": "Zurücksetzen.",
     "category": "Kierowanie pojazdem",
     "id": 22,
-    "priority": false,
-    "phon": "Zdat’ nazat."
+    "priority": false
   },
   {
     "pl": "Zatrzymać się.",
@@ -236,8 +213,7 @@ export const phrases = [
     "de": "Anhalten.",
     "category": "Kierowanie pojazdem",
     "id": 23,
-    "priority": false,
-    "phon": "Astanawit’sia."
+    "priority": false
   },
   {
     "pl": "Przyspieszyć.",
@@ -246,8 +222,7 @@ export const phrases = [
     "de": "Beschleunigen.",
     "category": "Kierowanie pojazdem",
     "id": 24,
-    "priority": false,
-    "phon": "Uskorit’sia."
+    "priority": false
   },
   {
     "pl": "Zwolnić.",
@@ -256,8 +231,7 @@ export const phrases = [
     "de": "Langsamer fahren.",
     "category": "Kierowanie pojazdem",
     "id": 25,
-    "priority": false,
-    "phon": "Zbawit’ skorast’."
+    "priority": false
   },
   {
     "pl": "Skręcić.",
@@ -266,8 +240,7 @@ export const phrases = [
     "de": "Abbiegen.",
     "category": "Kierowanie pojazdem",
     "id": 26,
-    "priority": false,
-    "phon": "Pawiernut’."
+    "priority": false
   },
   {
     "pl": "Jechać prosto.",
@@ -276,8 +249,7 @@ export const phrases = [
     "de": "Geradeaus fahren.",
     "category": "Kierowanie pojazdem",
     "id": 27,
-    "priority": false,
-    "phon": "Jiechat’ priama."
+    "priority": false
   },
   {
     "pl": "Jechać dalej.",
@@ -286,8 +258,7 @@ export const phrases = [
     "de": "Weiterfahren.",
     "category": "Kierowanie pojazdem",
     "id": 28,
-    "priority": false,
-    "phon": "Pradałżat’ dwiżenije."
+    "priority": false
   },
   {
     "pl": "Nie jechać dalej.",
@@ -296,8 +267,7 @@ export const phrases = [
     "de": "Nicht weiterfahren.",
     "category": "Kierowanie pojazdem",
     "id": 29,
-    "priority": false,
-    "phon": "Dalsze nie jiechat’."
+    "priority": false
   },
   {
     "pl": "Podjechać bliżej.",
@@ -306,8 +276,7 @@ export const phrases = [
     "de": "Näher heranfahren.",
     "category": "Kierowanie pojazdem",
     "id": 30,
-    "priority": false,
-    "phon": "Padjechat’ bliże."
+    "priority": false
   },
   {
     "pl": "Podjechać dalej.",
@@ -316,8 +285,7 @@ export const phrases = [
     "de": "Ein Stück weiterfahren.",
     "category": "Kierowanie pojazdem",
     "id": 31,
-    "priority": false,
-    "phon": "Prajechat’ niemnoga dalsze."
+    "priority": false
   },
   {
     "pl": "Jeszcze kawałek.",
@@ -326,8 +294,7 @@ export const phrases = [
     "de": "Noch ein Stück.",
     "category": "Kierowanie pojazdem",
     "id": 32,
-    "priority": false,
-    "phon": "Jeszczo niemnoga."
+    "priority": false
   },
   {
     "pl": "Jeszcze trochę do przodu.",
@@ -336,8 +303,7 @@ export const phrases = [
     "de": "Noch ein bisschen nach vorne.",
     "category": "Kierowanie pojazdem",
     "id": 33,
-    "priority": false,
-    "phon": "Jeszczo niemnoga wpieriod."
+    "priority": false
   },
   {
     "pl": "Jeszcze trochę do tyłu.",
@@ -346,8 +312,7 @@ export const phrases = [
     "de": "Noch ein bisschen zurück.",
     "category": "Kierowanie pojazdem",
     "id": 34,
-    "priority": false,
-    "phon": "Jeszczo niemnoga nazat."
+    "priority": false
   },
   {
     "pl": "Zatrzymać się tutaj.",
@@ -356,8 +321,7 @@ export const phrases = [
     "de": "Hier anhalten.",
     "category": "Kierowanie pojazdem",
     "id": 35,
-    "priority": false,
-    "phon": "Astanawit’sia zdieś."
+    "priority": false
   },
   {
     "pl": "Poczekać.",
@@ -366,8 +330,7 @@ export const phrases = [
     "de": "Warten.",
     "category": "Kierowanie pojazdem",
     "id": 36,
-    "priority": false,
-    "phon": "Padażdat’."
+    "priority": false
   },
   {
     "pl": "Zostać na miejscu.",
@@ -376,8 +339,7 @@ export const phrases = [
     "de": "Hier stehen bleiben.",
     "category": "Kierowanie pojazdem",
     "id": 37,
-    "priority": false,
-    "phon": "Astawat’sia na miestie."
+    "priority": false
   },
   {
     "pl": "Przestawić ciężarówkę.",
@@ -386,8 +348,7 @@ export const phrases = [
     "de": "Den LKW umstellen.",
     "category": "Kierowanie pojazdem",
     "id": 38,
-    "priority": false,
-    "phon": "Pieriestawit’ gruzawik."
+    "priority": false
   },
   {
     "pl": "Zaparkować.",
@@ -396,8 +357,7 @@ export const phrases = [
     "de": "Parken.",
     "category": "Kierowanie pojazdem",
     "id": 39,
-    "priority": false,
-    "phon": "Priparkawat’sia."
+    "priority": false
   },
   {
     "pl": "Lewo.",
@@ -406,8 +366,7 @@ export const phrases = [
     "de": "Links.",
     "category": "Kierunki i położenie",
     "id": 40,
-    "priority": false,
-    "phon": "Naliewa."
+    "priority": false
   },
   {
     "pl": "Prawo.",
@@ -416,8 +375,7 @@ export const phrases = [
     "de": "Rechts.",
     "category": "Kierunki i położenie",
     "id": 41,
-    "priority": false,
-    "phon": "Naprawa."
+    "priority": false
   },
   {
     "pl": "Prosto.",
@@ -426,8 +384,7 @@ export const phrases = [
     "de": "Geradeaus.",
     "category": "Kierunki i położenie",
     "id": 42,
-    "priority": false,
-    "phon": "Priama."
+    "priority": false
   },
   {
     "pl": "Przed.",
@@ -436,8 +393,7 @@ export const phrases = [
     "de": "Vor.",
     "category": "Kierunki i położenie",
     "id": 43,
-    "priority": false,
-    "phon": "Pieriet."
+    "priority": false
   },
   {
     "pl": "Za.",
@@ -446,8 +402,7 @@ export const phrases = [
     "de": "Hinter.",
     "category": "Kierunki i położenie",
     "id": 44,
-    "priority": false,
-    "phon": "Za."
+    "priority": false
   },
   {
     "pl": "Obok.",
@@ -456,8 +411,7 @@ export const phrases = [
     "de": "Neben.",
     "category": "Kierunki i położenie",
     "id": 45,
-    "priority": false,
-    "phon": "Riadam."
+    "priority": false
   },
   {
     "pl": "Pomiędzy.",
@@ -466,8 +420,7 @@ export const phrases = [
     "de": "Zwischen.",
     "category": "Kierunki i położenie",
     "id": 46,
-    "priority": false,
-    "phon": "Mieżdu."
+    "priority": false
   },
   {
     "pl": "Naprzeciwko.",
@@ -476,8 +429,7 @@ export const phrases = [
     "de": "Gegenüber.",
     "category": "Kierunki i położenie",
     "id": 47,
-    "priority": false,
-    "phon": "Naprotiw."
+    "priority": false
   },
   {
     "pl": "Z przodu.",
@@ -486,8 +438,7 @@ export const phrases = [
     "de": "Vorne.",
     "category": "Kierunki i położenie",
     "id": 48,
-    "priority": false,
-    "phon": "Spieriedi."
+    "priority": false
   },
   {
     "pl": "Z tyłu.",
@@ -496,8 +447,7 @@ export const phrases = [
     "de": "Hinten.",
     "category": "Kierunki i położenie",
     "id": 49,
-    "priority": false,
-    "phon": "Zzadi."
+    "priority": false
   },
   {
     "pl": "Na środku.",
@@ -506,8 +456,7 @@ export const phrases = [
     "de": "In der Mitte.",
     "category": "Kierunki i położenie",
     "id": 50,
-    "priority": false,
-    "phon": "Pasieriedinie."
+    "priority": false
   },
   {
     "pl": "Z boku.",
@@ -516,8 +465,7 @@ export const phrases = [
     "de": "Auf der Seite.",
     "category": "Kierunki i położenie",
     "id": 51,
-    "priority": false,
-    "phon": "Zboku."
+    "priority": false
   },
   {
     "pl": "Tutaj.",
@@ -526,8 +474,7 @@ export const phrases = [
     "de": "Hier.",
     "category": "Kierunki i położenie",
     "id": 52,
-    "priority": false,
-    "phon": "Zdieś."
+    "priority": false
   },
   {
     "pl": "Tam.",
@@ -536,8 +483,7 @@ export const phrases = [
     "de": "Dort.",
     "category": "Kierunki i położenie",
     "id": 53,
-    "priority": false,
-    "phon": "Tam."
+    "priority": false
   },
   {
     "pl": "Bliżej.",
@@ -546,8 +492,7 @@ export const phrases = [
     "de": "Näher.",
     "category": "Kierunki i położenie",
     "id": 54,
-    "priority": false,
-    "phon": "Bliże."
+    "priority": false
   },
   {
     "pl": "Dalej.",
@@ -556,8 +501,7 @@ export const phrases = [
     "de": "Weiter.",
     "category": "Kierunki i położenie",
     "id": 55,
-    "priority": false,
-    "phon": "Dalsze."
+    "priority": false
   },
   {
     "pl": "Na lewo od dźwigu.",
@@ -566,8 +510,7 @@ export const phrases = [
     "de": "Links vom Kran.",
     "category": "Kierunki i położenie",
     "id": 56,
-    "priority": false,
-    "phon": "Sliewa at krana."
+    "priority": false
   },
   {
     "pl": "Na prawo od dźwigu.",
@@ -576,8 +519,7 @@ export const phrases = [
     "de": "Rechts vom Kran.",
     "category": "Kierunki i położenie",
     "id": 57,
-    "priority": false,
-    "phon": "Sprawa at krana."
+    "priority": false
   },
   {
     "pl": "Przed dźwigiem.",
@@ -586,8 +528,7 @@ export const phrases = [
     "de": "Vor dem Kran.",
     "category": "Kierunki i położenie",
     "id": 58,
-    "priority": false,
-    "phon": "Pieriet kranam."
+    "priority": false
   },
   {
     "pl": "Za dźwigiem.",
@@ -596,8 +537,7 @@ export const phrases = [
     "de": "Hinter dem Kran.",
     "category": "Kierunki i położenie",
     "id": 59,
-    "priority": false,
-    "phon": "Za kranam."
+    "priority": false
   },
   {
     "pl": "Obok dźwigu.",
@@ -606,8 +546,7 @@ export const phrases = [
     "de": "Neben dem Kran.",
     "category": "Kierunki i położenie",
     "id": 60,
-    "priority": false,
-    "phon": "Riadam s kranam."
+    "priority": false
   },
   {
     "pl": "Przed ciężarówką.",
@@ -616,8 +555,7 @@ export const phrases = [
     "de": "Vor dem LKW.",
     "category": "Kierunki i położenie",
     "id": 61,
-    "priority": false,
-    "phon": "Pieriet gruzawikom."
+    "priority": false
   },
   {
     "pl": "Za ciężarówką.",
@@ -626,8 +564,7 @@ export const phrases = [
     "de": "Hinter dem LKW.",
     "category": "Kierunki i położenie",
     "id": 62,
-    "priority": false,
-    "phon": "Za gruzawikom."
+    "priority": false
   },
   {
     "pl": "Obok ciężarówki.",
@@ -636,8 +573,7 @@ export const phrases = [
     "de": "Neben dem LKW.",
     "category": "Kierunki i położenie",
     "id": 63,
-    "priority": false,
-    "phon": "Riadam s gruzawikom."
+    "priority": false
   },
   {
     "pl": "Ciężarówka.",
@@ -646,8 +582,7 @@ export const phrases = [
     "de": "Der LKW.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 64,
-    "priority": false,
-    "phon": "Gruzawik."
+    "priority": false
   },
   {
     "pl": "Kierowca.",
@@ -656,8 +591,7 @@ export const phrases = [
     "de": "Der Fahrer.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 65,
-    "priority": false,
-    "phon": "Waditiel’."
+    "priority": false
   },
   {
     "pl": "Dźwig.",
@@ -666,8 +600,7 @@ export const phrases = [
     "de": "Der Kran.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 66,
-    "priority": false,
-    "phon": "Kran."
+    "priority": false
   },
   {
     "pl": "Ładunek.",
@@ -676,8 +609,7 @@ export const phrases = [
     "de": "Die Ladung.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 67,
-    "priority": false,
-    "phon": "Grus."
+    "priority": false
   },
   {
     "pl": "Załadunek.",
@@ -686,8 +618,7 @@ export const phrases = [
     "de": "Die Beladung.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 68,
-    "priority": false,
-    "phon": "Pagruzka."
+    "priority": false
   },
   {
     "pl": "Rozładunek.",
@@ -696,8 +627,7 @@ export const phrases = [
     "de": "Die Entladung.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 69,
-    "priority": false,
-    "phon": "Razgruzka."
+    "priority": false
   },
   {
     "pl": "Załadować.",
@@ -706,8 +636,7 @@ export const phrases = [
     "de": "Aufladen / beladen.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 70,
-    "priority": false,
-    "phon": "Zagruzit’ / pagruzit’."
+    "priority": false
   },
   {
     "pl": "Rozładować.",
@@ -716,8 +645,7 @@ export const phrases = [
     "de": "Abladen / entladen.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 71,
-    "priority": false,
-    "phon": "Razgruzit’."
+    "priority": false
   },
   {
     "pl": "Dostawa.",
@@ -726,8 +654,7 @@ export const phrases = [
     "de": "Die Lieferung.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 72,
-    "priority": false,
-    "phon": "Dastafka."
+    "priority": false
   },
   {
     "pl": "Parking.",
@@ -736,8 +663,7 @@ export const phrases = [
     "de": "Der Parkplatz.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 73,
-    "priority": false,
-    "phon": "Stajanka / parkofka."
+    "priority": false
   },
   {
     "pl": "Plac budowy.",
@@ -746,8 +672,7 @@ export const phrases = [
     "de": "Die Baustelle.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 74,
-    "priority": false,
-    "phon": "Straitielnaja płaszczatka."
+    "priority": false
   },
   {
     "pl": "Wjazd.",
@@ -756,8 +681,7 @@ export const phrases = [
     "de": "Die Zufahrt.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 75,
-    "priority": false,
-    "phon": "Wjest."
+    "priority": false
   },
   {
     "pl": "Wyjazd.",
@@ -766,8 +690,7 @@ export const phrases = [
     "de": "Die Ausfahrt.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 76,
-    "priority": false,
-    "phon": "Wyjest."
+    "priority": false
   },
   {
     "pl": "Miejsce załadunku.",
@@ -776,8 +699,7 @@ export const phrases = [
     "de": "Der Ladeplatz.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 77,
-    "priority": false,
-    "phon": "Miesta pagruzki."
+    "priority": false
   },
   {
     "pl": "Miejsce rozładunku.",
@@ -786,8 +708,7 @@ export const phrases = [
     "de": "Der Entladeplatz.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 78,
-    "priority": false,
-    "phon": "Miesta razgruzki."
+    "priority": false
   },
   {
     "pl": "Tutaj załadunek.",
@@ -796,8 +717,7 @@ export const phrases = [
     "de": "Hier wird geladen.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 79,
-    "priority": false,
-    "phon": "Zdieś pagruzka."
+    "priority": false
   },
   {
     "pl": "Tutaj rozładunek.",
@@ -806,8 +726,7 @@ export const phrases = [
     "de": "Hier wird entladen.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 80,
-    "priority": false,
-    "phon": "Zdieś razgruzka."
+    "priority": false
   },
   {
     "pl": "Rozładować tutaj.",
@@ -816,8 +735,7 @@ export const phrases = [
     "de": "Hier abladen.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 81,
-    "priority": false,
-    "phon": "Razgruzit’ zdieś."
+    "priority": false
   },
   {
     "pl": "Załadować tam.",
@@ -826,8 +744,7 @@ export const phrases = [
     "de": "Dort aufladen.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 82,
-    "priority": false,
-    "phon": "Zagruzit’ tam."
+    "priority": false
   },
   {
     "pl": "Przestawić ciężarówkę tam.",
@@ -836,8 +753,7 @@ export const phrases = [
     "de": "Stellen Sie den LKW dorthin.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 83,
-    "priority": false,
-    "phon": "Pieriestawit’ gruzawik tuda."
+    "priority": false
   },
   {
     "pl": "Podjechać bliżej dźwigu.",
@@ -846,8 +762,7 @@ export const phrases = [
     "de": "Näher an den Kran heranfahren.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 84,
-    "priority": false,
-    "phon": "Padjechat’ bliże k kranu."
+    "priority": false
   },
   {
     "pl": "Ciężarówka musi odjechać.",
@@ -856,8 +771,7 @@ export const phrases = [
     "de": "Der LKW muss weg.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 85,
-    "priority": false,
-    "phon": "Gruzawik dołżen ujechat’."
+    "priority": false
   },
   {
     "pl": "Zostawić ciężarówkę tutaj.",
@@ -866,8 +780,7 @@ export const phrases = [
     "de": "Stellen Sie den LKW hier ab.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 86,
-    "priority": false,
-    "phon": "Astawit’ gruzawik zdieś."
+    "priority": false
   },
   {
     "pl": "Ładunek ma trafić tutaj.",
@@ -876,8 +789,7 @@ export const phrases = [
     "de": "Die Ladung muss hierher.",
     "category": "Ciężarówki, załadunek i rozładunek",
     "id": 87,
-    "priority": false,
-    "phon": "Grus nużna dastawit’ siuda."
+    "priority": false
   },
   {
     "pl": "Dzisiaj.",
@@ -886,8 +798,7 @@ export const phrases = [
     "de": "Heute.",
     "category": "Godziny i organizacja pracy",
     "id": 88,
-    "priority": false,
-    "phon": "Siewodnia."
+    "priority": false
   },
   {
     "pl": "Jutro.",
@@ -896,8 +807,7 @@ export const phrases = [
     "de": "Morgen.",
     "category": "Godziny i organizacja pracy",
     "id": 89,
-    "priority": false,
-    "phon": "Zaftra."
+    "priority": false
   },
   {
     "pl": "Teraz.",
@@ -906,8 +816,7 @@ export const phrases = [
     "de": "Jetzt.",
     "category": "Godziny i organizacja pracy",
     "id": 90,
-    "priority": false,
-    "phon": "Siejczas."
+    "priority": false
   },
   {
     "pl": "Zaraz.",
@@ -916,8 +825,7 @@ export const phrases = [
     "de": "Gleich.",
     "category": "Godziny i organizacja pracy",
     "id": 91,
-    "priority": false,
-    "phon": "Skora / siejczas."
+    "priority": false
   },
   {
     "pl": "Później.",
@@ -926,8 +834,7 @@ export const phrases = [
     "de": "Später.",
     "category": "Godziny i organizacja pracy",
     "id": 92,
-    "priority": false,
-    "phon": "Pożże."
+    "priority": false
   },
   {
     "pl": "Wcześniej.",
@@ -936,8 +843,7 @@ export const phrases = [
     "de": "Früher.",
     "category": "Godziny i organizacja pracy",
     "id": 93,
-    "priority": false,
-    "phon": "Rańsze."
+    "priority": false
   },
   {
     "pl": "Za godzinę.",
@@ -946,8 +852,7 @@ export const phrases = [
     "de": "In einer Stunde.",
     "category": "Godziny i organizacja pracy",
     "id": 94,
-    "priority": false,
-    "phon": "Czieries czas."
+    "priority": false
   },
   {
     "pl": "O tej godzinie.",
@@ -956,8 +861,7 @@ export const phrases = [
     "de": "Um diese Uhrzeit.",
     "category": "Godziny i organizacja pracy",
     "id": 95,
-    "priority": false,
-    "phon": "W eta wriemia."
+    "priority": false
   },
   {
     "pl": "O ósmej.",
@@ -966,8 +870,7 @@ export const phrases = [
     "de": "Um acht Uhr.",
     "category": "Godziny i organizacja pracy",
     "id": 96,
-    "priority": false,
-    "phon": "W wosiem’ czasof."
+    "priority": false
   },
   {
     "pl": "O dziesiątej.",
@@ -976,8 +879,7 @@ export const phrases = [
     "de": "Um zehn Uhr.",
     "category": "Godziny i organizacja pracy",
     "id": 97,
-    "priority": false,
-    "phon": "W diesiat’ czasof."
+    "priority": false
   },
   {
     "pl": "Kiedy?",
@@ -986,8 +888,7 @@ export const phrases = [
     "de": "Wann?",
     "category": "Godziny i organizacja pracy",
     "id": 98,
-    "priority": false,
-    "phon": "Kagda?"
+    "priority": false
   },
   {
     "pl": "Jak długo?",
@@ -996,8 +897,7 @@ export const phrases = [
     "de": "Wie lange?",
     "category": "Godziny i organizacja pracy",
     "id": 99,
-    "priority": false,
-    "phon": "Kak dołga?"
+    "priority": false
   },
   {
     "pl": "Punktualnie.",
@@ -1006,8 +906,7 @@ export const phrases = [
     "de": "Pünktlich.",
     "category": "Godziny i organizacja pracy",
     "id": 100,
-    "priority": false,
-    "phon": "Toczna pa wriemieni."
+    "priority": false
   },
   {
     "pl": "Za późno.",
@@ -1016,8 +915,7 @@ export const phrases = [
     "de": "Zu spät.",
     "category": "Godziny i organizacja pracy",
     "id": 101,
-    "priority": false,
-    "phon": "Sliszkom pozna."
+    "priority": false
   },
   {
     "pl": "Dostawa przyjeżdża o ósmej.",
@@ -1026,8 +924,7 @@ export const phrases = [
     "de": "Die Lieferung kommt um acht Uhr.",
     "category": "Godziny i organizacja pracy",
     "id": 102,
-    "priority": false,
-    "phon": "Dastafka prijediet w wosiem’."
+    "priority": false
   },
   {
     "pl": "Zaczynamy o siódmej.",
@@ -1036,8 +933,7 @@ export const phrases = [
     "de": "Wir beginnen um sieben Uhr.",
     "category": "Godziny i organizacja pracy",
     "id": 103,
-    "priority": false,
-    "phon": "My naczynajem f siem’."
+    "priority": false
   },
   {
     "pl": "Rozładunek zaczyna się o dziesiątej.",
@@ -1046,8 +942,7 @@ export const phrases = [
     "de": "Die Entladung beginnt um zehn Uhr.",
     "category": "Godziny i organizacja pracy",
     "id": 104,
-    "priority": false,
-    "phon": "Razgruzka naczynajetsia w diesiat’."
+    "priority": false
   },
   {
     "pl": "Proszę przyjechać jutro.",
@@ -1056,8 +951,7 @@ export const phrases = [
     "de": "Kommen Sie bitte morgen.",
     "category": "Godziny i organizacja pracy",
     "id": 105,
-    "priority": false,
-    "phon": "Prijeżżajtie, pażałujsta, zaftra."
+    "priority": false
   },
   {
     "pl": "Nie teraz, później.",
@@ -1066,8 +960,7 @@ export const phrases = [
     "de": "Nicht jetzt, später.",
     "category": "Godziny i organizacja pracy",
     "id": 106,
-    "priority": false,
-    "phon": "Nie siejczas, pożże."
+    "priority": false
   },
   {
     "pl": "Uwaga!",
@@ -1076,8 +969,7 @@ export const phrases = [
     "de": "Achtung!",
     "category": "Bezpieczeństwo",
     "id": 107,
-    "priority": false,
-    "phon": "Wnimanije!"
+    "priority": false
   },
   {
     "pl": "Ostrożnie!",
@@ -1086,8 +978,7 @@ export const phrases = [
     "de": "Vorsicht!",
     "category": "Bezpieczeństwo",
     "id": 108,
-    "priority": false,
-    "phon": "Astarożna!"
+    "priority": false
   },
   {
     "pl": "Niebezpieczeństwo!",
@@ -1096,8 +987,7 @@ export const phrases = [
     "de": "Gefahr!",
     "category": "Bezpieczeństwo",
     "id": 109,
-    "priority": false,
-    "phon": "Apasnast’!"
+    "priority": false
   },
   {
     "pl": "Natychmiast się zatrzymać!",
@@ -1106,8 +996,7 @@ export const phrases = [
     "de": "Sofort anhalten!",
     "category": "Bezpieczeństwo",
     "id": 110,
-    "priority": false,
-    "phon": "Niemiedlienna astanawitieś!"
+    "priority": false
   },
   {
     "pl": "Nie ruszać!",
@@ -1116,8 +1005,7 @@ export const phrases = [
     "de": "Nicht bewegen!",
     "category": "Bezpieczeństwo",
     "id": 111,
-    "priority": false,
-    "phon": "Nie dwigat’sia!"
+    "priority": false
   },
   {
     "pl": "Nie jechać dalej!",
@@ -1126,8 +1014,7 @@ export const phrases = [
     "de": "Nicht weiterfahren!",
     "category": "Bezpieczeństwo",
     "id": 112,
-    "priority": false,
-    "phon": "Dalsze nie jiechat’!"
+    "priority": false
   },
   {
     "pl": "Zachować odstęp!",
@@ -1136,8 +1023,7 @@ export const phrases = [
     "de": "Abstand halten!",
     "category": "Bezpieczeństwo",
     "id": 113,
-    "priority": false,
-    "phon": "Sabliudajtie distancyju!"
+    "priority": false
   },
   {
     "pl": "Wyłączyć silnik!",
@@ -1146,8 +1032,7 @@ export const phrases = [
     "de": "Motor ausschalten!",
     "category": "Bezpieczeństwo",
     "id": 114,
-    "priority": false,
-    "phon": "Wykluczytie dwigatiel’!"
+    "priority": false
   },
   {
     "pl": "Wsiadać!",
@@ -1156,8 +1041,7 @@ export const phrases = [
     "de": "Einsteigen!",
     "category": "Bezpieczeństwo",
     "id": 115,
-    "priority": false,
-    "phon": "Saditieś!"
+    "priority": false
   },
   {
     "pl": "Wysiadać!",
@@ -1166,8 +1050,7 @@ export const phrases = [
     "de": "Aussteigen!",
     "category": "Bezpieczeństwo",
     "id": 116,
-    "priority": false,
-    "phon": "Wychaditie!"
+    "priority": false
   },
   {
     "pl": "Teren zamknięty.",
@@ -1176,8 +1059,7 @@ export const phrases = [
     "de": "Der Bereich ist gesperrt.",
     "category": "Bezpieczeństwo",
     "id": 117,
-    "priority": false,
-    "phon": "Tierritorija zakryta."
+    "priority": false
   },
   {
     "pl": "Nie wchodzić pod ładunek!",
@@ -1186,8 +1068,7 @@ export const phrases = [
     "de": "Nicht unter die Last gehen!",
     "category": "Bezpieczeństwo",
     "id": 118,
-    "priority": false,
-    "phon": "Nie zachaditie pad grus!"
+    "priority": false
   },
   {
     "pl": "Czekać na mój znak!",
@@ -1196,8 +1077,7 @@ export const phrases = [
     "de": "Warten Sie auf mein Zeichen!",
     "category": "Bezpieczeństwo",
     "id": 119,
-    "priority": false,
-    "phon": "Żditie majewo signała!"
+    "priority": false
   },
   {
     "pl": "Nie podchodzić!",
@@ -1206,8 +1086,7 @@ export const phrases = [
     "de": "Nicht näher kommen!",
     "category": "Bezpieczeństwo",
     "id": 120,
-    "priority": false,
-    "phon": "Nie padchadit’!"
+    "priority": false
   },
   {
     "pl": "Odsunąć się!",
@@ -1216,8 +1095,7 @@ export const phrases = [
     "de": "Zurücktreten!",
     "category": "Bezpieczeństwo",
     "id": 121,
-    "priority": false,
-    "phon": "Atajditie!"
+    "priority": false
   },
   {
     "pl": "Nie dotykać!",
@@ -1226,8 +1104,7 @@ export const phrases = [
     "de": "Nicht berühren!",
     "category": "Bezpieczeństwo",
     "id": 122,
-    "priority": false,
-    "phon": "Nie trogat’!"
+    "priority": false
   },
   {
     "pl": "Niebezpieczna strefa.",
@@ -1236,8 +1113,7 @@ export const phrases = [
     "de": "Gefahrenbereich.",
     "category": "Bezpieczeństwo",
     "id": 123,
-    "priority": false,
-    "phon": "Apasnaja zona."
+    "priority": false
   },
   {
     "pl": "Gdzie mam jechać?",
@@ -1246,8 +1122,7 @@ export const phrases = [
     "de": "Wohin soll ich fahren?",
     "category": "Pytania i odpowiedzi",
     "id": 124,
-    "priority": false,
-    "phon": "Kuda mnie jiechat’?"
+    "priority": false
   },
   {
     "pl": "Gdzie mam się udać?",
@@ -1256,8 +1131,7 @@ export const phrases = [
     "de": "Wohin soll ich gehen / fahren?",
     "category": "Pytania i odpowiedzi",
     "id": 125,
-    "priority": false,
-    "phon": "Kuda mnie naprawit’sia?"
+    "priority": false
   },
   {
     "pl": "Czy tak jest dobrze?",
@@ -1266,8 +1140,7 @@ export const phrases = [
     "de": "Ist das so richtig?",
     "category": "Pytania i odpowiedzi",
     "id": 126,
-    "priority": false,
-    "phon": "Tak prawilna?"
+    "priority": false
   },
   {
     "pl": "Mam czekać?",
@@ -1276,8 +1149,7 @@ export const phrases = [
     "de": "Soll ich warten?",
     "category": "Pytania i odpowiedzi",
     "id": 127,
-    "priority": false,
-    "phon": "Mnie żdat’?"
+    "priority": false
   },
   {
     "pl": "Gdzie odbywa się rozładunek?",
@@ -1286,8 +1158,7 @@ export const phrases = [
     "de": "Wo wird entladen?",
     "category": "Pytania i odpowiedzi",
     "id": 128,
-    "priority": false,
-    "phon": "Gdie razgrużat’sia?"
+    "priority": false
   },
   {
     "pl": "Gdzie odbywa się załadunek?",
@@ -1296,8 +1167,7 @@ export const phrases = [
     "de": "Wo wird geladen?",
     "category": "Pytania i odpowiedzi",
     "id": 129,
-    "priority": false,
-    "phon": "Gdie zagrużat’sia?"
+    "priority": false
   },
   {
     "pl": "Ile to potrwa?",
@@ -1306,8 +1176,7 @@ export const phrases = [
     "de": "Wie lange dauert das?",
     "category": "Pytania i odpowiedzi",
     "id": 130,
-    "priority": false,
-    "phon": "Skolka eta zajmiot?"
+    "priority": false
   },
   {
     "pl": "Skończyłem.",
@@ -1316,8 +1185,7 @@ export const phrases = [
     "de": "Ich bin fertig.",
     "category": "Pytania i odpowiedzi",
     "id": 131,
-    "priority": false,
-    "phon": "Ja zakoncził."
+    "priority": false
   },
   {
     "pl": "Czekam tutaj.",
@@ -1326,8 +1194,7 @@ export const phrases = [
     "de": "Ich warte hier.",
     "category": "Pytania i odpowiedzi",
     "id": 132,
-    "priority": false,
-    "phon": "Ja żdu zdieś."
+    "priority": false
   },
   {
     "pl": "Nie ma problemu.",
@@ -1336,8 +1203,7 @@ export const phrases = [
     "de": "Kein Problem.",
     "category": "Pytania i odpowiedzi",
     "id": 133,
-    "priority": false,
-    "phon": "Biez prabliem."
+    "priority": false
   },
   {
     "pl": "Rozumiesz?",
@@ -1346,8 +1212,7 @@ export const phrases = [
     "de": "Verstehen Sie?",
     "category": "Pytania i odpowiedzi",
     "id": 134,
-    "priority": false,
-    "phon": "Wy panimajetie?"
+    "priority": false
   },
   {
     "pl": "Wszystko jasne?",
@@ -1356,8 +1221,7 @@ export const phrases = [
     "de": "Ist alles klar?",
     "category": "Pytania i odpowiedzi",
     "id": 135,
-    "priority": false,
-    "phon": "Fsio paniatna?"
+    "priority": false
   },
   {
     "pl": "Potrzebujesz pomocy?",
@@ -1366,8 +1230,7 @@ export const phrases = [
     "de": "Brauchen Sie Hilfe?",
     "category": "Pytania i odpowiedzi",
     "id": 136,
-    "priority": false,
-    "phon": "Wam nużna pomoszcz’?"
+    "priority": false
   },
   {
     "pl": "Kto jest kierowcą?",
@@ -1376,8 +1239,7 @@ export const phrases = [
     "de": "Wer ist der Fahrer?",
     "category": "Pytania i odpowiedzi",
     "id": 137,
-    "priority": false,
-    "phon": "Kto waditiel’?"
+    "priority": false
   },
   {
     "pl": "Kto odpowiada za transport?",
@@ -1386,7 +1248,6 @@ export const phrases = [
     "de": "Wer ist für den Transport verantwortlich?",
     "category": "Pytania i odpowiedzi",
     "id": 138,
-    "priority": false,
-    "phon": "Kto atwieczajet za pieriewosku?"
+    "priority": false
   }
 ];

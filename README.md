@@ -5,14 +5,16 @@ Prosta aplikacja na telefon do nauki zwrotów z placu budowy. Osobne tryby: rosy
 ## Co już działa
 
 - Pierwsze 20 najważniejszych zwrotów z dostarczonej listy w 4 lekcjach po 5 zwrotów.
-- Karty do nauki, quizy, punkty XP i powtórki błędnych odpowiedzi.
+- Karty do nauki, quizy, punkty XP i „Poprawka” błędnych odpowiedzi.
 - Po „Dalej” na karcie nauki automatycznie odczytywany jest nowy zwrot. W quizie odczytywana jest wybrana odpowiedź w języku nauki, również błędna. Błędny wybór znika, a pytanie trwa aż do trafienia poprawnej odpowiedzi. Nie jest ona ujawniana wcześniej. Zwrot z pomyłką zostaje do powtórki mimo późniejszej poprawy; przycisk „Posłuchaj” przy wyniku odczytuje poprawne tłumaczenie. Nowe pytanie quizu nie zdradza odpowiedzi odsłuchem.
 - Krótkie dźwięki poprawnej i błędnej odpowiedzi, czytelne potwierdzenie z tłumaczeniem i panel „Głośność” u góry z osobnymi suwakami wymowy i sygnałów odpowiedzi oraz wyciszeniem sygnałów. Poziomy głośności i wyciszenie są zapamiętywane; nie wyłącza odsłuchu wymowy. Sygnały są generowane lokalnie, również offline.
 - Słownik wszystkich 139 zwrotów z wyszukiwaniem, kategoriami i ćwiczeniem pojedynczego zwrotu.
-- Uproszczony zapis rosyjskiej wymowy polskimi literami. Jest pomocniczy; nie oddaje dokładnie akcentu i wszystkich dźwięków.
 - Odsłuch przez głosy systemowe telefonu. Gdy lista głosów jest niepełna, aplikacja prosi system o wybór głosu dla żądanego języka. Ostrzeżenie pojawia się przy błędzie odtwarzania; przerwanie wcześniejszego odsłuchu nie wyświetla błędu. Dostępność i działanie bez internetu zależą od telefonu.
 - Zapis postępów osobno dla języków w pamięci przeglądarki; bez konta i synchronizacji.
 - Instalacja na ekranie głównym i tryb offline po pierwszym pełnym otwarciu przez HTTPS.
+
+- Punkty za rozwiązanie pytania: 10 XP bez pomyłki, 7 XP po jednej, 4 XP po dwóch, 1 XP po trzech. Błędne kliknięcia nie dodają punktów; stare wyniki pozostają bez zmian.
+- „Powtórka”: sam quiz z 10 losowych nauczonych zwrotów w wybranym języku (co najmniej jedna poprawna odpowiedź w historii). Przy mniejszej puli zwroty powtarzają się do 10 pytań, z informacją przed startem.
 
 ## Jak uruchomić na swoim telefonie po raz pierwszy
 
@@ -45,4 +47,4 @@ Zmieniając pliki aplikacji, zwiększ wersję `CACHE` w `sw.js` oraz parametr we
 
 ## Materiał i bezpieczeństwo
 
-Tłumaczenia pochodzą z dostarczonego pliku `slownictwo_plac_budowy_RU_EN_DE.txt`. Zachowano ich brzmienie, w tym grzecznościowe formy rosyjskie. Dodatkowo przygotowano przybliżoną wymowę rosyjską. Przed użyciem komend w pracy zweryfikuj je z osobą znającą język. Przy manewrach i pracy dźwigu stosuj ustalone sygnały i komendy; aplikacja służy nauce.
+Tłumaczenia pochodzą z dostarczonego pliku `slownictwo_plac_budowy_RU_EN_DE.txt`. Zachowano ich brzmienie, w tym grzecznościowe formy rosyjskie. Rosyjski zapis fonetyczny został usunięty; do nauki wymowy służy odsłuch. Przed użyciem komend w pracy zweryfikuj je z osobą znającą język. Przy manewrach i pracy dźwigu stosuj ustalone sygnały i komendy; aplikacja służy nauce.
