@@ -6,7 +6,7 @@ Prosta aplikacja na telefon do nauki zwrotów z placu budowy. Osobne tryby: rosy
 
 - Pierwsze 20 najważniejszych zwrotów z dostarczonej listy w 4 lekcjach po 5 zwrotów.
 - Karty do nauki, quizy, punkty XP i powtórki błędnych odpowiedzi.
-- Po „Dalej” na karcie nauki automatycznie odczytywany jest nowy zwrot. W quizie odczytywana jest wybrana odpowiedź w języku nauki, również błędna, a po jej zakończeniu prawidłowe tłumaczenie; przycisk „Posłuchaj” przy wyniku odczytuje poprawne tłumaczenie. Nowe pytanie quizu nie zdradza odpowiedzi odsłuchem.
+- Po „Dalej” na karcie nauki automatycznie odczytywany jest nowy zwrot. W quizie odczytywana jest wybrana odpowiedź w języku nauki, również błędna. Błędny wybór znika, a pytanie trwa aż do trafienia poprawnej odpowiedzi. Nie jest ona ujawniana wcześniej. Zwrot z pomyłką zostaje do powtórki mimo późniejszej poprawy; przycisk „Posłuchaj” przy wyniku odczytuje poprawne tłumaczenie. Nowe pytanie quizu nie zdradza odpowiedzi odsłuchem.
 - Krótkie dźwięki poprawnej i błędnej odpowiedzi, czytelne potwierdzenie z tłumaczeniem i panel „Głośność” u góry z osobnymi suwakami wymowy i sygnałów odpowiedzi oraz wyciszeniem sygnałów. Poziomy głośności i wyciszenie są zapamiętywane; nie wyłącza odsłuchu wymowy. Sygnały są generowane lokalnie, również offline.
 - Słownik wszystkich 139 zwrotów z wyszukiwaniem, kategoriami i ćwiczeniem pojedynczego zwrotu.
 - Uproszczony zapis rosyjskiej wymowy polskimi literami. Jest pomocniczy; nie oddaje dokładnie akcentu i wszystkich dźwięków.
